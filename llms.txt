@@ -1,0 +1,42 @@
+# The Molecule Price Gap
+
+A molecule-level ledger of US vs Canadian drug prices, built from open data.
+Independent open-source project by Richardson Dackam. Not affiliated with the
+US Centers for Medicare & Medicaid Services, the Patented Medicine Prices
+Review Board, or any government. MIT licensed.
+
+## Question it answers
+
+What does one molecule cost in the US vs Canada?
+
+## Data
+
+- US side: CMS Medicare Part D Spending by Drug, 2024 release (3,625 unique
+  drugs in the Overall rows). US amounts are gross of confidential manufacturer
+  rebates, so they overstate net US prices by an unknown share. Every price
+  comparison in this project carries that caveat.
+- Canadian side: Ontario Drug Benefit e-formulary, lowest Drug Benefit Price
+  per unit across matched formulary rows (the price Ontario's public plan
+  pays pharmacies), converted to USD at the 2024 Bank of Canada average rate.
+  PMPRB publishes no machine-readable molecule-level price file, which is
+  why the formulary is the Canadian source.
+- Identity: generic names normalized to molecules, resolved to RxNorm
+  ingredient RxCUI, ATC codes from RxNorm properties.
+- Build scripts in scripts/. Raw CMS CSV is not committed; the pipeline
+  downloads it from data.cms.gov and caches RxNorm results in
+  data/rxnorm_cache.json.
+
+## Use it
+
+- Web: explorer (search by molecule, brand, ATC), findings, charts.
+- REST: /api/v1/summary, /api/v1/molecules/search?q=, /api/v1/molecules/{key},
+  /api/v1/gaps/ranking, /api/v1/atc. Spec at /api/openapi.json.
+- MCP (POST /mcp, streamable HTTP): molecule_lookup, price_gap_ranking,
+  atc_breakdown.
+- CSV: /data/molecule-ledger.csv
+
+## Rules the build follows
+
+- No em dashes anywhere. No unnecessary semicolons in copy.
+- Every sentence carries a number, a mechanism, or a reason.
+- Never write "not demos" / "not a demo". Never declare a mission "for good".

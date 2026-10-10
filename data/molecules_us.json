@@ -1,0 +1,7712 @@
+{
+ "source": "CMS Medicare Part D Spending by Drug 2024 (DSD_PTD_RY26_P04_V10_DY24_BGM.csv)",
+ "vintage": "2024, published 2026-06-25",
+ "note": "US amounts are gross of confidential manufacturer rebates; they overstate net price by an unknown share.",
+ "molecules": [
+  {
+   "molecule": "apixaban",
+   "brand_examples": [
+    "Eliquis"
+   ],
+   "spend_2024": 20774929225.0,
+   "units_2024": 2156238529,
+   "benes_2024": 4424796,
+   "rxcui": "1364430",
+   "atc": "B01AF02",
+   "rxnorm_name": "apixaban",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 9.6348
+  },
+  {
+   "molecule": "semaglutide",
+   "brand_examples": [
+    "Ozempic",
+    "Rybelsus",
+    "Wegovy"
+   ],
+   "spend_2024": 15161661664.4,
+   "units_2024": 104634608,
+   "benes_2024": 2315591,
+   "rxcui": "1991302",
+   "atc": "A10BJ06",
+   "rxnorm_name": "semaglutide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 144.901
+  },
+  {
+   "molecule": "empagliflozin",
+   "brand_examples": [
+    "Jardiance"
+   ],
+   "spend_2024": 11435997421.0,
+   "units_2024": 604181682,
+   "benes_2024": 2543331,
+   "rxcui": "1545653",
+   "atc": "A10BK03",
+   "rxnorm_name": "empagliflozin",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 18.9281
+  },
+  {
+   "molecule": "lenalidomide",
+   "brand_examples": [
+    "Lenalidomide",
+    "Revlimid"
+   ],
+   "spend_2024": 6820366286.1,
+   "units_2024": 8914893,
+   "benes_2024": 69222,
+   "rxcui": "342369",
+   "atc": "L04AX04",
+   "rxnorm_name": "lenalidomide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 765.0531
+  },
+  {
+   "molecule": "tirzepatide",
+   "brand_examples": [
+    "Mounjaro",
+    "Zepbound"
+   ],
+   "spend_2024": 6337329984.15,
+   "units_2024": 12386141,
+   "benes_2024": 894826,
+   "rxcui": "2601723",
+   "atc": "A10BX16",
+   "rxnorm_name": "tirzepatide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 511.6469
+  },
+  {
+   "molecule": "rivaroxaban",
+   "brand_examples": [
+    "Xarelto"
+   ],
+   "spend_2024": 6232231839.7,
+   "units_2024": 360337521,
+   "benes_2024": 1321019,
+   "rxcui": "1114195",
+   "atc": "B01AF01",
+   "rxnorm_name": "rivaroxaban",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 17.2955
+  },
+  {
+   "molecule": "adalimumab",
+   "brand_examples": [
+    "Humira",
+    "Humira Pen",
+    "Humira(Cf)",
+    "Humira(Cf) Pen",
+    "Humira(Cf) Pen Crohn'S-Uc-Hs",
+    "Humira(Cf) Pen Psor-Uv-Adol Hs"
+   ],
+   "spend_2024": 5715863099.68,
+   "units_2024": 1630312,
+   "benes_2024": 90349,
+   "rxcui": "327361",
+   "atc": "L04AB04",
+   "rxnorm_name": "adalimumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 3505.994
+  },
+  {
+   "molecule": "dapagliflozin propanediol",
+   "brand_examples": [
+    "Dapagliflozin",
+    "Farxiga"
+   ],
+   "spend_2024": 5492482710.54,
+   "units_2024": 301297661,
+   "benes_2024": 1492285,
+   "rxcui": "1486966",
+   "atc": null,
+   "rxnorm_name": "dapagliflozin propanediol",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 18.2294
+  },
+  {
+   "molecule": "dulaglutide",
+   "brand_examples": [
+    "Trulicity"
+   ],
+   "spend_2024": 5454134725.1,
+   "units_2024": 11660568,
+   "benes_2024": 788716,
+   "rxcui": "1551291",
+   "atc": "A10BJ05",
+   "rxnorm_name": "dulaglutide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 467.7418
+  },
+  {
+   "molecule": "fluticasone + umeclidin + vilanter",
+   "brand_examples": [
+    "Trelegy Ellipta"
+   ],
+   "spend_2024": 5294401776.8,
+   "units_2024": 503324684,
+   "benes_2024": 1268914,
+   "rxcui": "1945038",
+   "atc": null,
+   "rxnorm_name": "fluticasone + umeclidin + vilanter",
+   "search_name": "fluticasone / umeclidinium / vilanterol",
+   "avg_cost_per_unit_usd": 10.5189
+  },
+  {
+   "molecule": "sacubitril + valsartan",
+   "brand_examples": [
+    "Entresto",
+    "Entresto Sprinkle"
+   ],
+   "spend_2024": 4020466403.9,
+   "units_2024": 364179144,
+   "benes_2024": 795388,
+   "rxcui": "1656339",
+   "atc": "C09DX04",
+   "rxnorm_name": "sacubitril + valsartan",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 11.0398
+  },
+  {
+   "molecule": "sitagliptin phosphate",
+   "brand_examples": [
+    "Januvia"
+   ],
+   "spend_2024": 3807854661.8,
+   "units_2024": 211984298,
+   "benes_2024": 828288,
+   "rxcui": "621590",
+   "atc": null,
+   "rxnorm_name": "sitagliptin phosphate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 17.9629
+  },
+  {
+   "molecule": "bictegrav + emtricit + tenofov ala",
+   "brand_examples": [
+    "Biktarvy"
+   ],
+   "spend_2024": 3456061331.1,
+   "units_2024": 26315903,
+   "benes_2024": 92246,
+   "rxcui": "1996259",
+   "atc": "J05AR20",
+   "rxnorm_name": "bictegrav + emtricit + tenofov ala",
+   "search_name": "bictegravir / emtricitabine / tenofovir alafenamide",
+   "avg_cost_per_unit_usd": 131.3298
+  },
+  {
+   "molecule": "enzalutamide",
+   "brand_examples": [
+    "Xtandi"
+   ],
+   "spend_2024": 3400769228.6,
+   "units_2024": 24915219,
+   "benes_2024": 35367,
+   "rxcui": "1307298",
+   "atc": "L02BB04",
+   "rxnorm_name": "enzalutamide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 136.4937
+  },
+  {
+   "molecule": "ustekinumab",
+   "brand_examples": [
+    "Stelara*"
+   ],
+   "spend_2024": 3378017374.1,
+   "units_2024": 245388,
+   "benes_2024": 24754,
+   "rxcui": "847083",
+   "atc": "L04AC05",
+   "rxnorm_name": "ustekinumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 13766.0532
+  },
+  {
+   "molecule": "etanercept",
+   "brand_examples": [
+    "Enbrel",
+    "Enbrel Mini",
+    "Enbrel Sureclick"
+   ],
+   "spend_2024": 3225567875.91,
+   "units_2024": 1772952,
+   "benes_2024": 53261,
+   "rxcui": "214555",
+   "atc": "L04AB01",
+   "rxnorm_name": "etanercept",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1819.3202
+  },
+  {
+   "molecule": "tafamidis",
+   "brand_examples": [
+    "Vyndamax"
+   ],
+   "spend_2024": 2830811857.1,
+   "units_2024": 3805207,
+   "benes_2024": 13925,
+   "rxcui": "1545063",
+   "atc": "N07XX08",
+   "rxnorm_name": "tafamidis",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 743.9311
+  },
+  {
+   "molecule": "insulin glargine,hum.rec.anlog",
+   "brand_examples": [
+    "Basaglar Kwikpen U-100",
+    "Basaglar Tempo Pen U-100",
+    "Insulin Glargine",
+    "Insulin Glargine Max Solostar",
+    "Insulin Glargine Solostar",
+    "Lantus",
+    "Lantus Solostar",
+    "Toujeo Max Solostar",
+    "Toujeo Solostar"
+   ],
+   "spend_2024": 2625111991.08,
+   "units_2024": 181912063,
+   "benes_2024": 2472076,
+   "rxcui": "274783",
+   "atc": "A10AE04",
+   "rxnorm_name": "insulin glargine,hum.rec.anlog",
+   "search_name": "insulin glargine",
+   "avg_cost_per_unit_usd": 14.4307
+  },
+  {
+   "molecule": "paliperidone palmitate",
+   "brand_examples": [
+    "Invega Hafyera",
+    "Invega Sustenna",
+    "Invega Trinza"
+   ],
+   "spend_2024": 2537386110.92,
+   "units_2024": 962234,
+   "benes_2024": 94710,
+   "rxcui": "858045",
+   "atc": null,
+   "rxnorm_name": "paliperidone palmitate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 2636.9753
+  },
+  {
+   "molecule": "dupilumab",
+   "brand_examples": [
+    "Dupixent Pen",
+    "Dupixent Syringe"
+   ],
+   "spend_2024": 2491772008.05,
+   "units_2024": 2622337,
+   "benes_2024": 88374,
+   "rxcui": "1876376",
+   "atc": "D11AH05",
+   "rxnorm_name": "dupilumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 950.2105
+  },
+  {
+   "molecule": "risankizumab-rzaa",
+   "brand_examples": [
+    "Skyrizi On-Body",
+    "Skyrizi Pen",
+    "Skyrizi*"
+   ],
+   "spend_2024": 2487464760.24,
+   "units_2024": 179669,
+   "benes_2024": 37457,
+   "rxcui": "2166132",
+   "atc": null,
+   "rxnorm_name": "risankizumab-rzaa",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 13844.7384
+  },
+  {
+   "molecule": "mirabegron",
+   "brand_examples": [
+    "Mirabegron ER",
+    "Myrbetriq"
+   ],
+   "spend_2024": 2431374764.33,
+   "units_2024": 166998171,
+   "benes_2024": 881635,
+   "rxcui": "1300786",
+   "atc": "G04BD12",
+   "rxnorm_name": "mirabegron",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 14.5593
+  },
+  {
+   "molecule": "ibrutinib",
+   "brand_examples": [
+    "Imbruvica"
+   ],
+   "spend_2024": 2266252031.7,
+   "units_2024": 5501472,
+   "benes_2024": 15351,
+   "rxcui": "1442981",
+   "atc": "L01EL01",
+   "rxnorm_name": "ibrutinib",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 411.9356
+  },
+  {
+   "molecule": "ruxolitinib phosphate",
+   "brand_examples": [
+    "Jakafi",
+    "Opzelura"
+   ],
+   "spend_2024": 2188644366.34,
+   "units_2024": 10555645,
+   "benes_2024": 34859,
+   "rxcui": "1193325",
+   "atc": null,
+   "rxnorm_name": "ruxolitinib phosphate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 207.3435
+  },
+  {
+   "molecule": "pomalidomide",
+   "brand_examples": [
+    "Pomalyst"
+   ],
+   "spend_2024": 2150231814.6,
+   "units_2024": 1964117,
+   "benes_2024": 14325,
+   "rxcui": "1369713",
+   "atc": "L04AX06",
+   "rxnorm_name": "pomalidomide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1094.7575
+  },
+  {
+   "molecule": "lipase + protease + amylase",
+   "brand_examples": [
+    "Creon",
+    "Pancreaze",
+    "Pertzye",
+    "Viokace",
+    "Zenpep"
+   ],
+   "spend_2024": 2112590035.83,
+   "units_2024": 222611321,
+   "benes_2024": 247072,
+   "rxcui": "392491",
+   "atc": null,
+   "rxnorm_name": "lipase + protease + amylase",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 9.49
+  },
+  {
+   "molecule": "nintedanib esylate",
+   "brand_examples": [
+    "Ofev"
+   ],
+   "spend_2024": 2086398978.9,
+   "units_2024": 9639091,
+   "benes_2024": 23929,
+   "rxcui": "1592736",
+   "atc": null,
+   "rxnorm_name": "nintedanib esylate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 216.4518
+  },
+  {
+   "molecule": "palbociclib",
+   "brand_examples": [
+    "Ibrance"
+   ],
+   "spend_2024": 2035022061.3,
+   "units_2024": 2734327,
+   "benes_2024": 15923,
+   "rxcui": "1601374",
+   "atc": "L01EF01",
+   "rxnorm_name": "palbociclib",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 744.2497
+  },
+  {
+   "molecule": "linaclotide",
+   "brand_examples": [
+    "Linzess"
+   ],
+   "spend_2024": 1981958629.2,
+   "units_2024": 112066899,
+   "benes_2024": 632063,
+   "rxcui": "1307404",
+   "atc": "A06AX04",
+   "rxnorm_name": "linaclotide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 17.6855
+  },
+  {
+   "molecule": "valbenazine tosylate",
+   "brand_examples": [
+    "Ingrezza",
+    "Ingrezza Initiation Pk(Tardiv)",
+    "Ingrezza Sprinkle"
+   ],
+   "spend_2024": 1966082675.83,
+   "units_2024": 7200963,
+   "benes_2024": 33064,
+   "rxcui": "1923002",
+   "atc": null,
+   "rxnorm_name": "valbenazine tosylate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 273.0305
+  },
+  {
+   "molecule": "evolocumab",
+   "brand_examples": [
+    "Repatha Pushtronex",
+    "Repatha Sureclick",
+    "Repatha Syringe"
+   ],
+   "spend_2024": 1962120377.24,
+   "units_2024": 7403439,
+   "benes_2024": 459932,
+   "rxcui": "1665684",
+   "atc": "C10AX13",
+   "rxnorm_name": "evolocumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 265.0282
+  },
+  {
+   "molecule": "insulin degludec",
+   "brand_examples": [
+    "Insulin Degludec",
+    "Insulin Degludec Pen (U-100)",
+    "Insulin Degludec Pen (U-200)",
+    "Tresiba",
+    "Tresiba Flextouch U-100",
+    "Tresiba Flextouch U-200"
+   ],
+   "spend_2024": 1851907113.28,
+   "units_2024": 43229042,
+   "benes_2024": 622443,
+   "rxcui": "1670007",
+   "atc": "A10AE06",
+   "rxnorm_name": "insulin degludec",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 42.8394
+  },
+  {
+   "molecule": "cyclosporine",
+   "brand_examples": [
+    "Cequa",
+    "Cyclosporine*",
+    "Restasis",
+    "Restasis Multidose",
+    "Sandimmune*",
+    "Verkazia",
+    "Vevye"
+   ],
+   "spend_2024": 1749681664.82,
+   "units_2024": 205928165,
+   "benes_2024": 816975,
+   "rxcui": "3008",
+   "atc": "L04AD01",
+   "rxnorm_name": "cyclosporine",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 8.4966
+  },
+  {
+   "molecule": "zanubrutinib",
+   "brand_examples": [
+    "Brukinsa"
+   ],
+   "spend_2024": 1724363413.8,
+   "units_2024": 14214858,
+   "benes_2024": 18031,
+   "rxcui": "2262435",
+   "atc": "L01EL03",
+   "rxnorm_name": "zanubrutinib",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 121.3071
+  },
+  {
+   "molecule": "acalabrutinib maleate",
+   "brand_examples": [
+    "Calquence"
+   ],
+   "spend_2024": 1701974920.8,
+   "units_2024": 6844352,
+   "benes_2024": 15056,
+   "rxcui": "1986808",
+   "atc": "L01EL02",
+   "rxnorm_name": "acalabrutinib maleate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 248.6685
+  },
+  {
+   "molecule": "deutetrabenazine",
+   "brand_examples": [
+    "Austedo",
+    "Austedo XR",
+    "Austedo XR Titration Kt(Wk1-4)"
+   ],
+   "spend_2024": 1674822920.09,
+   "units_2024": 12855746,
+   "benes_2024": 31190,
+   "rxcui": "1876905",
+   "atc": "N07XX16",
+   "rxnorm_name": "deutetrabenazine",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 130.2782
+  },
+  {
+   "molecule": "osimertinib mesylate",
+   "brand_examples": [
+    "Tagrisso"
+   ],
+   "spend_2024": 1627109177.4,
+   "units_2024": 2940042,
+   "benes_2024": 12370,
+   "rxcui": "1721559",
+   "atc": null,
+   "rxnorm_name": "osimertinib mesylate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 553.4306
+  },
+  {
+   "molecule": "secukinumab",
+   "brand_examples": [
+    "Cosentyx",
+    "Cosentyx (2 Syringes)",
+    "Cosentyx Sensoready (2 Pens)",
+    "Cosentyx Sensoready Pen",
+    "Cosentyx Syringe",
+    "Cosentyx Unoready Pen"
+   ],
+   "spend_2024": 1562575147.71,
+   "units_2024": 397533,
+   "benes_2024": 27644,
+   "rxcui": "1599788",
+   "atc": "L04AC10",
+   "rxnorm_name": "secukinumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 3930.6803
+  },
+  {
+   "molecule": "tiotropium bromide",
+   "brand_examples": [
+    "Spiriva Handihaler",
+    "Spiriva Respimat",
+    "Tiotropium Bromide"
+   ],
+   "spend_2024": 1460510350.92,
+   "units_2024": 44745001,
+   "benes_2024": 551079,
+   "rxcui": "393575",
+   "atc": "R03BB04",
+   "rxnorm_name": "tiotropium bromide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 32.6407
+  },
+  {
+   "molecule": "fluticasone + vilanterol",
+   "brand_examples": [
+    "Breo Ellipta",
+    "Fluticasone-Vilanterol"
+   ],
+   "spend_2024": 1427586472.25,
+   "units_2024": 221284904,
+   "benes_2024": 704534,
+   "rxcui": "1424888",
+   "atc": null,
+   "rxnorm_name": "fluticasone + vilanterol",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 6.4514
+  },
+  {
+   "molecule": "apalutamide",
+   "brand_examples": [
+    "Erleada"
+   ],
+   "spend_2024": 1386301873.3,
+   "units_2024": 8737751,
+   "benes_2024": 13253,
+   "rxcui": "1999574",
+   "atc": "L02BB05",
+   "rxnorm_name": "apalutamide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 158.6566
+  },
+  {
+   "molecule": "upadacitinib",
+   "brand_examples": [
+    "Rinvoq",
+    "Rinvoq Lq"
+   ],
+   "spend_2024": 1385938732.73,
+   "units_2024": 6382625,
+   "benes_2024": 29077,
+   "rxcui": "2196092",
+   "atc": "L04AF03",
+   "rxnorm_name": "upadacitinib",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 217.1424
+  },
+  {
+   "molecule": "macitentan",
+   "brand_examples": [
+    "Opsumit"
+   ],
+   "spend_2024": 1231721758.3,
+   "units_2024": 2930637,
+   "benes_2024": 10962,
+   "rxcui": "1442132",
+   "atc": "C02KX04",
+   "rxnorm_name": "macitentan",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 420.2915
+  },
+  {
+   "molecule": "cabozantinib s-malate",
+   "brand_examples": [
+    "Cabometyx",
+    "Cometriq"
+   ],
+   "spend_2024": 1220068427.92,
+   "units_2024": 1485860,
+   "benes_2024": 9223,
+   "rxcui": "1363267",
+   "atc": null,
+   "rxnorm_name": "cabozantinib s-malate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 821.1194
+  },
+  {
+   "molecule": "rifaximin",
+   "brand_examples": [
+    "Xifaxan"
+   ],
+   "spend_2024": 1158111408.6,
+   "units_2024": 21359910,
+   "benes_2024": 104805,
+   "rxcui": "35619",
+   "atc": "A07AA11",
+   "rxnorm_name": "rifaximin",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 54.2189
+  },
+  {
+   "molecule": "cariprazine hcl",
+   "brand_examples": [
+    "Vraylar"
+   ],
+   "spend_2024": 1135973310.0,
+   "units_2024": 23309776,
+   "benes_2024": 117573,
+   "rxcui": "1721073",
+   "atc": null,
+   "rxnorm_name": "cariprazine hcl",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 48.7338
+  },
+  {
+   "molecule": "budesonide + glycopyr + formoterol",
+   "brand_examples": [
+    "Breztri Aerosphere"
+   ],
+   "spend_2024": 1130105761.4,
+   "units_2024": 19474953,
+   "benes_2024": 367055,
+   "rxcui": "2387330",
+   "atc": null,
+   "rxnorm_name": "budesonide + glycopyr + formoterol",
+   "search_name": "budesonide / glycopyrronium / formoterol",
+   "avg_cost_per_unit_usd": 58.0287
+  },
+  {
+   "molecule": "linagliptin",
+   "brand_examples": [
+    "Tradjenta"
+   ],
+   "spend_2024": 1127598446.4,
+   "units_2024": 68079768,
+   "benes_2024": 274523,
+   "rxcui": "1100699",
+   "atc": "A10BH05",
+   "rxnorm_name": "linagliptin",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 16.5629
+  },
+  {
+   "molecule": "sitagliptin phos + metformin hcl",
+   "brand_examples": [
+    "Janumet",
+    "Janumet XR"
+   ],
+   "spend_2024": 1067148178.2,
+   "units_2024": 111132564,
+   "benes_2024": 245251,
+   "rxcui": "729717",
+   "atc": "A10BD07",
+   "rxnorm_name": "sitagliptin phos + metformin hcl",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 9.6025
+  },
+  {
+   "molecule": "abemaciclib",
+   "brand_examples": [
+    "Verzenio"
+   ],
+   "spend_2024": 1056757309.4,
+   "units_2024": 3935934,
+   "benes_2024": 11239,
+   "rxcui": "1946825",
+   "atc": "L01EF03",
+   "rxnorm_name": "abemaciclib",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 268.4896
+  },
+  {
+   "molecule": "apremilast",
+   "brand_examples": [
+    "Otezla"
+   ],
+   "spend_2024": 1045029750.9,
+   "units_2024": 12955039,
+   "benes_2024": 31045,
+   "rxcui": "1492727",
+   "atc": "L04AA32",
+   "rxnorm_name": "apremilast",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 80.6659
+  },
+  {
+   "molecule": "fluticasone propion + salmeterol",
+   "brand_examples": [
+    "Advair Diskus",
+    "Advair HFA",
+    "Airduo Digihaler",
+    "Airduo Respiclick",
+    "Fluticasone-Salmeterol",
+    "Fluticasone-Salmeterol HFA",
+    "Wixela Inhub"
+   ],
+   "spend_2024": 1030328458.18,
+   "units_2024": 371931693,
+   "benes_2024": 1580431,
+   "rxcui": "284635",
+   "atc": "R03AK06",
+   "rxnorm_name": "fluticasone propion + salmeterol",
+   "search_name": "fluticasone propionate / salmeterol",
+   "avg_cost_per_unit_usd": 2.7702
+  },
+  {
+   "molecule": "darolutamide",
+   "brand_examples": [
+    "Nubeqa"
+   ],
+   "spend_2024": 998066130.12,
+   "units_2024": 9044450,
+   "benes_2024": 11577,
+   "rxcui": "2180325",
+   "atc": "L02BB06",
+   "rxnorm_name": "darolutamide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 110.3512
+  },
+  {
+   "molecule": "aripiprazole",
+   "brand_examples": [
+    "Abilify",
+    "Abilify Asimtufii",
+    "Abilify Maintena",
+    "Abilify Mycite",
+    "Aripiprazole",
+    "Aripiprazole ODT"
+   ],
+   "spend_2024": 967982256.16,
+   "units_2024": 160539016,
+   "benes_2024": 684239,
+   "rxcui": "89013",
+   "atc": "N05AX12",
+   "rxnorm_name": "aripiprazole",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 6.0296
+  },
+  {
+   "molecule": "budesonide + formoterol fumarate",
+   "brand_examples": [
+    "Breyna",
+    "Budesonide-Formoterol Fumarate",
+    "Symbicort"
+   ],
+   "spend_2024": 961862517.73,
+   "units_2024": 50460562,
+   "benes_2024": 1199019,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 19.0617
+  },
+  {
+   "molecule": "venetoclax",
+   "brand_examples": [
+    "Venclexta",
+    "Venclexta Starting Pack"
+   ],
+   "spend_2024": 955961159.3,
+   "units_2024": 7957902,
+   "benes_2024": 26257,
+   "rxcui": "1747556",
+   "atc": "L01XX52",
+   "rxnorm_name": "venetoclax",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 120.1273
+  },
+  {
+   "molecule": "vibegron",
+   "brand_examples": [
+    "Gemtesa"
+   ],
+   "spend_2024": 945088935.3,
+   "units_2024": 59519609,
+   "benes_2024": 320270,
+   "rxcui": "2472254",
+   "atc": "G04BD15",
+   "rxnorm_name": "vibegron",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 15.8786
+  },
+  {
+   "molecule": "selexipag",
+   "brand_examples": [
+    "Uptravi*"
+   ],
+   "spend_2024": 908772074.01,
+   "units_2024": 2738853,
+   "benes_2024": 4320,
+   "rxcui": "1729002",
+   "atc": "B01AC27",
+   "rxnorm_name": "selexipag",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 331.8075
+  },
+  {
+   "molecule": "insulin lispro",
+   "brand_examples": [
+    "Admelog",
+    "Admelog Solostar",
+    "Humalog",
+    "Humalog Junior Kwikpen",
+    "Humalog Kwikpen U-100",
+    "Humalog Kwikpen U-200",
+    "Humalog Tempo Pen U-100",
+    "Insulin Lispro",
+    "Insulin Lispro Junior Kwikpen",
+    "Insulin Lispro Kwikpen U-100"
+   ],
+   "spend_2024": 881396678.75,
+   "units_2024": 79544069,
+   "benes_2024": 1110451,
+   "rxcui": "86009",
+   "atc": "A10AB04",
+   "rxnorm_name": "insulin lispro",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 11.0806
+  },
+  {
+   "molecule": "lenvatinib mesylate",
+   "brand_examples": [
+    "Lenvima"
+   ],
+   "spend_2024": 875642918.93,
+   "units_2024": 2086188,
+   "benes_2024": 8450,
+   "rxcui": "1604346",
+   "atc": null,
+   "rxnorm_name": "lenvatinib mesylate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 419.7335
+  },
+  {
+   "molecule": "icosapent ethyl",
+   "brand_examples": [
+    "Icosapent Ethyl",
+    "Vascepa"
+   ],
+   "spend_2024": 867547245.39,
+   "units_2024": 353732030,
+   "benes_2024": 478163,
+   "rxcui": "1304974",
+   "atc": null,
+   "rxnorm_name": "icosapent ethyl",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 2.4526
+  },
+  {
+   "molecule": "sofosbuvir + velpatasvir",
+   "brand_examples": [
+    "Epclusa",
+    "Sofosbuvir-Velpatasvir"
+   ],
+   "spend_2024": 866576061.82,
+   "units_2024": 1279952,
+   "benes_2024": 17886,
+   "rxcui": "1799211",
+   "atc": "J05AP55",
+   "rxnorm_name": "sofosbuvir + velpatasvir",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 677.0379
+  },
+  {
+   "molecule": "tofacitinib citrate",
+   "brand_examples": [
+    "Xeljanz",
+    "Xeljanz XR"
+   ],
+   "spend_2024": 863632682.63,
+   "units_2024": 6020629,
+   "benes_2024": 19269,
+   "rxcui": "1358492",
+   "atc": null,
+   "rxnorm_name": "tofacitinib citrate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 143.4456
+  },
+  {
+   "molecule": "brexpiprazole",
+   "brand_examples": [
+    "Rexulti"
+   ],
+   "spend_2024": 861392149.79,
+   "units_2024": 17379109,
+   "benes_2024": 94695,
+   "rxcui": "1658314",
+   "atc": "N05AX16",
+   "rxnorm_name": "brexpiprazole",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 49.5648
+  },
+  {
+   "molecule": "levothyroxine sodium",
+   "brand_examples": [
+    "Ermeza",
+    "Euthyrox",
+    "Levo-T",
+    "Levothyroxine Sodium*",
+    "Levoxyl",
+    "Synthroid",
+    "Thyquidity",
+    "Tirosint",
+    "Tirosint-Sol",
+    "Unithroid"
+   ],
+   "spend_2024": 842684081.24,
+   "units_2024": 3319775775,
+   "benes_2024": 10236905,
+   "rxcui": "40144",
+   "atc": "H03AA01",
+   "rxnorm_name": "levothyroxine sodium",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.2538
+  },
+  {
+   "molecule": "denosumab",
+   "brand_examples": [
+    "Prolia",
+    "Xgeva"
+   ],
+   "spend_2024": 827665924.3,
+   "units_2024": 481167,
+   "benes_2024": 288460,
+   "rxcui": "993449",
+   "atc": "M05BX04",
+   "rxnorm_name": "denosumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1720.1214
+  },
+  {
+   "molecule": "umeclidinium brm + vilanterol tr",
+   "brand_examples": [
+    "Anoro Ellipta"
+   ],
+   "spend_2024": 819257997.62,
+   "units_2024": 108063283,
+   "benes_2024": 291195,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 7.5813
+  },
+  {
+   "molecule": "immune globul g + gly + iga avg 46",
+   "brand_examples": [
+    "Gammaked",
+    "Gamunex-C"
+   ],
+   "spend_2024": 790822380.19,
+   "units_2024": 53995586,
+   "benes_2024": 6996,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 14.6461
+  },
+  {
+   "molecule": "atorvastatin calcium",
+   "brand_examples": [
+    "Atorvaliq",
+    "Atorvastatin Calcium",
+    "Lipitor"
+   ],
+   "spend_2024": 784217807.95,
+   "units_2024": 5319132586,
+   "benes_2024": 17838516,
+   "rxcui": "83366",
+   "atc": null,
+   "rxnorm_name": "atorvastatin calcium",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.1474
+  },
+  {
+   "molecule": "varicella-zoster ge + as01b + pf",
+   "brand_examples": [
+    "Shingrix"
+   ],
+   "spend_2024": 775597084.17,
+   "units_2024": 3945846,
+   "benes_2024": 2933003,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 196.5604
+  },
+  {
+   "molecule": "ribociclib succinate",
+   "brand_examples": [
+    "Kisqali"
+   ],
+   "spend_2024": 775493707.49,
+   "units_2024": 2674696,
+   "benes_2024": 8782,
+   "rxcui": "1873978",
+   "atc": null,
+   "rxnorm_name": "ribociclib succinate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 289.9371
+  },
+  {
+   "molecule": "rsvpref3 antigen + as01e + pf",
+   "brand_examples": [
+    "Arexvy"
+   ],
+   "spend_2024": 774198317.54,
+   "units_2024": 2835314,
+   "benes_2024": 2820344,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 273.0555
+  },
+  {
+   "molecule": "abatacept",
+   "brand_examples": [
+    "Orencia",
+    "Orencia Clickject"
+   ],
+   "spend_2024": 754104202.24,
+   "units_2024": 535879,
+   "benes_2024": 17660,
+   "rxcui": "614391",
+   "atc": "L04AA24",
+   "rxnorm_name": "abatacept",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1407.2275
+  },
+  {
+   "molecule": "treprostinil",
+   "brand_examples": [
+    "Tyvaso Dpi"
+   ],
+   "spend_2024": 728752454.61,
+   "units_2024": 3841209,
+   "benes_2024": 4385,
+   "rxcui": "343048",
+   "atc": "B01AC21",
+   "rxnorm_name": "treprostinil",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 189.7196
+  },
+  {
+   "molecule": "elexacaftor + tezacaftor + ivacaft",
+   "brand_examples": [
+    "Trikafta"
+   ],
+   "spend_2024": 724709204.3,
+   "units_2024": 2350678,
+   "benes_2024": 2732,
+   "rxcui": "2257010",
+   "atc": "R07AX32",
+   "rxnorm_name": "elexacaftor + tezacaftor + ivacaft",
+   "search_name": "elexacaftor / tezacaftor / ivacaftor",
+   "avg_cost_per_unit_usd": 308.2979
+  },
+  {
+   "molecule": "albuterol sulfate",
+   "brand_examples": [
+    "Albuterol Sulfate HFA",
+    "Albuterol Sulfate*",
+    "Proair Digihaler",
+    "Proair HFA",
+    "Proair Respiclick",
+    "Proventil HFA",
+    "Ventolin HFA"
+   ],
+   "spend_2024": 720370133.38,
+   "units_2024": 327681842,
+   "benes_2024": 7709981,
+   "rxcui": "142153",
+   "atc": null,
+   "rxnorm_name": "albuterol sulfate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 2.1984
+  },
+  {
+   "molecule": "abiraterone acetate",
+   "brand_examples": [
+    "Abiraterone Acetate",
+    "Zytiga"
+   ],
+   "spend_2024": 714945234.65,
+   "units_2024": 40141784,
+   "benes_2024": 55589,
+   "rxcui": "1100071",
+   "atc": null,
+   "rxnorm_name": "abiraterone acetate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 17.8105
+  },
+  {
+   "molecule": "cenegermin-bkbj",
+   "brand_examples": [
+    "Oxervate"
+   ],
+   "spend_2024": 714549320.33,
+   "units_2024": 355186,
+   "benes_2024": 4781,
+   "rxcui": "2104331",
+   "atc": null,
+   "rxnorm_name": "cenegermin-bkbj",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 2011.7609
+  },
+  {
+   "molecule": "ixekizumab",
+   "brand_examples": [
+    "Taltz Autoinjector",
+    "Taltz Autoinjector (2 Pack)",
+    "Taltz Autoinjector (3 Pack)",
+    "Taltz Syringe"
+   ],
+   "spend_2024": 698182157.22,
+   "units_2024": 103745,
+   "benes_2024": 14382,
+   "rxcui": "1745099",
+   "atc": "L04AC13",
+   "rxnorm_name": "ixekizumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 6729.787
+  },
+  {
+   "molecule": "riociguat",
+   "brand_examples": [
+    "Adempas"
+   ],
+   "spend_2024": 694246753.36,
+   "units_2024": 4501236,
+   "benes_2024": 5553,
+   "rxcui": "1439816",
+   "atc": "C02KX05",
+   "rxnorm_name": "riociguat",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 154.2347
+  },
+  {
+   "molecule": "immun glob g(igg) + pro + iga 0-50",
+   "brand_examples": [
+    "Hizentra",
+    "Privigen"
+   ],
+   "spend_2024": 690806601.69,
+   "units_2024": 33289353,
+   "benes_2024": 5783,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 20.7516
+  },
+  {
+   "molecule": "ticagrelor",
+   "brand_examples": [
+    "Brilinta"
+   ],
+   "spend_2024": 685497436.89,
+   "units_2024": 94428457,
+   "benes_2024": 242931,
+   "rxcui": "1116632",
+   "atc": "B01AC24",
+   "rxnorm_name": "ticagrelor",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 7.2594
+  },
+  {
+   "molecule": "eltrombopag olamine",
+   "brand_examples": [
+    "Promacta"
+   ],
+   "spend_2024": 672379160.6,
+   "units_2024": 1608219,
+   "benes_2024": 6666,
+   "rxcui": "735651",
+   "atc": null,
+   "rxnorm_name": "eltrombopag olamine",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 418.0893
+  },
+  {
+   "molecule": "pimavanserin tartrate",
+   "brand_examples": [
+    "Nuplazid"
+   ],
+   "spend_2024": 657826492.55,
+   "units_2024": 3972906,
+   "benes_2024": 17122,
+   "rxcui": "1791686",
+   "atc": null,
+   "rxnorm_name": "pimavanserin tartrate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 165.5781
+  },
+  {
+   "molecule": "bimatoprost",
+   "brand_examples": [
+    "Bimatoprost*",
+    "Durysta",
+    "Lumigan"
+   ],
+   "spend_2024": 655739802.46,
+   "units_2024": 7065183,
+   "benes_2024": 357398,
+   "rxcui": "283810",
+   "atc": "S01EE03",
+   "rxnorm_name": "bimatoprost",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 92.8129
+  },
+  {
+   "molecule": "dolutegravir sodium",
+   "brand_examples": [
+    "Tivicay",
+    "Tivicay Pd"
+   ],
+   "spend_2024": 629438608.16,
+   "units_2024": 8468982,
+   "benes_2024": 29205,
+   "rxcui": "1433867",
+   "atc": null,
+   "rxnorm_name": "dolutegravir sodium",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 74.3228
+  },
+  {
+   "molecule": "immun glob g(igg) + gly + iga ov50",
+   "brand_examples": [
+    "Bivigam",
+    "Cuvitru",
+    "Gammagard Liquid"
+   ],
+   "spend_2024": 629276747.26,
+   "units_2024": 36719566,
+   "benes_2024": 5219,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 17.1374
+  },
+  {
+   "molecule": "rimegepant sulfate",
+   "brand_examples": [
+    "Nurtec ODT"
+   ],
+   "spend_2024": 625230826.2,
+   "units_2024": 5051627,
+   "benes_2024": 105323,
+   "rxcui": "2282322",
+   "atc": null,
+   "rxnorm_name": "rimegepant sulfate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 123.7682
+  },
+  {
+   "molecule": "guselkumab",
+   "brand_examples": [
+    "Tremfya Pen",
+    "Tremfya*"
+   ],
+   "spend_2024": 619021085.8,
+   "units_2024": 48255,
+   "benes_2024": 10860,
+   "rxcui": "1928588",
+   "atc": "L04AC16",
+   "rxnorm_name": "guselkumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 12828.1232
+  },
+  {
+   "molecule": "olaparib",
+   "brand_examples": [
+    "Lynparza"
+   ],
+   "spend_2024": 593929897.65,
+   "units_2024": 4358924,
+   "benes_2024": 7016,
+   "rxcui": "1597582",
+   "atc": "L01XK01",
+   "rxnorm_name": "olaparib",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 136.2561
+  },
+  {
+   "molecule": "ofatumumab",
+   "brand_examples": [
+    "Kesimpta Pen"
+   ],
+   "spend_2024": 582607939.91,
+   "units_2024": 26860,
+   "benes_2024": 7188,
+   "rxcui": "712566",
+   "atc": "L01FA02",
+   "rxnorm_name": "ofatumumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 21690.3798
+  },
+  {
+   "molecule": "gabapentin",
+   "brand_examples": [
+    "Gabapentin",
+    "Gabapentin ER",
+    "Gralise",
+    "Neurontin"
+   ],
+   "spend_2024": 579085199.59,
+   "units_2024": 4608583907,
+   "benes_2024": 7968946,
+   "rxcui": "25480",
+   "atc": "N02BF01",
+   "rxnorm_name": "gabapentin",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.1257
+  },
+  {
+   "molecule": "dasatinib",
+   "brand_examples": [
+    "Dasatinib",
+    "Sprycel"
+   ],
+   "spend_2024": 568525607.84,
+   "units_2024": 1381481,
+   "benes_2024": 7778,
+   "rxcui": "475342",
+   "atc": "L01EA02",
+   "rxnorm_name": "dasatinib",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 411.5334
+  },
+  {
+   "molecule": "abacavir + dolutegravir + lamivudi",
+   "brand_examples": [
+    "Triumeq"
+   ],
+   "spend_2024": 565891468.38,
+   "units_2024": 4579883,
+   "benes_2024": 16151,
+   "rxcui": "1546887",
+   "atc": "J05AR13",
+   "rxnorm_name": "abacavir + dolutegravir + lamivudi",
+   "search_name": "abacavir / dolutegravir / lamivudine",
+   "avg_cost_per_unit_usd": 123.5602
+  },
+  {
+   "molecule": "elviteg + cob + emtri + tenof alafen",
+   "brand_examples": [
+    "Genvoya"
+   ],
+   "spend_2024": 552006675.06,
+   "units_2024": 4186557,
+   "benes_2024": 14573,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 131.8522
+  },
+  {
+   "molecule": "emtricitabine + tenofov alafenam",
+   "brand_examples": [
+    "Descovy"
+   ],
+   "spend_2024": 544696049.72,
+   "units_2024": 7545087,
+   "benes_2024": 30179,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 72.1921
+  },
+  {
+   "molecule": "dolutegravir sodium + lamivudine",
+   "brand_examples": [
+    "Dovato"
+   ],
+   "spend_2024": 541076552.5,
+   "units_2024": 5493209,
+   "benes_2024": 19337,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 98.4992
+  },
+  {
+   "molecule": "corticotropin",
+   "brand_examples": [
+    "Acthar",
+    "Acthar Selfject",
+    "Cortrophin"
+   ],
+   "spend_2024": 522348438.8,
+   "units_2024": 63926,
+   "benes_2024": 1631,
+   "rxcui": "376",
+   "atc": "H01AA01",
+   "rxnorm_name": "corticotropin",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 8171.1422
+  },
+  {
+   "molecule": "lifitegrast",
+   "brand_examples": [
+    "Xiidra"
+   ],
+   "spend_2024": 505334180.32,
+   "units_2024": 45167796,
+   "benes_2024": 166361,
+   "rxcui": "1801820",
+   "atc": "S01XA25",
+   "rxnorm_name": "lifitegrast",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 11.1879
+  },
+  {
+   "molecule": "empagliflozin + metformin hcl",
+   "brand_examples": [
+    "Synjardy",
+    "Synjardy XR"
+   ],
+   "spend_2024": 500981707.37,
+   "units_2024": 44482800,
+   "benes_2024": 113201,
+   "rxcui": "1664314",
+   "atc": "A10BD20",
+   "rxnorm_name": "empagliflozin + metformin hcl",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 11.2624
+  },
+  {
+   "molecule": "relugolix",
+   "brand_examples": [
+    "Orgovyx"
+   ],
+   "spend_2024": 484308516.16,
+   "units_2024": 5564114,
+   "benes_2024": 28521,
+   "rxcui": "2472778",
+   "atc": "L02BX04",
+   "rxnorm_name": "relugolix",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 87.0414
+  },
+  {
+   "molecule": "teriparatide",
+   "brand_examples": [
+    "Forteo",
+    "Teriparatide"
+   ],
+   "spend_2024": 478973724.03,
+   "units_2024": 390495,
+   "benes_2024": 27264,
+   "rxcui": "32915",
+   "atc": "H05AA02",
+   "rxnorm_name": "teriparatide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1226.5814
+  },
+  {
+   "molecule": "oxycodone hcl",
+   "brand_examples": [
+    "Oxaydo",
+    "Oxycodone HCl",
+    "Oxycodone HCl ER",
+    "Oxycontin",
+    "Roxicodone",
+    "Roxybond"
+   ],
+   "spend_2024": 475278880.03,
+   "units_2024": 685643521,
+   "benes_2024": 2842056,
+   "rxcui": "82063",
+   "atc": null,
+   "rxnorm_name": "oxycodone hcl",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.6932
+  },
+  {
+   "molecule": "rosuvastatin calcium",
+   "brand_examples": [
+    "Crestor",
+    "Ezallor Sprinkle",
+    "Rosuvastatin Calcium"
+   ],
+   "spend_2024": 468525712.78,
+   "units_2024": 2349992857,
+   "benes_2024": 8225223,
+   "rxcui": "323828",
+   "atc": null,
+   "rxnorm_name": "rosuvastatin calcium",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.1994
+  },
+  {
+   "molecule": "pen needle, diabetic",
+   "brand_examples": [
+    "1st Tier Unifine Pentips",
+    "1st Tier Unifine Pentips Plus",
+    "Advocate Pen Needle",
+    "Advocate Pen Needles",
+    "Carefine Pen Needle",
+    "Caretouch Pen Needle",
+    "Clickfine",
+    "Comfort Ez Pen Needle",
+    "Comfort Touch Pen Needle",
+    "Droplet Micron Pen Needle",
+    "Droplet Pen Needle",
+    "Easy Comfort Pen Needle",
+    "Easy Comfort Pen Needles",
+    "Easy Glide Pen Needle",
+    "Easy Touch Pen Needle",
+    "Embrace Pen Needle",
+    "Healthwise Pen Needle",
+    "Incontrol Pen Needle",
+    "Insulin Pen Needle",
+    "Insupen",
+    "Insupen Pen Needle",
+    "Lite Touch",
+    "Maxicomfort II Pen Needle",
+    "Mini Pen Needle",
+    "Mini Ultra-Thin II",
+    "Nano 2nd Gen Pen Needle",
+    "Novofine 32",
+    "Novofine Plus",
+    "Novotwist",
+    "Pen Needle",
+    "Pen Needles",
+    "Pentips",
+    "Pentips Pen Needle",
+    "Pip Pen Needle",
+    "Pro Comfort Pen Needle",
+    "Pure Comfort Pen Needle",
+    "Raya Sure Pen Needle",
+    "Sure Comfort",
+    "Sure Comfort Pen Needle",
+    "Sure-Fine Pen Needles",
+    "Techlite Pen Needle",
+    "Techlite Plus Pen Needle",
+    "Topcare Clickfine",
+    "True Comfort Pro Pen Needle",
+    "Trueplus Pen Needle",
+    "Ulticare Pen Needle",
+    "Ultra Flo Pen Needle",
+    "Ultra Thin",
+    "Ultra-Fine Micro Pen Needle",
+    "Ultra-Fine Mini Pen Needle",
+    "Ultra-Fine Nano Pen Needle",
+    "Ultra-Fine Original Pen Needle",
+    "Ultra-Fine Short Pen Needle",
+    "Ultra-Thin II",
+    "Ultracare Pen Needle",
+    "Unifine Pentips",
+    "Unifine Pentips Maxflow",
+    "Unifine Pentips Plus",
+    "Unifine Pentips Plus Maxflow",
+    "Unifine Safecontrol Pen Needle",
+    "Unifine Ultra Pen Needle",
+    "Verifine Pen Needle",
+    "Verifine Plus Pen Needle"
+   ],
+   "spend_2024": 468194968.45,
+   "units_2024": 920672491,
+   "benes_2024": 2439807,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.5085
+  },
+  {
+   "molecule": "rsv vacc, pref a and pref b + pf",
+   "brand_examples": [
+    "Abrysvo"
+   ],
+   "spend_2024": 467554856.86,
+   "units_2024": 1628012,
+   "benes_2024": 1621026,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 287.1938
+  },
+  {
+   "molecule": "metoprolol succinate",
+   "brand_examples": [
+    "Kapspargo Sprinkle",
+    "Metoprolol Succinate",
+    "Toprol XL"
+   ],
+   "spend_2024": 463601640.69,
+   "units_2024": 2553011189,
+   "benes_2024": 7791700,
+   "rxcui": "221124",
+   "atc": null,
+   "rxnorm_name": "metoprolol succinate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.1816
+  },
+  {
+   "molecule": "insulin aspart",
+   "brand_examples": [
+    "Insulin Aspart",
+    "Insulin Aspart Flexpen",
+    "Insulin Aspart Penfill",
+    "Novolog",
+    "Novolog Flexpen",
+    "Novolog Penfill"
+   ],
+   "spend_2024": 462790061.25,
+   "units_2024": 54856593,
+   "benes_2024": 750223,
+   "rxcui": "51428",
+   "atc": "A10AB05",
+   "rxnorm_name": "insulin aspart",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 8.4364
+  },
+  {
+   "molecule": "tiotropium br + olodaterol hcl",
+   "brand_examples": [
+    "Stiolto Respimat"
+   ],
+   "spend_2024": 448588557.35,
+   "units_2024": 3958758,
+   "benes_2024": 167334,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 113.3155
+  },
+  {
+   "molecule": "darunavir + cob + emtri + tenof alaf",
+   "brand_examples": [
+    "Symtuza"
+   ],
+   "spend_2024": 448466476.63,
+   "units_2024": 2895616,
+   "benes_2024": 10616,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 154.8777
+  },
+  {
+   "molecule": "axitinib",
+   "brand_examples": [
+    "Inlyta"
+   ],
+   "spend_2024": 438904955.79,
+   "units_2024": 2362456,
+   "benes_2024": 4465,
+   "rxcui": "1242999",
+   "atc": "L01EK01",
+   "rxnorm_name": "axitinib",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 185.7833
+  },
+  {
+   "molecule": "sucroferric oxyhydroxide",
+   "brand_examples": [
+    "Velphoro"
+   ],
+   "spend_2024": 438436195.16,
+   "units_2024": 25357051,
+   "benes_2024": 38351,
+   "rxcui": "1484283",
+   "atc": "V03AE05",
+   "rxnorm_name": "sucroferric oxyhydroxide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 17.2905
+  },
+  {
+   "molecule": "ubrogepant",
+   "brand_examples": [
+    "Ubrelvy"
+   ],
+   "spend_2024": 429537897.96,
+   "units_2024": 4208168,
+   "benes_2024": 83437,
+   "rxcui": "2268216",
+   "atc": "N02CD04",
+   "rxnorm_name": "ubrogepant",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 102.0724
+  },
+  {
+   "molecule": "nilotinib hcl",
+   "brand_examples": [
+    "Tasigna"
+   ],
+   "spend_2024": 426961765.33,
+   "units_2024": 2435739,
+   "benes_2024": 3054,
+   "rxcui": "1804015",
+   "atc": null,
+   "rxnorm_name": "nilotinib hcl",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 175.2904
+  },
+  {
+   "molecule": "dolutegravir + rilpivirine",
+   "brand_examples": [
+    "Juluca"
+   ],
+   "spend_2024": 415220184.76,
+   "units_2024": 3575957,
+   "benes_2024": 12112,
+   "rxcui": "1989499",
+   "atc": "J05AR21",
+   "rxnorm_name": "dolutegravir + rilpivirine",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 116.1144
+  },
+  {
+   "molecule": "dronedarone hcl",
+   "brand_examples": [
+    "Multaq"
+   ],
+   "spend_2024": 414751255.09,
+   "units_2024": 32215474,
+   "benes_2024": 72761,
+   "rxcui": "736680",
+   "atc": null,
+   "rxnorm_name": "dronedarone hcl",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 12.8743
+  },
+  {
+   "molecule": "glatiramer acetate",
+   "brand_examples": [
+    "Copaxone",
+    "Glatiramer Acetate",
+    "Glatopa"
+   ],
+   "spend_2024": 411553409.27,
+   "units_2024": 1718434,
+   "benes_2024": 14455,
+   "rxcui": "84375",
+   "atc": "L03AX13",
+   "rxnorm_name": "glatiramer acetate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 239.4933
+  },
+  {
+   "molecule": "metformin hcl",
+   "brand_examples": [
+    "Glumetza",
+    "Metformin ER Gastric",
+    "Metformin ER Osmotic",
+    "Metformin HCl",
+    "Metformin HCl ER"
+   ],
+   "spend_2024": 408558855.68,
+   "units_2024": 5165411520,
+   "benes_2024": 8812400,
+   "rxcui": "235743",
+   "atc": null,
+   "rxnorm_name": "metformin hcl",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.0791
+  },
+  {
+   "molecule": "ipratropium + albuterol sulfate",
+   "brand_examples": [
+    "Combivent Respimat",
+    "Ipratropium-Albuterol"
+   ],
+   "spend_2024": 406229700.3,
+   "units_2024": 76213088,
+   "benes_2024": 381509,
+   "rxcui": "214199",
+   "atc": null,
+   "rxnorm_name": "ipratropium + albuterol sulfate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 5.3302
+  },
+  {
+   "molecule": "carbidopa + levodopa",
+   "brand_examples": [
+    "Carbidopa-Levodopa",
+    "Carbidopa-Levodopa ER",
+    "Crexont",
+    "Dhivy",
+    "Duopa",
+    "Rytary",
+    "Sinemet"
+   ],
+   "spend_2024": 399523751.74,
+   "units_2024": 854477452,
+   "benes_2024": 738372,
+   "rxcui": "103990",
+   "atc": null,
+   "rxnorm_name": "carbidopa + levodopa",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.4676
+  },
+  {
+   "molecule": "finerenone",
+   "brand_examples": [
+    "Kerendia"
+   ],
+   "spend_2024": 396302773.23,
+   "units_2024": 18813859,
+   "benes_2024": 88208,
+   "rxcui": "2562811",
+   "atc": "C03DA05",
+   "rxnorm_name": "finerenone",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 21.0644
+  },
+  {
+   "molecule": "immun globg(igg) + malt + iga ov50",
+   "brand_examples": [
+    "Octagam"
+   ],
+   "spend_2024": 393231316.22,
+   "units_2024": 21624171,
+   "benes_2024": 3206,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 18.1848
+  },
+  {
+   "molecule": "vortioxetine hydrobromide",
+   "brand_examples": [
+    "Trintellix"
+   ],
+   "spend_2024": 392486138.2,
+   "units_2024": 24438666,
+   "benes_2024": 100706,
+   "rxcui": "1439834",
+   "atc": null,
+   "rxnorm_name": "vortioxetine hydrobromide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 16.06
+  },
+  {
+   "molecule": "estradiol",
+   "brand_examples": [
+    "Climara",
+    "Divigel",
+    "Dotti",
+    "Elestrin",
+    "Estrace*",
+    "Estradiol (Once Weekly)",
+    "Estradiol (Twice Weekly)",
+    "Estradiol*",
+    "Estring",
+    "Estrogel",
+    "Evamist",
+    "Imvexxy",
+    "Lyllana",
+    "Menostar",
+    "Minivelle",
+    "Vagifem",
+    "Vivelle-Dot",
+    "Yuvafem"
+   ],
+   "spend_2024": 391725707.16,
+   "units_2024": 229870246,
+   "benes_2024": 1941472,
+   "rxcui": "4083",
+   "atc": "G03CA03",
+   "rxnorm_name": "estradiol",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1.7041
+  },
+  {
+   "molecule": "hydrocodone + acetaminophen",
+   "brand_examples": [
+    "Hydrocodone-Acetaminophen"
+   ],
+   "spend_2024": 386982896.58,
+   "units_2024": 1402711851,
+   "benes_2024": 5266914,
+   "rxcui": "214182",
+   "atc": null,
+   "rxnorm_name": "hydrocodone + acetaminophen",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.2759
+  },
+  {
+   "molecule": "edaravone",
+   "brand_examples": [
+    "Radicava",
+    "Radicava Ors"
+   ],
+   "spend_2024": 380571880.04,
+   "units_2024": 2153540,
+   "benes_2024": 3577,
+   "rxcui": "1921877",
+   "atc": "N07XX14",
+   "rxnorm_name": "edaravone",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 176.7192
+  },
+  {
+   "molecule": "umeclidinium bromide",
+   "brand_examples": [
+    "Incruse Ellipta"
+   ],
+   "spend_2024": 375858547.52,
+   "units_2024": 33092749,
+   "benes_2024": 185597,
+   "rxcui": "1487512",
+   "atc": "R03BB07",
+   "rxnorm_name": "umeclidinium bromide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 11.3577
+  },
+  {
+   "molecule": "emtricitab + rilpiviri + tenof ala",
+   "brand_examples": [
+    "Odefsey"
+   ],
+   "spend_2024": 375477600.43,
+   "units_2024": 3149973,
+   "benes_2024": 10329,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 119.2003
+  },
+  {
+   "molecule": "tocilizumab",
+   "brand_examples": [
+    "Actemra Actpen",
+    "Actemra*"
+   ],
+   "spend_2024": 368046318.6,
+   "units_2024": 457370,
+   "benes_2024": 13833,
+   "rxcui": "612865",
+   "atc": "L04AC07",
+   "rxnorm_name": "tocilizumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 804.7021
+  },
+  {
+   "molecule": "omeprazole",
+   "brand_examples": [
+    "Omeprazole"
+   ],
+   "spend_2024": 366738344.22,
+   "units_2024": 2163551754,
+   "benes_2024": 7509766,
+   "rxcui": "7646",
+   "atc": "A02BC01",
+   "rxnorm_name": "omeprazole",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.1695
+  },
+  {
+   "molecule": "insulin regular, human",
+   "brand_examples": [
+    "Afrezza",
+    "Humulin R",
+    "Humulin R U-500",
+    "Humulin R U-500 Kwikpen",
+    "Novolin R",
+    "Novolin R Flexpen"
+   ],
+   "spend_2024": 361308060.08,
+   "units_2024": 14919661,
+   "benes_2024": 148341,
+   "rxcui": "253182",
+   "atc": "A10AB01",
+   "rxnorm_name": "insulin regular, human",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 24.2169
+  },
+  {
+   "molecule": "alpha-1-proteinase inhibitor",
+   "brand_examples": [
+    "Aralast NP",
+    "Glassia",
+    "Prolastin C",
+    "Zemaira"
+   ],
+   "spend_2024": 361004703.34,
+   "units_2024": 610742942,
+   "benes_2024": 3171,
+   "rxcui": "535",
+   "atc": "B02AB02",
+   "rxnorm_name": "alpha-1-proteinase inhibitor",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.5911
+  },
+  {
+   "molecule": "losartan potassium",
+   "brand_examples": [
+    "Cozaar",
+    "Losartan Potassium"
+   ],
+   "spend_2024": 359526344.61,
+   "units_2024": 2871504792,
+   "benes_2024": 8913904,
+   "rxcui": "203160",
+   "atc": null,
+   "rxnorm_name": "losartan potassium",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.1252
+  },
+  {
+   "molecule": "insulin aspart (niacinamide)",
+   "brand_examples": [
+    "Fiasp",
+    "Fiasp Flextouch",
+    "Fiasp Penfill"
+   ],
+   "spend_2024": 358494355.53,
+   "units_2024": 10618473,
+   "benes_2024": 160300,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 33.7614
+  },
+  {
+   "molecule": "teduglutide",
+   "brand_examples": [
+    "Gattex"
+   ],
+   "spend_2024": 357634244.51,
+   "units_2024": 9404,
+   "benes_2024": 962,
+   "rxcui": "1364468",
+   "atc": "A16AX08",
+   "rxnorm_name": "teduglutide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 38030.0132
+  },
+  {
+   "molecule": "diclofenac sodium",
+   "brand_examples": [
+    "Diclofenac Sodium ER",
+    "Diclofenac Sodium*",
+    "Pennsaid"
+   ],
+   "spend_2024": 355630280.07,
+   "units_2024": 813636558,
+   "benes_2024": 2628097,
+   "rxcui": "203214",
+   "atc": null,
+   "rxnorm_name": "diclofenac sodium",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.4371
+  },
+  {
+   "molecule": "mifepristone",
+   "brand_examples": [
+    "Korlym",
+    "Mifepristone"
+   ],
+   "spend_2024": 349239812.86,
+   "units_2024": 510563,
+   "benes_2024": 1804,
+   "rxcui": "6964",
+   "atc": "G03XB01",
+   "rxnorm_name": "mifepristone",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 684.0288
+  },
+  {
+   "molecule": "asfotase alfa",
+   "brand_examples": [
+    "Strensiq"
+   ],
+   "spend_2024": 345971143.7,
+   "units_2024": 52869,
+   "benes_2024": 290,
+   "rxcui": "1720259",
+   "atc": "A16AB13",
+   "rxnorm_name": "asfotase alfa",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 6543.9321
+  },
+  {
+   "molecule": "momelotinib dihydrochloride",
+   "brand_examples": [
+    "Ojjaara"
+   ],
+   "spend_2024": 341692381.97,
+   "units_2024": 374591,
+   "benes_2024": 2316,
+   "rxcui": "2665204",
+   "atc": "L01EJ04",
+   "rxnorm_name": "momelotinib dihydrochloride",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 912.1746
+  },
+  {
+   "molecule": "alirocumab",
+   "brand_examples": [
+    "Praluent Pen"
+   ],
+   "spend_2024": 340584673.39,
+   "units_2024": 1414077,
+   "benes_2024": 92483,
+   "rxcui": "1659152",
+   "atc": "C10AX14",
+   "rxnorm_name": "alirocumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 240.853
+  },
+  {
+   "molecule": "pantoprazole sodium",
+   "brand_examples": [
+    "Pantoprazole Sodium*",
+    "Protonix",
+    "Protonix IV"
+   ],
+   "spend_2024": 331545239.73,
+   "units_2024": 1802137225,
+   "benes_2024": 6696216,
+   "rxcui": "253191",
+   "atc": null,
+   "rxnorm_name": "pantoprazole sodium",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.184
+  },
+  {
+   "molecule": "amlodipine besylate",
+   "brand_examples": [
+    "Amlodipine Besylate",
+    "Norliqva",
+    "Norvasc"
+   ],
+   "spend_2024": 330784367.01,
+   "units_2024": 3757633713,
+   "benes_2024": 12201452,
+   "rxcui": "104416",
+   "atc": null,
+   "rxnorm_name": "amlodipine besylate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.088
+  },
+  {
+   "molecule": "liraglutide",
+   "brand_examples": [
+    "Liraglutide",
+    "Victoza 2-Pak",
+    "Victoza 3-Pak"
+   ],
+   "spend_2024": 328991595.9,
+   "units_2024": 3846636,
+   "benes_2024": 128285,
+   "rxcui": "475968",
+   "atc": "A10BJ02",
+   "rxnorm_name": "liraglutide",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 85.5271
+  },
+  {
+   "molecule": "duloxetine hcl",
+   "brand_examples": [
+    "Cymbalta",
+    "Drizalma Sprinkle",
+    "Duloxetine HCl"
+   ],
+   "spend_2024": 325905719.29,
+   "units_2024": 916818036,
+   "benes_2024": 2665006,
+   "rxcui": "476250",
+   "atc": null,
+   "rxnorm_name": "duloxetine hcl",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.3555
+  },
+  {
+   "molecule": "potassium chloride",
+   "brand_examples": [
+    "K-Tab ER",
+    "Klor-Con",
+    "Klor-Con 10",
+    "Klor-Con 8",
+    "Klor-Con M10",
+    "Klor-Con M15",
+    "Klor-Con M20",
+    "Potassium Chloride*"
+   ],
+   "spend_2024": 323355239.98,
+   "units_2024": 1382191587,
+   "benes_2024": 4043942,
+   "rxcui": "8591",
+   "atc": "A12BA01",
+   "rxnorm_name": "potassium chloride",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.2339
+  },
+  {
+   "molecule": "bupropion hcl",
+   "brand_examples": [
+    "Bupropion HCl",
+    "Bupropion HCl SR",
+    "Bupropion XL",
+    "Forfivo XL",
+    "Wellbutrin SR",
+    "Wellbutrin XL"
+   ],
+   "spend_2024": 319023550.7,
+   "units_2024": 691185417,
+   "benes_2024": 2224994,
+   "rxcui": "203204",
+   "atc": null,
+   "rxnorm_name": "bupropion hcl",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.4616
+  },
+  {
+   "molecule": "mepolizumab",
+   "brand_examples": [
+    "Nucala"
+   ],
+   "spend_2024": 317907428.14,
+   "units_2024": 86390,
+   "benes_2024": 9062,
+   "rxcui": "1720597",
+   "atc": "R03DX09",
+   "rxnorm_name": "mepolizumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 3679.91
+  },
+  {
+   "molecule": "fluticasone propionate",
+   "brand_examples": [
+    "Armonair Digihaler",
+    "Flovent Diskus",
+    "Flovent HFA",
+    "Fluticasone Propionate HFA",
+    "Fluticasone Propionate*",
+    "Xhance"
+   ],
+   "spend_2024": 315020926.42,
+   "units_2024": 315048698,
+   "benes_2024": 5325173,
+   "rxcui": "50121",
+   "atc": null,
+   "rxnorm_name": "fluticasone propionate",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.9999
+  },
+  {
+   "molecule": "omalizumab",
+   "brand_examples": [
+    "Xolair"
+   ],
+   "spend_2024": 313118328.76,
+   "units_2024": 226640,
+   "benes_2024": 11011,
+   "rxcui": "302379",
+   "atc": "R03DX05",
+   "rxnorm_name": "omalizumab",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1381.5649
+  },
+  {
+   "molecule": "oxycodone hcl + acetaminophen",
+   "brand_examples": [
+    "Endocet",
+    "Nalocet",
+    "Oxycodone-Acetaminophen",
+    "Percocet",
+    "Prolate"
+   ],
+   "spend_2024": 312993502.27,
+   "units_2024": 689357052,
+   "benes_2024": 2167331,
+   "rxcui": "214183",
+   "atc": null,
+   "rxnorm_name": "oxycodone hcl + acetaminophen",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.454
+  },
+  {
+   "molecule": "mesalamine",
+   "brand_examples": [
+    "Apriso",
+    "Canasa",
+    "Delzicol",
+    "Lialda",
+    "Mesalamine Dr",
+    "Mesalamine ER",
+    "Mesalamine*",
+    "Pentasa",
+    "Sfrowasa"
+   ],
+   "spend_2024": 311773454.5,
+   "units_2024": 148171565,
+   "benes_2024": 154730,
+   "rxcui": "52582",
+   "atc": "A07EC02",
+   "rxnorm_name": "mesalamine",
+   "search_name": null,
+   "avg_cost_per_unit_usd": 2.1041
+  },
+  {
+   "molecule": "tamsulosin hcl",
+   "brand_examples": [
+    "Flomax",
+    "Tamsulosin HCl"
+   ],
+   "spend_2024": 310672953.95,
+   "units_2024": 1727672425,
+   "benes_2024": 5499972,
+   "rxcui": "236495",
+   "atc": null,
+   "rxnorm_name": "tamsulosin hcl",
+   "search_name": "tamsulosin hcl",
+   "avg_cost_per_unit_usd": 0.1798
+  },
+  {
+   "molecule": "benralizumab",
+   "brand_examples": [
+    "Fasenra",
+    "Fasenra Pen"
+   ],
+   "spend_2024": 307509397.6,
+   "units_2024": 54056,
+   "benes_2024": 11576,
+   "rxcui": "1989100",
+   "atc": "R03DX10",
+   "rxnorm_name": "benralizumab",
+   "search_name": "benralizumab",
+   "avg_cost_per_unit_usd": 5688.7717
+  },
+  {
+   "molecule": "erenumab-aooe",
+   "brand_examples": [
+    "Aimovig Autoinjector"
+   ],
+   "spend_2024": 305625176.63,
+   "units_2024": 420678,
+   "benes_2024": 55791,
+   "rxcui": "2045614",
+   "atc": null,
+   "rxnorm_name": "erenumab-aooe",
+   "search_name": "erenumab-aooe",
+   "avg_cost_per_unit_usd": 726.5062
+  },
+  {
+   "molecule": "galcanezumab-gnlm",
+   "brand_examples": [
+    "Emgality Pen",
+    "Emgality Syringe"
+   ],
+   "spend_2024": 304884082.56,
+   "units_2024": 450528,
+   "benes_2024": 61444,
+   "rxcui": "2058868",
+   "atc": null,
+   "rxnorm_name": "galcanezumab-gnlm",
+   "search_name": "galcanezumab-gnlm",
+   "avg_cost_per_unit_usd": 676.7256
+  },
+  {
+   "molecule": "tafamidis meglumine",
+   "brand_examples": [
+    "Vyndaqel"
+   ],
+   "spend_2024": 303575850.25,
+   "units_2024": 1675792,
+   "benes_2024": 2021,
+   "rxcui": "1727003",
+   "atc": null,
+   "rxnorm_name": "tafamidis meglumine",
+   "search_name": "tafamidis meglumine",
+   "avg_cost_per_unit_usd": 181.1537
+  },
+  {
+   "molecule": "insulin glargine + lixisenatide",
+   "brand_examples": [
+    "Soliqua 100-33"
+   ],
+   "spend_2024": 300185496.2,
+   "units_2024": 5359358,
+   "benes_2024": 59472,
+   "rxcui": "1858994",
+   "atc": "A10AE54",
+   "rxnorm_name": "insulin glargine + lixisenatide",
+   "search_name": "insulin glargine / lixisenatide",
+   "avg_cost_per_unit_usd": 56.0115
+  },
+  {
+   "molecule": "buprenorphine hcl + naloxone hcl",
+   "brand_examples": [
+    "Buprenorphine-Naloxone",
+    "Suboxone",
+    "Zubsolv"
+   ],
+   "spend_2024": 296180235.8,
+   "units_2024": 87212298,
+   "benes_2024": 186469,
+   "rxcui": "352364",
+   "atc": null,
+   "rxnorm_name": "buprenorphine hcl + naloxone hcl",
+   "search_name": "buprenorphine hcl / naloxone hcl",
+   "avg_cost_per_unit_usd": 3.3961
+  },
+  {
+   "molecule": "immun glob g(igg) + gly + iga 0-50",
+   "brand_examples": [
+    "Gammaplex"
+   ],
+   "spend_2024": 294837706.01,
+   "units_2024": 14151700,
+   "benes_2024": 1829,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 20.8341
+  },
+  {
+   "molecule": "mavacamten",
+   "brand_examples": [
+    "Camzyos"
+   ],
+   "spend_2024": 290825666.61,
+   "units_2024": 1068422,
+   "benes_2024": 4490,
+   "rxcui": "2600867",
+   "atc": "C01EB24",
+   "rxnorm_name": "mavacamten",
+   "search_name": "mavacamten",
+   "avg_cost_per_unit_usd": 272.2011
+  },
+  {
+   "molecule": "interferon beta-1a",
+   "brand_examples": [
+    "Avonex (4 Pack)",
+    "Avonex Pen (4 Pack)"
+   ],
+   "spend_2024": 288285998.43,
+   "units_2024": 35151,
+   "benes_2024": 3622,
+   "rxcui": "75917",
+   "atc": "L03AB07",
+   "rxnorm_name": "interferon beta-1a",
+   "search_name": "interferon beta-1a",
+   "avg_cost_per_unit_usd": 8201.3598
+  },
+  {
+   "molecule": "certolizumab pegol",
+   "brand_examples": [
+    "Cimzia",
+    "Cimzia (2 Pack)"
+   ],
+   "spend_2024": 283537284.29,
+   "units_2024": 50192,
+   "benes_2024": 6670,
+   "rxcui": "709271",
+   "atc": "L04AB05",
+   "rxnorm_name": "certolizumab pegol",
+   "search_name": "certolizumab pegol",
+   "avg_cost_per_unit_usd": 5649.0308
+  },
+  {
+   "molecule": "ixazomib citrate",
+   "brand_examples": [
+    "Ninlaro"
+   ],
+   "spend_2024": 272703342.48,
+   "units_2024": 63966,
+   "benes_2024": 2983,
+   "rxcui": "1723734",
+   "atc": null,
+   "rxnorm_name": "ixazomib citrate",
+   "search_name": "ixazomib citrate",
+   "avg_cost_per_unit_usd": 4263.2546
+  },
+  {
+   "molecule": "canagliflozin",
+   "brand_examples": [
+    "Invokana"
+   ],
+   "spend_2024": 272062235.32,
+   "units_2024": 14644180,
+   "benes_2024": 55993,
+   "rxcui": "1373458",
+   "atc": "A10BK02",
+   "rxnorm_name": "canagliflozin",
+   "search_name": "canagliflozin",
+   "avg_cost_per_unit_usd": 18.5782
+  },
+  {
+   "molecule": "aripiprazole lauroxil",
+   "brand_examples": [
+    "Aristada"
+   ],
+   "spend_2024": 269076004.88,
+   "units_2024": 275672,
+   "benes_2024": 13102,
+   "rxcui": "1673265",
+   "atc": null,
+   "rxnorm_name": "aripiprazole lauroxil",
+   "search_name": "aripiprazole lauroxil",
+   "avg_cost_per_unit_usd": 976.0742
+  },
+  {
+   "molecule": "lumateperone tosylate",
+   "brand_examples": [
+    "Caplyta"
+   ],
+   "spend_2024": 268479293.41,
+   "units_2024": 4786012,
+   "benes_2024": 27010,
+   "rxcui": "2275731",
+   "atc": null,
+   "rxnorm_name": "lumateperone tosylate",
+   "search_name": "lumateperone tosylate",
+   "avg_cost_per_unit_usd": 56.0967
+  },
+  {
+   "molecule": "ambrisentan",
+   "brand_examples": [
+    "Ambrisentan",
+    "Letairis"
+   ],
+   "spend_2024": 267540962.59,
+   "units_2024": 2065136,
+   "benes_2024": 8083,
+   "rxcui": "358274",
+   "atc": "C02KX02",
+   "rxnorm_name": "ambrisentan",
+   "search_name": "ambrisentan",
+   "avg_cost_per_unit_usd": 129.5513
+  },
+  {
+   "molecule": "ivosidenib",
+   "brand_examples": [
+    "Tibsovo"
+   ],
+   "spend_2024": 265234784.59,
+   "units_2024": 494366,
+   "benes_2024": 1503,
+   "rxcui": "2049873",
+   "atc": "L01XM02",
+   "rxnorm_name": "ivosidenib",
+   "search_name": "ivosidenib",
+   "avg_cost_per_unit_usd": 536.515
+  },
+  {
+   "molecule": "pregabalin",
+   "brand_examples": [
+    "Lyrica",
+    "Lyrica Cr",
+    "Pregabalin",
+    "Pregabalin ER"
+   ],
+   "spend_2024": 263138234.38,
+   "units_2024": 646342367,
+   "benes_2024": 1506154,
+   "rxcui": "187832",
+   "atc": "N02BF02",
+   "rxnorm_name": "pregabalin",
+   "search_name": "pregabalin",
+   "avg_cost_per_unit_usd": 0.4071
+  },
+  {
+   "molecule": "dexlansoprazole",
+   "brand_examples": [
+    "Dexilant",
+    "Dexlansoprazole Dr"
+   ],
+   "spend_2024": 261509728.11,
+   "units_2024": 47833376,
+   "benes_2024": 196009,
+   "rxcui": "816346",
+   "atc": "A02BC06",
+   "rxnorm_name": "dexlansoprazole",
+   "search_name": "dexlansoprazole",
+   "avg_cost_per_unit_usd": 5.4671
+  },
+  {
+   "molecule": "collagenase clostridium hist.",
+   "brand_examples": [
+    "Santyl",
+    "Xiaflex"
+   ],
+   "spend_2024": 260978074.94,
+   "units_2024": 18699485,
+   "benes_2024": 143486,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 13.9564
+  },
+  {
+   "molecule": "atogepant",
+   "brand_examples": [
+    "Qulipta"
+   ],
+   "spend_2024": 260307143.86,
+   "units_2024": 7234150,
+   "benes_2024": 45046,
+   "rxcui": "2571813",
+   "atc": "N02CD07",
+   "rxnorm_name": "atogepant",
+   "search_name": "atogepant",
+   "avg_cost_per_unit_usd": 35.9831
+  },
+  {
+   "molecule": "elacestrant hcl",
+   "brand_examples": [
+    "Orserdu"
+   ],
+   "spend_2024": 258846197.93,
+   "units_2024": 414970,
+   "benes_2024": 2633,
+   "rxcui": "2628473",
+   "atc": null,
+   "rxnorm_name": "elacestrant hcl",
+   "search_name": "elacestrant hcl",
+   "avg_cost_per_unit_usd": 623.7709
+  },
+  {
+   "molecule": "lisinopril",
+   "brand_examples": [
+    "Lisinopril",
+    "Qbrelis",
+    "Zestril"
+   ],
+   "spend_2024": 258155257.9,
+   "units_2024": 2866344809,
+   "benes_2024": 8759436,
+   "rxcui": "29046",
+   "atc": "C09AA03",
+   "rxnorm_name": "lisinopril",
+   "search_name": "lisinopril",
+   "avg_cost_per_unit_usd": 0.0901
+  },
+  {
+   "molecule": "abaloparatide",
+   "brand_examples": [
+    "Tymlos"
+   ],
+   "spend_2024": 257643485.05,
+   "units_2024": 152365,
+   "benes_2024": 16530,
+   "rxcui": "1921069",
+   "atc": "H05AA04",
+   "rxnorm_name": "abaloparatide",
+   "search_name": "abaloparatide",
+   "avg_cost_per_unit_usd": 1690.9615
+  },
+  {
+   "molecule": "darunavir + cobicistat",
+   "brand_examples": [
+    "Prezcobix"
+   ],
+   "spend_2024": 255398074.6,
+   "units_2024": 3144526,
+   "benes_2024": 11230,
+   "rxcui": "1598380",
+   "atc": "J05AR14",
+   "rxnorm_name": "darunavir + cobicistat",
+   "search_name": "darunavir / cobicistat",
+   "avg_cost_per_unit_usd": 81.2199
+  },
+  {
+   "molecule": "levetiracetam",
+   "brand_examples": [
+    "Keppra XR",
+    "Keppra*",
+    "Levetiracetam ER",
+    "Levetiracetam*",
+    "Roweepra",
+    "Spritam"
+   ],
+   "spend_2024": 255153452.56,
+   "units_2024": 694446374,
+   "benes_2024": 849278,
+   "rxcui": "114477",
+   "atc": "N03AX14",
+   "rxnorm_name": "levetiracetam",
+   "search_name": "levetiracetam",
+   "avg_cost_per_unit_usd": 0.3674
+  },
+  {
+   "molecule": "estrogens, conjugated",
+   "brand_examples": [
+    "Premarin*"
+   ],
+   "spend_2024": 254990017.73,
+   "units_2024": 26353277,
+   "benes_2024": 231894,
+   "rxcui": "4099",
+   "atc": "G03CA57",
+   "rxnorm_name": "estrogens, conjugated",
+   "search_name": "estrogens, conjugated",
+   "avg_cost_per_unit_usd": 9.6758
+  },
+  {
+   "molecule": "insulin pump cart,auto,bt,g6 + 7",
+   "brand_examples": [
+    "Omnipod 5 Dexg7g6 Pods (Gen 5)",
+    "Omnipod 5 G6-G7 Pods (Gen 5)"
+   ],
+   "spend_2024": 251843638.72,
+   "units_2024": 4366959,
+   "benes_2024": 44707,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 57.6703
+  },
+  {
+   "molecule": "alectinib hcl",
+   "brand_examples": [
+    "Alecensa"
+   ],
+   "spend_2024": 246703793.89,
+   "units_2024": 3225899,
+   "benes_2024": 1906,
+   "rxcui": "1727454",
+   "atc": null,
+   "rxnorm_name": "alectinib hcl",
+   "search_name": "alectinib hcl",
+   "avg_cost_per_unit_usd": 76.476
+  },
+  {
+   "molecule": "brimonidine tartrate + timolol",
+   "brand_examples": [
+    "Brimonidine Tartrate-Timolol",
+    "Combigan"
+   ],
+   "spend_2024": 246372032.44,
+   "units_2024": 9159647,
+   "benes_2024": 258566,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 26.8975
+  },
+  {
+   "molecule": "belumosudil mesylate",
+   "brand_examples": [
+    "Rezurock"
+   ],
+   "spend_2024": 242932266.01,
+   "units_2024": 419554,
+   "benes_2024": 1371,
+   "rxcui": "2565692",
+   "atc": null,
+   "rxnorm_name": "belumosudil mesylate",
+   "search_name": "belumosudil mesylate",
+   "avg_cost_per_unit_usd": 579.025
+  },
+  {
+   "molecule": "divalproex sodium",
+   "brand_examples": [
+    "Depakote",
+    "Depakote ER",
+    "Depakote Sprinkle",
+    "Divalproex Sodium",
+    "Divalproex Sodium ER"
+   ],
+   "spend_2024": 241088975.96,
+   "units_2024": 447094871,
+   "benes_2024": 698478,
+   "rxcui": "266856",
+   "atc": null,
+   "rxnorm_name": "divalproex sodium",
+   "search_name": "divalproex sodium",
+   "avg_cost_per_unit_usd": 0.5392
+  },
+  {
+   "molecule": "efgartigimod alfa-fcab",
+   "brand_examples": [
+    "Vyvgart"
+   ],
+   "spend_2024": 240798682.07,
+   "units_2024": 782808,
+   "benes_2024": 947,
+   "rxcui": "2587719",
+   "atc": null,
+   "rxnorm_name": "efgartigimod alfa-fcab",
+   "search_name": "efgartigimod alfa-fcab",
+   "avg_cost_per_unit_usd": 307.6089
+  },
+  {
+   "molecule": "sodium zirconium cyclosilicate",
+   "brand_examples": [
+    "Lokelma"
+   ],
+   "spend_2024": 239002704.37,
+   "units_2024": 8965543,
+   "benes_2024": 116877,
+   "rxcui": "2047628",
+   "atc": "V03AE10",
+   "rxnorm_name": "sodium zirconium cyclosilicate",
+   "search_name": "sodium zirconium cyclosilicate",
+   "avg_cost_per_unit_usd": 26.6579
+  },
+  {
+   "molecule": "bosutinib",
+   "brand_examples": [
+    "Bosulif"
+   ],
+   "spend_2024": 235311822.75,
+   "units_2024": 885859,
+   "benes_2024": 1981,
+   "rxcui": "1307619",
+   "atc": "L01EA04",
+   "rxnorm_name": "bosutinib",
+   "search_name": "bosutinib",
+   "avg_cost_per_unit_usd": 265.6312
+  },
+  {
+   "molecule": "teriflunomide",
+   "brand_examples": [
+    "Aubagio",
+    "Teriflunomide"
+   ],
+   "spend_2024": 233651586.36,
+   "units_2024": 2457582,
+   "benes_2024": 10019,
+   "rxcui": "1310520",
+   "atc": "L04AK02",
+   "rxnorm_name": "teriflunomide",
+   "search_name": "teriflunomide",
+   "avg_cost_per_unit_usd": 95.0738
+  },
+  {
+   "molecule": "diltiazem hcl",
+   "brand_examples": [
+    "Cardizem",
+    "Cardizem CD",
+    "Cardizem La",
+    "Cartia Xt",
+    "Dilt-XR",
+    "Diltiazem 12hr ER",
+    "Diltiazem 24hr ER",
+    "Diltiazem 24hr ER (Cd)",
+    "Diltiazem 24hr ER (La)",
+    "Diltiazem 24hr ER (XR)",
+    "Diltiazem HCl*",
+    "Matzim La",
+    "Taztia Xt",
+    "Tiadylt ER",
+    "Tiazac"
+   ],
+   "spend_2024": 233533357.62,
+   "units_2024": 506983089,
+   "benes_2024": 1873419,
+   "rxcui": "203211",
+   "atc": null,
+   "rxnorm_name": "diltiazem hcl",
+   "search_name": "diltiazem hcl",
+   "avg_cost_per_unit_usd": 0.4606
+  },
+  {
+   "molecule": "ravulizumab-cwvz",
+   "brand_examples": [
+    "Ultomiris"
+   ],
+   "spend_2024": 232936290.52,
+   "units_2024": 110298,
+   "benes_2024": 701,
+   "rxcui": "2107316",
+   "atc": null,
+   "rxnorm_name": "ravulizumab-cwvz",
+   "search_name": "ravulizumab-cwvz",
+   "avg_cost_per_unit_usd": 2111.8814
+  },
+  {
+   "molecule": "oxycodone myristate",
+   "brand_examples": [
+    "Xtampza ER"
+   ],
+   "spend_2024": 232750636.64,
+   "units_2024": 20391735,
+   "benes_2024": 50981,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 11.414
+  },
+  {
+   "molecule": "memantine hcl",
+   "brand_examples": [
+    "Memantine HCl",
+    "Memantine HCl ER",
+    "Namenda",
+    "Namenda XR"
+   ],
+   "spend_2024": 231336082.23,
+   "units_2024": 468277530,
+   "benes_2024": 1100889,
+   "rxcui": "236685",
+   "atc": null,
+   "rxnorm_name": "memantine hcl",
+   "search_name": "memantine hcl",
+   "avg_cost_per_unit_usd": 0.494
+  },
+  {
+   "molecule": "treprostinil diolamine",
+   "brand_examples": [
+    "Orenitram ER",
+    "Orenitram Month 1 Titration Kt",
+    "Orenitram Month 2 Titration Kt",
+    "Orenitram Month 3 Titration Kt"
+   ],
+   "spend_2024": 231269107.13,
+   "units_2024": 2518642,
+   "benes_2024": 1508,
+   "rxcui": "1927409",
+   "atc": null,
+   "rxnorm_name": "treprostinil diolamine",
+   "search_name": "treprostinil diolamine",
+   "avg_cost_per_unit_usd": 91.8229
+  },
+  {
+   "molecule": "golimumab",
+   "brand_examples": [
+    "Simponi",
+    "Simponi Aria"
+   ],
+   "spend_2024": 230605796.54,
+   "units_2024": 110971,
+   "benes_2024": 5263,
+   "rxcui": "819300",
+   "atc": "L04AB06",
+   "rxnorm_name": "golimumab",
+   "search_name": "golimumab",
+   "avg_cost_per_unit_usd": 2078.0653
+  },
+  {
+   "molecule": "dimethyl fumarate",
+   "brand_examples": [
+    "Dimethyl Fumarate",
+    "Tecfidera"
+   ],
+   "spend_2024": 230015484.2,
+   "units_2024": 5233564,
+   "benes_2024": 9953,
+   "rxcui": "1373478",
+   "atc": "L04AX07",
+   "rxnorm_name": "dimethyl fumarate",
+   "search_name": "dimethyl fumarate",
+   "avg_cost_per_unit_usd": 43.9501
+  },
+  {
+   "molecule": "trifluridine + tipiracil hcl",
+   "brand_examples": [
+    "Lonsurf"
+   ],
+   "spend_2024": 225915434.96,
+   "units_2024": 918448,
+   "benes_2024": 3946,
+   "rxcui": "1670310",
+   "atc": null,
+   "rxnorm_name": "trifluridine + tipiracil hcl",
+   "search_name": "trifluridine / tipiracil hcl",
+   "avg_cost_per_unit_usd": 245.9752
+  },
+  {
+   "molecule": "niraparib tosylate",
+   "brand_examples": [
+    "Zejula"
+   ],
+   "spend_2024": 224142912.76,
+   "units_2024": 374294,
+   "benes_2024": 2016,
+   "rxcui": "2637447",
+   "atc": null,
+   "rxnorm_name": "niraparib tosylate",
+   "search_name": "niraparib tosylate",
+   "avg_cost_per_unit_usd": 598.8419
+  },
+  {
+   "molecule": "lanadelumab-flyo",
+   "brand_examples": [
+    "Takhzyro"
+   ],
+   "spend_2024": 223004902.8,
+   "units_2024": 17456,
+   "benes_2024": 512,
+   "rxcui": "2055640",
+   "atc": null,
+   "rxnorm_name": "lanadelumab-flyo",
+   "search_name": "lanadelumab-flyo",
+   "avg_cost_per_unit_usd": 12775.258
+  },
+  {
+   "molecule": "lurasidone hcl",
+   "brand_examples": [
+    "Latuda",
+    "Lurasidone HCl"
+   ],
+   "spend_2024": 222296493.78,
+   "units_2024": 30120617,
+   "benes_2024": 124175,
+   "rxcui": "1040027",
+   "atc": null,
+   "rxnorm_name": "lurasidone hcl",
+   "search_name": "lurasidone hcl",
+   "avg_cost_per_unit_usd": 7.3802
+  },
+  {
+   "molecule": "lamotrigine",
+   "brand_examples": [
+    "Lamictal",
+    "Lamictal (Orange)",
+    "Lamictal ODT",
+    "Lamictal XR",
+    "Lamotrigine",
+    "Lamotrigine (Blue)",
+    "Lamotrigine (Green)",
+    "Lamotrigine (Orange)",
+    "Lamotrigine ER",
+    "Lamotrigine ODT",
+    "Lamotrigine ODT (Orange)",
+    "Subvenite",
+    "Subvenite (Blue)",
+    "Subvenite (Green)",
+    "Subvenite (Orange)"
+   ],
+   "spend_2024": 221328775.36,
+   "units_2024": 386936326,
+   "benes_2024": 679546,
+   "rxcui": "28439",
+   "atc": "N03AX09",
+   "rxnorm_name": "lamotrigine",
+   "search_name": "lamotrigine",
+   "avg_cost_per_unit_usd": 0.572
+  },
+  {
+   "molecule": "brivaracetam",
+   "brand_examples": [
+    "Briviact*"
+   ],
+   "spend_2024": 219770910.9,
+   "units_2024": 11449416,
+   "benes_2024": 15497,
+   "rxcui": "1739745",
+   "atc": "N03AX23",
+   "rxnorm_name": "brivaracetam",
+   "search_name": "brivaracetam",
+   "avg_cost_per_unit_usd": 19.1949
+  },
+  {
+   "molecule": "imatinib mesylate",
+   "brand_examples": [
+    "Gleevec",
+    "Imatinib Mesylate"
+   ],
+   "spend_2024": 219420577.2,
+   "units_2024": 6061132,
+   "benes_2024": 16553,
+   "rxcui": "284924",
+   "atc": null,
+   "rxnorm_name": "imatinib mesylate",
+   "search_name": "imatinib mesylate",
+   "avg_cost_per_unit_usd": 36.2013
+  },
+  {
+   "molecule": "lidocaine",
+   "brand_examples": [
+    "Dermacinrx Lidocan",
+    "Lidocaine",
+    "Lidocan III",
+    "Lidocan IV",
+    "Lidocan V",
+    "Lidoderm",
+    "Tridacaine III",
+    "Ztlido"
+   ],
+   "spend_2024": 216887953.86,
+   "units_2024": 80347832,
+   "benes_2024": 598494,
+   "rxcui": "6387",
+   "atc": "C01BB01",
+   "rxnorm_name": "lidocaine",
+   "search_name": "lidocaine",
+   "avg_cost_per_unit_usd": 2.6994
+  },
+  {
+   "molecule": "belimumab",
+   "brand_examples": [
+    "Benlysta*"
+   ],
+   "spend_2024": 216806703.67,
+   "units_2024": 185667,
+   "benes_2024": 5831,
+   "rxcui": "1092437",
+   "atc": "L04AG04",
+   "rxnorm_name": "belimumab",
+   "search_name": "belimumab",
+   "avg_cost_per_unit_usd": 1167.7185
+  },
+  {
+   "molecule": "exenatide microspheres",
+   "brand_examples": [
+    "Bydureon Bcise"
+   ],
+   "spend_2024": 215354678.45,
+   "units_2024": 925159,
+   "benes_2024": 38059,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 232.7759
+  },
+  {
+   "molecule": "ezetimibe",
+   "brand_examples": [
+    "Ezetimibe",
+    "Zetia"
+   ],
+   "spend_2024": 214566675.65,
+   "units_2024": 650415481,
+   "benes_2024": 2412870,
+   "rxcui": "341248",
+   "atc": "C10AX09",
+   "rxnorm_name": "ezetimibe",
+   "search_name": "ezetimibe",
+   "avg_cost_per_unit_usd": 0.3299
+  },
+  {
+   "molecule": "pegloticase",
+   "brand_examples": [
+    "Krystexxa"
+   ],
+   "spend_2024": 212349149.7,
+   "units_2024": 7348,
+   "benes_2024": 662,
+   "rxcui": "1011650",
+   "atc": "M04AX02",
+   "rxnorm_name": "pegloticase",
+   "search_name": "pegloticase",
+   "avg_cost_per_unit_usd": 28898.9044
+  },
+  {
+   "molecule": "cabotegravir + rilpivirine",
+   "brand_examples": [
+    "Cabenuva"
+   ],
+   "spend_2024": 211613824.62,
+   "units_2024": 196112,
+   "benes_2024": 6592,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1079.0458
+  },
+  {
+   "molecule": "sodium,calcium,mag,pot oxybate",
+   "brand_examples": [
+    "Xywav"
+   ],
+   "spend_2024": 210520764.36,
+   "units_2024": 5685120,
+   "benes_2024": 1471,
+   "rxcui": "2393796",
+   "atc": null,
+   "rxnorm_name": "sodium,calcium,mag,pot oxybate",
+   "search_name": "sodium,calcium,mag,pot oxybate",
+   "avg_cost_per_unit_usd": 37.0301
+  },
+  {
+   "molecule": "dapaglifloz propaned + metformin",
+   "brand_examples": [
+    "Dapagliflozin-Metformin ER",
+    "Xigduo XR"
+   ],
+   "spend_2024": 209740733.45,
+   "units_2024": 17149789,
+   "benes_2024": 52942,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 12.2299
+  },
+  {
+   "molecule": "quetiapine fumarate",
+   "brand_examples": [
+    "Quetiapine Fumarate",
+    "Quetiapine Fumarate ER",
+    "Seroquel",
+    "Seroquel XR"
+   ],
+   "spend_2024": 208919256.63,
+   "units_2024": 540975651,
+   "benes_2024": 1488933,
+   "rxcui": "221153",
+   "atc": null,
+   "rxnorm_name": "quetiapine fumarate",
+   "search_name": "quetiapine fumarate",
+   "avg_cost_per_unit_usd": 0.3862
+  },
+  {
+   "molecule": "cannabidiol (cbd)",
+   "brand_examples": [
+    "Epidiolex"
+   ],
+   "spend_2024": 207443287.44,
+   "units_2024": 12894203,
+   "benes_2024": 4517,
+   "rxcui": "2045371",
+   "atc": "N03AX24",
+   "rxnorm_name": "cannabidiol (cbd)",
+   "search_name": "cannabidiol (cbd)",
+   "avg_cost_per_unit_usd": 16.0881
+  },
+  {
+   "molecule": "trametinib dimethyl sulfoxide",
+   "brand_examples": [
+    "Mekinist"
+   ],
+   "spend_2024": 207005040.79,
+   "units_2024": 836484,
+   "benes_2024": 2654,
+   "rxcui": "1425098",
+   "atc": null,
+   "rxnorm_name": "trametinib dimethyl sulfoxide",
+   "search_name": "trametinib dimethyl sulfoxide",
+   "avg_cost_per_unit_usd": 247.4704
+  },
+  {
+   "molecule": "belzutifan",
+   "brand_examples": [
+    "Welireg"
+   ],
+   "spend_2024": 205460495.55,
+   "units_2024": 634437,
+   "benes_2024": 1896,
+   "rxcui": "2567226",
+   "atc": "L01XX74",
+   "rxnorm_name": "belzutifan",
+   "search_name": "belzutifan",
+   "avg_cost_per_unit_usd": 323.847
+  },
+  {
+   "molecule": "varenicline tartrate",
+   "brand_examples": [
+    "Chantix",
+    "Tyrvaya",
+    "Varenicline Tartrate"
+   ],
+   "spend_2024": 204242459.02,
+   "units_2024": 39106834,
+   "benes_2024": 256259,
+   "rxcui": "636674",
+   "atc": null,
+   "rxnorm_name": "varenicline tartrate",
+   "search_name": "varenicline tartrate",
+   "avg_cost_per_unit_usd": 5.2227
+  },
+  {
+   "molecule": "pirtobrutinib",
+   "brand_examples": [
+    "Jaypirca"
+   ],
+   "spend_2024": 200562025.4,
+   "units_2024": 562695,
+   "benes_2024": 1795,
+   "rxcui": "2629338",
+   "atc": "L01EL05",
+   "rxnorm_name": "pirtobrutinib",
+   "search_name": "pirtobrutinib",
+   "avg_cost_per_unit_usd": 356.4311
+  },
+  {
+   "molecule": "fluticasone furoate",
+   "brand_examples": [
+    "Arnuity Ellipta"
+   ],
+   "spend_2024": 199856122.56,
+   "units_2024": 27079492,
+   "benes_2024": 181821,
+   "rxcui": "705022",
+   "atc": "R01AD12",
+   "rxnorm_name": "fluticasone furoate",
+   "search_name": "fluticasone furoate",
+   "avg_cost_per_unit_usd": 7.3803
+  },
+  {
+   "molecule": "dabigatran etexilate mesylate",
+   "brand_examples": [
+    "Dabigatran Etexilate",
+    "Pradaxa"
+   ],
+   "spend_2024": 199189373.93,
+   "units_2024": 102284910,
+   "benes_2024": 246553,
+   "rxcui": "1037041",
+   "atc": null,
+   "rxnorm_name": "dabigatran etexilate mesylate",
+   "search_name": "dabigatran etexilate mesylate",
+   "avg_cost_per_unit_usd": 1.9474
+  },
+  {
+   "molecule": "tenofovir alafenamide",
+   "brand_examples": [
+    "Vemlidy"
+   ],
+   "spend_2024": 198986500.7,
+   "units_2024": 4196510,
+   "benes_2024": 14948,
+   "rxcui": "1721603",
+   "atc": "J05AF13",
+   "rxnorm_name": "tenofovir alafenamide",
+   "search_name": "tenofovir alafenamide",
+   "avg_cost_per_unit_usd": 47.4171
+  },
+  {
+   "molecule": "budesonide",
+   "brand_examples": [
+    "Budesonide Dr",
+    "Budesonide EC",
+    "Budesonide ER",
+    "Budesonide*",
+    "Eohilia",
+    "Pulmicort",
+    "Pulmicort Flexhaler",
+    "Tarpeyo",
+    "Uceris*"
+   ],
+   "spend_2024": 197399963.7,
+   "units_2024": 50106368,
+   "benes_2024": 214569,
+   "rxcui": "19831",
+   "atc": "A07EA06",
+   "rxnorm_name": "budesonide",
+   "search_name": "budesonide",
+   "avg_cost_per_unit_usd": 3.9396
+  },
+  {
+   "molecule": "asciminib hydrochloride",
+   "brand_examples": [
+    "Scemblix"
+   ],
+   "spend_2024": 197186980.0,
+   "units_2024": 561463,
+   "benes_2024": 1314,
+   "rxcui": "2584303",
+   "atc": null,
+   "rxnorm_name": "asciminib hydrochloride",
+   "search_name": "asciminib hydrochloride",
+   "avg_cost_per_unit_usd": 351.2021
+  },
+  {
+   "molecule": "eculizumab",
+   "brand_examples": [
+    "Soliris"
+   ],
+   "spend_2024": 196193578.99,
+   "units_2024": 903790,
+   "benes_2024": 419,
+   "rxcui": "591781",
+   "atc": "L04AJ01",
+   "rxnorm_name": "eculizumab",
+   "search_name": "eculizumab",
+   "avg_cost_per_unit_usd": 217.0787
+  },
+  {
+   "molecule": "ocrelizumab",
+   "brand_examples": [
+    "Ocrevus"
+   ],
+   "spend_2024": 195066361.89,
+   "units_2024": 100959,
+   "benes_2024": 3085,
+   "rxcui": "1876366",
+   "atc": "L04AG08",
+   "rxnorm_name": "ocrelizumab",
+   "search_name": "ocrelizumab",
+   "avg_cost_per_unit_usd": 1932.1429
+  },
+  {
+   "molecule": "brimonidine tartrate",
+   "brand_examples": [
+    "Alphagan P",
+    "Brimonidine Tartrate*",
+    "Mirvaso"
+   ],
+   "spend_2024": 190677291.01,
+   "units_2024": 29586583,
+   "benes_2024": 729741,
+   "rxcui": "39171",
+   "atc": null,
+   "rxnorm_name": "brimonidine tartrate",
+   "search_name": "brimonidine tartrate",
+   "avg_cost_per_unit_usd": 6.4447
+  },
+  {
+   "molecule": "tenapanor hcl",
+   "brand_examples": [
+    "Ibsrela",
+    "Xphozah"
+   ],
+   "spend_2024": 189947037.74,
+   "units_2024": 4887458,
+   "benes_2024": 19652,
+   "rxcui": "2199673",
+   "atc": null,
+   "rxnorm_name": "tenapanor hcl",
+   "search_name": "tenapanor hcl",
+   "avg_cost_per_unit_usd": 38.8642
+  },
+  {
+   "molecule": "diroximel fumarate",
+   "brand_examples": [
+    "Vumerity"
+   ],
+   "spend_2024": 189805009.17,
+   "units_2024": 2624779,
+   "benes_2024": 2762,
+   "rxcui": "2261783",
+   "atc": "L04AX09",
+   "rxnorm_name": "diroximel fumarate",
+   "search_name": "diroximel fumarate",
+   "avg_cost_per_unit_usd": 72.3128
+  },
+  {
+   "molecule": "amikacin liposomal + neb.accessr",
+   "brand_examples": [
+    "Arikayce"
+   ],
+   "spend_2024": 187063382.21,
+   "units_2024": 2913002,
+   "benes_2024": 2647,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 64.2167
+  },
+  {
+   "molecule": "obeticholic acid",
+   "brand_examples": [
+    "Ocaliva"
+   ],
+   "spend_2024": 184965829.34,
+   "units_2024": 595138,
+   "benes_2024": 2104,
+   "rxcui": "1798288",
+   "atc": "A05AA04",
+   "rxnorm_name": "obeticholic acid",
+   "search_name": "obeticholic acid",
+   "avg_cost_per_unit_usd": 310.7949
+  },
+  {
+   "molecule": "buprenorphine",
+   "brand_examples": [
+    "Brixadi",
+    "Buprenorphine",
+    "Butrans",
+    "Sublocade"
+   ],
+   "spend_2024": 184755723.86,
+   "units_2024": 1952694,
+   "benes_2024": 104216,
+   "rxcui": "1819",
+   "atc": "N02AE01",
+   "rxnorm_name": "buprenorphine",
+   "search_name": "buprenorphine",
+   "avg_cost_per_unit_usd": 94.6158
+  },
+  {
+   "molecule": "enasidenib mesylate",
+   "brand_examples": [
+    "Idhifa"
+   ],
+   "spend_2024": 184699246.61,
+   "units_2024": 166880,
+   "benes_2024": 1016,
+   "rxcui": "1940331",
+   "atc": null,
+   "rxnorm_name": "enasidenib mesylate",
+   "search_name": "enasidenib mesylate",
+   "avg_cost_per_unit_usd": 1106.7788
+  },
+  {
+   "molecule": "sotatercept-csrk",
+   "brand_examples": [
+    "Winrevair",
+    "Winrevair (2 Pack)"
+   ],
+   "spend_2024": 184683606.35,
+   "units_2024": 10917,
+   "benes_2024": 1969,
+   "rxcui": "2678931",
+   "atc": null,
+   "rxnorm_name": "sotatercept-csrk",
+   "search_name": "sotatercept-csrk",
+   "avg_cost_per_unit_usd": 16917.0657
+  },
+  {
+   "molecule": "capivasertib",
+   "brand_examples": [
+    "Truqap"
+   ],
+   "spend_2024": 184169025.72,
+   "units_2024": 527064,
+   "benes_2024": 2247,
+   "rxcui": "2669967",
+   "atc": "L01EX27",
+   "rxnorm_name": "capivasertib",
+   "search_name": "capivasertib",
+   "avg_cost_per_unit_usd": 349.4244
+  },
+  {
+   "molecule": "esomeprazole magnesium",
+   "brand_examples": [
+    "Esomeprazole Magnesium",
+    "Nexium"
+   ],
+   "spend_2024": 184025002.68,
+   "units_2024": 213110516,
+   "benes_2024": 762280,
+   "rxcui": "283562",
+   "atc": null,
+   "rxnorm_name": "esomeprazole magnesium",
+   "search_name": "esomeprazole magnesium",
+   "avg_cost_per_unit_usd": 0.8635
+  },
+  {
+   "molecule": "tezepelumab-ekko",
+   "brand_examples": [
+    "Tezspire"
+   ],
+   "spend_2024": 183765287.62,
+   "units_2024": 81979,
+   "benes_2024": 6219,
+   "rxcui": "2587790",
+   "atc": null,
+   "rxnorm_name": "tezepelumab-ekko",
+   "search_name": "tezepelumab-ekko",
+   "avg_cost_per_unit_usd": 2241.6062
+  },
+  {
+   "molecule": "celecoxib",
+   "brand_examples": [
+    "Celebrex",
+    "Celecoxib",
+    "Elyxyb"
+   ],
+   "spend_2024": 180178984.34,
+   "units_2024": 382210030,
+   "benes_2024": 1863495,
+   "rxcui": "140587",
+   "atc": "L01XX33",
+   "rxnorm_name": "celecoxib",
+   "search_name": "celecoxib",
+   "avg_cost_per_unit_usd": 0.4714
+  },
+  {
+   "molecule": "sevelamer carbonate",
+   "brand_examples": [
+    "Renvela",
+    "Sevelamer Carbonate"
+   ],
+   "spend_2024": 179887716.96,
+   "units_2024": 206718839,
+   "benes_2024": 209603,
+   "rxcui": "660890",
+   "atc": null,
+   "rxnorm_name": "sevelamer carbonate",
+   "search_name": "sevelamer carbonate",
+   "avg_cost_per_unit_usd": 0.8702
+  },
+  {
+   "molecule": "famotidine",
+   "brand_examples": [
+    "Famotidine*",
+    "Pepcid"
+   ],
+   "spend_2024": 179777659.62,
+   "units_2024": 1106228532,
+   "benes_2024": 3926701,
+   "rxcui": "4278",
+   "atc": "A02BA03",
+   "rxnorm_name": "famotidine",
+   "search_name": "famotidine",
+   "avg_cost_per_unit_usd": 0.1625
+  },
+  {
+   "molecule": "ipratropium bromide",
+   "brand_examples": [
+    "Atrovent HFA",
+    "Ipratropium Bromide*"
+   ],
+   "spend_2024": 179693371.37,
+   "units_2024": 69880799,
+   "benes_2024": 927811,
+   "rxcui": "203212",
+   "atc": "R01AX03",
+   "rxnorm_name": "ipratropium bromide",
+   "search_name": "ipratropium bromide",
+   "avg_cost_per_unit_usd": 2.5714
+  },
+  {
+   "molecule": "risperidone",
+   "brand_examples": [
+    "Perseris",
+    "Risperdal",
+    "Risperidone",
+    "Risperidone ODT",
+    "Uzedy"
+   ],
+   "spend_2024": 178585524.11,
+   "units_2024": 193264041,
+   "benes_2024": 495915,
+   "rxcui": "35636",
+   "atc": "N05AX08",
+   "rxnorm_name": "risperidone",
+   "search_name": "risperidone",
+   "avg_cost_per_unit_usd": 0.924
+  },
+  {
+   "molecule": "cladribine",
+   "brand_examples": [
+    "Cladribine",
+    "Mavenclad"
+   ],
+   "spend_2024": 178213487.32,
+   "units_2024": 18243,
+   "benes_2024": 1315,
+   "rxcui": "44157",
+   "atc": "L01BB04",
+   "rxnorm_name": "cladribine",
+   "search_name": "cladribine",
+   "avg_cost_per_unit_usd": 9768.8696
+  },
+  {
+   "molecule": "amifampridine phosphate",
+   "brand_examples": [
+    "Firdapse"
+   ],
+   "spend_2024": 177822830.51,
+   "units_2024": 746187,
+   "benes_2024": 402,
+   "rxcui": "2106337",
+   "atc": null,
+   "rxnorm_name": "amifampridine phosphate",
+   "search_name": "amifampridine phosphate",
+   "avg_cost_per_unit_usd": 238.3087
+  },
+  {
+   "molecule": "leuprolide acetate",
+   "brand_examples": [
+    "Eligard",
+    "Leuprolide Acetate",
+    "Leuprolide Depot",
+    "Lupron Depot",
+    "Lupron Depot-Ped"
+   ],
+   "spend_2024": 176947467.03,
+   "units_2024": 41248,
+   "benes_2024": 15627,
+   "rxcui": "203217",
+   "atc": null,
+   "rxnorm_name": "leuprolide acetate",
+   "search_name": "leuprolide acetate",
+   "avg_cost_per_unit_usd": 4289.8436
+  },
+  {
+   "molecule": "lacosamide",
+   "brand_examples": [
+    "Lacosamide*",
+    "Motpoly XR",
+    "Vimpat*"
+   ],
+   "spend_2024": 175910241.42,
+   "units_2024": 103869653,
+   "benes_2024": 126122,
+   "rxcui": "623400",
+   "atc": "N03AX18",
+   "rxnorm_name": "lacosamide",
+   "search_name": "lacosamide",
+   "avg_cost_per_unit_usd": 1.6936
+  },
+  {
+   "molecule": "patiromer calcium sorbitex",
+   "brand_examples": [
+    "Veltassa"
+   ],
+   "spend_2024": 175068084.22,
+   "units_2024": 5129956,
+   "benes_2024": 52133,
+   "rxcui": "2204723",
+   "atc": null,
+   "rxnorm_name": "patiromer calcium sorbitex",
+   "search_name": "patiromer calcium sorbitex",
+   "avg_cost_per_unit_usd": 34.1266
+  },
+  {
+   "molecule": "buprenorphine hcl",
+   "brand_examples": [
+    "Belbuca",
+    "Buprenorphine HCl*"
+   ],
+   "spend_2024": 174885294.5,
+   "units_2024": 35517342,
+   "benes_2024": 88195,
+   "rxcui": "203841",
+   "atc": null,
+   "rxnorm_name": "buprenorphine hcl",
+   "search_name": "buprenorphine hcl",
+   "avg_cost_per_unit_usd": 4.9239
+  },
+  {
+   "molecule": "dabrafenib mesylate",
+   "brand_examples": [
+    "Tafinlar"
+   ],
+   "spend_2024": 173893215.25,
+   "units_2024": 1696312,
+   "benes_2024": 2440,
+   "rxcui": "1425222",
+   "atc": null,
+   "rxnorm_name": "dabrafenib mesylate",
+   "search_name": "dabrafenib mesylate",
+   "avg_cost_per_unit_usd": 102.5125
+  },
+  {
+   "molecule": "interferon beta-1a + albumin",
+   "brand_examples": [
+    "Rebif",
+    "Rebif Rebidose"
+   ],
+   "spend_2024": 173784479.77,
+   "units_2024": 98473,
+   "benes_2024": 1788,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1764.795
+  },
+  {
+   "molecule": "dextromethorphan hbr + quinidine",
+   "brand_examples": [
+    "Nuedexta"
+   ],
+   "spend_2024": 172956424.13,
+   "units_2024": 6440778,
+   "benes_2024": 15788,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 26.8533
+  },
+  {
+   "molecule": "somatropin",
+   "brand_examples": [
+    "Genotropin",
+    "Humatrope",
+    "Norditropin Flexpro",
+    "Nutropin Aq Nuspin",
+    "Omnitrope",
+    "Serostim",
+    "Zomacton"
+   ],
+   "spend_2024": 172365183.01,
+   "units_2024": 381389,
+   "benes_2024": 4100,
+   "rxcui": "61148",
+   "atc": "H01AC01",
+   "rxnorm_name": "somatropin",
+   "search_name": "somatropin",
+   "avg_cost_per_unit_usd": 451.9406
+  },
+  {
+   "molecule": "sarilumab",
+   "brand_examples": [
+    "Kevzara"
+   ],
+   "spend_2024": 172196863.69,
+   "units_2024": 92678,
+   "benes_2024": 6254,
+   "rxcui": "1923319",
+   "atc": "L04AC14",
+   "rxnorm_name": "sarilumab",
+   "search_name": "sarilumab",
+   "avg_cost_per_unit_usd": 1858.0047
+  },
+  {
+   "molecule": "pirfenidone",
+   "brand_examples": [
+    "Esbriet",
+    "Pirfenidone"
+   ],
+   "spend_2024": 169775108.54,
+   "units_2024": 10642970,
+   "benes_2024": 9840,
+   "rxcui": "1592254",
+   "atc": "L04AX05",
+   "rxnorm_name": "pirfenidone",
+   "search_name": "pirfenidone",
+   "avg_cost_per_unit_usd": 15.9519
+  },
+  {
+   "molecule": "netarsudil mesylate",
+   "brand_examples": [
+    "Rhopressa"
+   ],
+   "spend_2024": 168045637.46,
+   "units_2024": 1331777,
+   "benes_2024": 89311,
+   "rxcui": "1992863",
+   "atc": null,
+   "rxnorm_name": "netarsudil mesylate",
+   "search_name": "netarsudil mesylate",
+   "avg_cost_per_unit_usd": 126.1815
+  },
+  {
+   "molecule": "netarsudil mesylat + latanoprost",
+   "brand_examples": [
+    "Rocklatan"
+   ],
+   "spend_2024": 167398354.99,
+   "units_2024": 1259766,
+   "benes_2024": 78022,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 132.8806
+  },
+  {
+   "molecule": "epoetin alfa",
+   "brand_examples": [
+    "Epogen",
+    "Procrit"
+   ],
+   "spend_2024": 165620829.52,
+   "units_2024": 371201,
+   "benes_2024": 29054,
+   "rxcui": "105694",
+   "atc": null,
+   "rxnorm_name": "epoetin alfa",
+   "search_name": "epoetin alfa",
+   "avg_cost_per_unit_usd": 446.1753
+  },
+  {
+   "molecule": "trazodone hcl",
+   "brand_examples": [
+    "Trazodone HCl"
+   ],
+   "spend_2024": 165400397.52,
+   "units_2024": 1156910933,
+   "benes_2024": 3945008,
+   "rxcui": "82112",
+   "atc": null,
+   "rxnorm_name": "trazodone hcl",
+   "search_name": "trazodone hcl",
+   "avg_cost_per_unit_usd": 0.143
+  },
+  {
+   "molecule": "everolimus",
+   "brand_examples": [
+    "Afinitor",
+    "Afinitor Disperz",
+    "Everolimus",
+    "Zortress"
+   ],
+   "spend_2024": 165373285.73,
+   "units_2024": 2558422,
+   "benes_2024": 7547,
+   "rxcui": "141704",
+   "atc": "L01EG02",
+   "rxnorm_name": "everolimus",
+   "search_name": "everolimus",
+   "avg_cost_per_unit_usd": 64.6388
+  },
+  {
+   "molecule": "glecaprevir + pibrentasvir",
+   "brand_examples": [
+    "Mavyret"
+   ],
+   "spend_2024": 165321586.34,
+   "units_2024": 1061669,
+   "benes_2024": 6721,
+   "rxcui": "1940702",
+   "atc": "J05AP57",
+   "rxnorm_name": "glecaprevir + pibrentasvir",
+   "search_name": "glecaprevir / pibrentasvir",
+   "avg_cost_per_unit_usd": 155.7186
+  },
+  {
+   "molecule": "sodium oxybate",
+   "brand_examples": [
+    "Lumryz",
+    "Sodium Oxybate",
+    "Xyrem"
+   ],
+   "spend_2024": 164989915.91,
+   "units_2024": 4139848,
+   "benes_2024": 1396,
+   "rxcui": "9899",
+   "atc": "N01AX11",
+   "rxnorm_name": "sodium oxybate",
+   "search_name": "sodium oxybate",
+   "avg_cost_per_unit_usd": 39.8541
+  },
+  {
+   "molecule": "cenobamate",
+   "brand_examples": [
+    "Xcopri"
+   ],
+   "spend_2024": 164703012.87,
+   "units_2024": 4286870,
+   "benes_2024": 12500,
+   "rxcui": "2265690",
+   "atc": "N03AX25",
+   "rxnorm_name": "cenobamate",
+   "search_name": "cenobamate",
+   "avg_cost_per_unit_usd": 38.4203
+  },
+  {
+   "molecule": "mometasone + formoterol",
+   "brand_examples": [
+    "Dulera"
+   ],
+   "spend_2024": 162082132.71,
+   "units_2024": 6208994,
+   "benes_2024": 105783,
+   "rxcui": "1002293",
+   "atc": "R03AK09",
+   "rxnorm_name": "mometasone + formoterol",
+   "search_name": "mometasone / formoterol",
+   "avg_cost_per_unit_usd": 26.1044
+  },
+  {
+   "molecule": "sertraline hcl",
+   "brand_examples": [
+    "Sertraline HCl",
+    "Zoloft"
+   ],
+   "spend_2024": 161680366.71,
+   "units_2024": 1030986094,
+   "benes_2024": 3202060,
+   "rxcui": "155137",
+   "atc": null,
+   "rxnorm_name": "sertraline hcl",
+   "search_name": "sertraline hcl",
+   "avg_cost_per_unit_usd": 0.1568
+  },
+  {
+   "molecule": "clopidogrel bisulfate",
+   "brand_examples": [
+    "Clopidogrel",
+    "Plavix"
+   ],
+   "spend_2024": 160036576.52,
+   "units_2024": 890667050,
+   "benes_2024": 3410818,
+   "rxcui": "236991",
+   "atc": null,
+   "rxnorm_name": "clopidogrel bisulfate",
+   "search_name": "clopidogrel bisulfate",
+   "avg_cost_per_unit_usd": 0.1797
+  },
+  {
+   "molecule": "avapritinib",
+   "brand_examples": [
+    "Ayvakit"
+   ],
+   "spend_2024": 160026588.26,
+   "units_2024": 125138,
+   "benes_2024": 547,
+   "rxcui": "2272107",
+   "atc": "L01EX18",
+   "rxnorm_name": "avapritinib",
+   "search_name": "avapritinib",
+   "avg_cost_per_unit_usd": 1278.8009
+  },
+  {
+   "molecule": "avatrombopag maleate",
+   "brand_examples": [
+    "Doptelet"
+   ],
+   "spend_2024": 159677266.34,
+   "units_2024": 392925,
+   "benes_2024": 2329,
+   "rxcui": "2045727",
+   "atc": null,
+   "rxnorm_name": "avatrombopag maleate",
+   "search_name": "avatrombopag maleate",
+   "avg_cost_per_unit_usd": 406.381
+  },
+  {
+   "molecule": "ponatinib hcl",
+   "brand_examples": [
+    "Iclusig"
+   ],
+   "spend_2024": 159531148.73,
+   "units_2024": 228545,
+   "benes_2024": 1065,
+   "rxcui": "1364953",
+   "atc": null,
+   "rxnorm_name": "ponatinib hcl",
+   "search_name": "ponatinib hcl",
+   "avg_cost_per_unit_usd": 698.0295
+  },
+  {
+   "molecule": "venlafaxine hcl",
+   "brand_examples": [
+    "Effexor XR",
+    "Venlafaxine HCl",
+    "Venlafaxine HCl ER"
+   ],
+   "spend_2024": 159246560.14,
+   "units_2024": 440164460,
+   "benes_2024": 1163655,
+   "rxcui": "235988",
+   "atc": null,
+   "rxnorm_name": "venlafaxine hcl",
+   "search_name": "venlafaxine hcl",
+   "avg_cost_per_unit_usd": 0.3618
+  },
+  {
+   "molecule": "escitalopram oxalate",
+   "brand_examples": [
+    "Escitalopram Oxalate",
+    "Lexapro"
+   ],
+   "spend_2024": 158593098.4,
+   "units_2024": 750663751,
+   "benes_2024": 2729789,
+   "rxcui": "353108",
+   "atc": null,
+   "rxnorm_name": "escitalopram oxalate",
+   "search_name": "escitalopram oxalate",
+   "avg_cost_per_unit_usd": 0.2113
+  },
+  {
+   "molecule": "mirtazapine",
+   "brand_examples": [
+    "Mirtazapine",
+    "Remeron"
+   ],
+   "spend_2024": 158579878.54,
+   "units_2024": 356726287,
+   "benes_2024": 1648545,
+   "rxcui": "15996",
+   "atc": "N06AX11",
+   "rxnorm_name": "mirtazapine",
+   "search_name": "mirtazapine",
+   "avg_cost_per_unit_usd": 0.4445
+  },
+  {
+   "molecule": "immun glob g(igg)-ifas + glycine",
+   "brand_examples": [
+    "Panzyga"
+   ],
+   "spend_2024": 157873513.21,
+   "units_2024": 7367700,
+   "benes_2024": 912,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 21.4278
+  },
+  {
+   "molecule": "vedolizumab",
+   "brand_examples": [
+    "Entyvio",
+    "Entyvio Pen"
+   ],
+   "spend_2024": 156882357.49,
+   "units_2024": 22269,
+   "benes_2024": 3697,
+   "rxcui": "1538097",
+   "atc": "L04AG05",
+   "rxnorm_name": "vedolizumab",
+   "search_name": "vedolizumab",
+   "avg_cost_per_unit_usd": 7044.7501
+  },
+  {
+   "molecule": "prednisolone acetate",
+   "brand_examples": [
+    "Pred Forte",
+    "Pred Mild",
+    "Prednisolone Acetate"
+   ],
+   "spend_2024": 156735674.94,
+   "units_2024": 28489201,
+   "benes_2024": 2176827,
+   "rxcui": "34372",
+   "atc": null,
+   "rxnorm_name": "prednisolone acetate",
+   "search_name": "prednisolone acetate",
+   "avg_cost_per_unit_usd": 5.5016
+  },
+  {
+   "molecule": "risdiplam",
+   "brand_examples": [
+    "Evrysdi"
+   ],
+   "spend_2024": 154528771.76,
+   "units_2024": 931202,
+   "benes_2024": 471,
+   "rxcui": "2390935",
+   "atc": "M09AX10",
+   "rxnorm_name": "risdiplam",
+   "search_name": "risdiplam",
+   "avg_cost_per_unit_usd": 165.9455
+  },
+  {
+   "molecule": "fidaxomicin",
+   "brand_examples": [
+    "Dificid"
+   ],
+   "spend_2024": 153755014.43,
+   "units_2024": 634050,
+   "benes_2024": 26020,
+   "rxcui": "1111103",
+   "atc": "A07AA12",
+   "rxnorm_name": "fidaxomicin",
+   "search_name": "fidaxomicin",
+   "avg_cost_per_unit_usd": 242.4967
+  },
+  {
+   "molecule": "sotorasib",
+   "brand_examples": [
+    "Lumakras"
+   ],
+   "spend_2024": 153620120.69,
+   "units_2024": 1259246,
+   "benes_2024": 1563,
+   "rxcui": "2550714",
+   "atc": "L01XX73",
+   "rxnorm_name": "sotorasib",
+   "search_name": "sotorasib",
+   "avg_cost_per_unit_usd": 121.9937
+  },
+  {
+   "molecule": "naloxegol oxalate",
+   "brand_examples": [
+    "Movantik"
+   ],
+   "spend_2024": 153330439.93,
+   "units_2024": 11353715,
+   "benes_2024": 80688,
+   "rxcui": "1593586",
+   "atc": null,
+   "rxnorm_name": "naloxegol oxalate",
+   "search_name": "naloxegol oxalate",
+   "avg_cost_per_unit_usd": 13.5049
+  },
+  {
+   "molecule": "insulin detemir",
+   "brand_examples": [
+    "Levemir",
+    "Levemir Flexpen",
+    "Levemir Flextouch"
+   ],
+   "spend_2024": 152884525.27,
+   "units_2024": 15113203,
+   "benes_2024": 262182,
+   "rxcui": "139825",
+   "atc": "A10AE05",
+   "rxnorm_name": "insulin detemir",
+   "search_name": "insulin detemir",
+   "avg_cost_per_unit_usd": 10.116
+  },
+  {
+   "molecule": "teprotumumab-trbw",
+   "brand_examples": [
+    "Tepezza"
+   ],
+   "spend_2024": 151911672.35,
+   "units_2024": 10778,
+   "benes_2024": 515,
+   "rxcui": "2274802",
+   "atc": null,
+   "rxnorm_name": "teprotumumab-trbw",
+   "search_name": "teprotumumab-trbw",
+   "avg_cost_per_unit_usd": 14094.6068
+  },
+  {
+   "molecule": "risperidone microspheres",
+   "brand_examples": [
+    "Risperdal Consta",
+    "Risperidone ER"
+   ],
+   "spend_2024": 150918568.81,
+   "units_2024": 162502,
+   "benes_2024": 13331,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 928.7171
+  },
+  {
+   "molecule": "suvorexant",
+   "brand_examples": [
+    "Belsomra"
+   ],
+   "spend_2024": 150180014.54,
+   "units_2024": 10353090,
+   "benes_2024": 77098,
+   "rxcui": "1547099",
+   "atc": "N05CJ01",
+   "rxnorm_name": "suvorexant",
+   "search_name": "suvorexant",
+   "avg_cost_per_unit_usd": 14.5058
+  },
+  {
+   "molecule": "c1 esterase inhibitor",
+   "brand_examples": [
+    "Berinert",
+    "Cinryze",
+    "Haegarda"
+   ],
+   "spend_2024": 149717081.63,
+   "units_2024": 47164,
+   "benes_2024": 296,
+   "rxcui": "1599832",
+   "atc": null,
+   "rxnorm_name": "c1 esterase inhibitor",
+   "search_name": "c1 esterase inhibitor",
+   "avg_cost_per_unit_usd": 3174.3932
+  },
+  {
+   "molecule": "valsartan",
+   "brand_examples": [
+    "Diovan",
+    "Valsartan"
+   ],
+   "spend_2024": 148439850.3,
+   "units_2024": 382450488,
+   "benes_2024": 1205634,
+   "rxcui": "69749",
+   "atc": "C09CA03",
+   "rxnorm_name": "valsartan",
+   "search_name": "valsartan",
+   "avg_cost_per_unit_usd": 0.3881
+  },
+  {
+   "molecule": "furosemide",
+   "brand_examples": [
+    "Furoscix",
+    "Furosemide*",
+    "Lasix"
+   ],
+   "spend_2024": 146616106.95,
+   "units_2024": 1523383355,
+   "benes_2024": 5795519,
+   "rxcui": "4603",
+   "atc": "C03CA01",
+   "rxnorm_name": "furosemide",
+   "search_name": "furosemide",
+   "avg_cost_per_unit_usd": 0.0962
+  },
+  {
+   "molecule": "eslicarbazepine acetate",
+   "brand_examples": [
+    "Aptiom"
+   ],
+   "spend_2024": 144071383.37,
+   "units_2024": 3356250,
+   "benes_2024": 8265,
+   "rxcui": "1482501",
+   "atc": null,
+   "rxnorm_name": "eslicarbazepine acetate",
+   "search_name": "eslicarbazepine acetate",
+   "avg_cost_per_unit_usd": 42.9263
+  },
+  {
+   "molecule": "montelukast sodium",
+   "brand_examples": [
+    "Montelukast Sodium",
+    "Singulair"
+   ],
+   "spend_2024": 141975419.27,
+   "units_2024": 820974911,
+   "benes_2024": 3179795,
+   "rxcui": "115713",
+   "atc": null,
+   "rxnorm_name": "montelukast sodium",
+   "search_name": "montelukast sodium",
+   "avg_cost_per_unit_usd": 0.1729
+  },
+  {
+   "molecule": "empagliflozin + linagliptin",
+   "brand_examples": [
+    "Glyxambi"
+   ],
+   "spend_2024": 141061135.08,
+   "units_2024": 7249396,
+   "benes_2024": 28725,
+   "rxcui": "1598392",
+   "atc": "A10BD19",
+   "rxnorm_name": "empagliflozin + linagliptin",
+   "search_name": "empagliflozin / linagliptin",
+   "avg_cost_per_unit_usd": 19.4583
+  },
+  {
+   "molecule": "vutrisiran sodium",
+   "brand_examples": [
+    "Amvuttra"
+   ],
+   "spend_2024": 140924646.88,
+   "units_2024": 596,
+   "benes_2024": 409,
+   "rxcui": "2605574",
+   "atc": null,
+   "rxnorm_name": "vutrisiran sodium",
+   "search_name": "vutrisiran sodium",
+   "avg_cost_per_unit_usd": 236450.7498
+  },
+  {
+   "molecule": "tolvaptan",
+   "brand_examples": [
+    "Jynarque",
+    "Samsca",
+    "Tolvaptan"
+   ],
+   "spend_2024": 140172264.19,
+   "units_2024": 471501,
+   "benes_2024": 2256,
+   "rxcui": "358257",
+   "atc": "C03XA01",
+   "rxnorm_name": "tolvaptan",
+   "search_name": "tolvaptan",
+   "avg_cost_per_unit_usd": 297.2894
+  },
+  {
+   "molecule": "pembrolizumab",
+   "brand_examples": [
+    "Keytruda"
+   ],
+   "spend_2024": 140055039.83,
+   "units_2024": 100706,
+   "benes_2024": 1906,
+   "rxcui": "1547545",
+   "atc": "L01FF02",
+   "rxnorm_name": "pembrolizumab",
+   "search_name": "pembrolizumab",
+   "avg_cost_per_unit_usd": 1390.7318
+  },
+  {
+   "molecule": "tucatinib",
+   "brand_examples": [
+    "Tukysa"
+   ],
+   "spend_2024": 139353829.59,
+   "units_2024": 720301,
+   "benes_2024": 1182,
+   "rxcui": "2361285",
+   "atc": "L01EH03",
+   "rxnorm_name": "tucatinib",
+   "search_name": "tucatinib",
+   "avg_cost_per_unit_usd": 193.4661
+  },
+  {
+   "molecule": "encorafenib",
+   "brand_examples": [
+    "Braftovi"
+   ],
+   "spend_2024": 138103680.02,
+   "units_2024": 1370716,
+   "benes_2024": 1872,
+   "rxcui": "2049106",
+   "atc": "L01EC03",
+   "rxnorm_name": "encorafenib",
+   "search_name": "encorafenib",
+   "avg_cost_per_unit_usd": 100.7529
+  },
+  {
+   "molecule": "fruquintinib",
+   "brand_examples": [
+    "Fruzaqla"
+   ],
+   "spend_2024": 137466500.32,
+   "units_2024": 201905,
+   "benes_2024": 1935,
+   "rxcui": "2670179",
+   "atc": "L01EK04",
+   "rxnorm_name": "fruquintinib",
+   "search_name": "fruquintinib",
+   "avg_cost_per_unit_usd": 680.8474
+  },
+  {
+   "molecule": "carvedilol",
+   "brand_examples": [
+    "Carvedilol",
+    "Coreg"
+   ],
+   "spend_2024": 136247160.6,
+   "units_2024": 2108020582,
+   "benes_2024": 3646738,
+   "rxcui": "20352",
+   "atc": "C07AG02",
+   "rxnorm_name": "carvedilol",
+   "search_name": "carvedilol",
+   "avg_cost_per_unit_usd": 0.0646
+  },
+  {
+   "molecule": "raltegravir potassium",
+   "brand_examples": [
+    "Isentress",
+    "Isentress Hd"
+   ],
+   "spend_2024": 135755851.86,
+   "units_2024": 4109079,
+   "benes_2024": 8416,
+   "rxcui": "1235585",
+   "atc": null,
+   "rxnorm_name": "raltegravir potassium",
+   "search_name": "raltegravir potassium",
+   "avg_cost_per_unit_usd": 33.038
+  },
+  {
+   "molecule": "latanoprost",
+   "brand_examples": [
+    "Latanoprost",
+    "Xalatan"
+   ],
+   "spend_2024": 134865338.34,
+   "units_2024": 55045565,
+   "benes_2024": 2568896,
+   "rxcui": "43611",
+   "atc": "S01EE01",
+   "rxnorm_name": "latanoprost",
+   "search_name": "latanoprost",
+   "avg_cost_per_unit_usd": 2.4501
+  },
+  {
+   "molecule": "methylnaltrexone bromide",
+   "brand_examples": [
+    "Relistor*"
+   ],
+   "spend_2024": 134570149.87,
+   "units_2024": 4486980,
+   "benes_2024": 15616,
+   "rxcui": "979111",
+   "atc": "A06AH01",
+   "rxnorm_name": "methylnaltrexone bromide",
+   "search_name": "methylnaltrexone bromide",
+   "avg_cost_per_unit_usd": 29.9912
+  },
+  {
+   "molecule": "lisdexamfetamine dimesylate",
+   "brand_examples": [
+    "Lisdexamfetamine Dimesylate",
+    "Vyvanse"
+   ],
+   "spend_2024": 133327795.51,
+   "units_2024": 13301508,
+   "benes_2024": 87492,
+   "rxcui": "673579",
+   "atc": null,
+   "rxnorm_name": "lisdexamfetamine dimesylate",
+   "search_name": "lisdexamfetamine dimesylate",
+   "avg_cost_per_unit_usd": 10.0235
+  },
+  {
+   "molecule": "pitolisant hcl",
+   "brand_examples": [
+    "Wakix"
+   ],
+   "spend_2024": 132456457.85,
+   "units_2024": 527680,
+   "benes_2024": 1402,
+   "rxcui": "2197879",
+   "atc": null,
+   "rxnorm_name": "pitolisant hcl",
+   "search_name": "pitolisant hcl",
+   "avg_cost_per_unit_usd": 251.0166
+  },
+  {
+   "molecule": "ferric citrate",
+   "brand_examples": [
+    "Auryxia"
+   ],
+   "spend_2024": 131543849.36,
+   "units_2024": 18180114,
+   "benes_2024": 17163,
+   "rxcui": "1594675",
+   "atc": "V03AE08",
+   "rxnorm_name": "ferric citrate",
+   "search_name": "ferric citrate",
+   "avg_cost_per_unit_usd": 7.2356
+  },
+  {
+   "molecule": "omeprazole + sodium bicarbonate",
+   "brand_examples": [
+    "Konvomep",
+    "Omeprazole-Sodium Bicarbonate",
+    "Zegerid"
+   ],
+   "spend_2024": 130105832.44,
+   "units_2024": 7599742,
+   "benes_2024": 20466,
+   "rxcui": "617777",
+   "atc": null,
+   "rxnorm_name": "omeprazole + sodium bicarbonate",
+   "search_name": "omeprazole / sodium bicarbonate",
+   "avg_cost_per_unit_usd": 17.1198
+  },
+  {
+   "molecule": "topiramate",
+   "brand_examples": [
+    "Eprontia",
+    "Qudexy XR",
+    "Topamax",
+    "Topiramate",
+    "Topiramate ER",
+    "Trokendi XR"
+   ],
+   "spend_2024": 130071322.16,
+   "units_2024": 337467775,
+   "benes_2024": 703117,
+   "rxcui": "38404",
+   "atc": "N03AX11",
+   "rxnorm_name": "topiramate",
+   "search_name": "topiramate",
+   "avg_cost_per_unit_usd": 0.3854
+  },
+  {
+   "molecule": "sucralfate",
+   "brand_examples": [
+    "Carafate",
+    "Sucralfate"
+   ],
+   "spend_2024": 129780785.27,
+   "units_2024": 497336069,
+   "benes_2024": 851256,
+   "rxcui": "10156",
+   "atc": "A02BX02",
+   "rxnorm_name": "sucralfate",
+   "search_name": "sucralfate",
+   "avg_cost_per_unit_usd": 0.261
+  },
+  {
+   "molecule": "latanoprostene bunod",
+   "brand_examples": [
+    "Vyzulta"
+   ],
+   "spend_2024": 128286737.76,
+   "units_2024": 1297947,
+   "benes_2024": 75825,
+   "rxcui": "1988390",
+   "atc": "S01EE06",
+   "rxnorm_name": "latanoprostene bunod",
+   "search_name": "latanoprostene bunod",
+   "avg_cost_per_unit_usd": 98.8382
+  },
+  {
+   "molecule": "esketamine hcl",
+   "brand_examples": [
+    "Spravato"
+   ],
+   "spend_2024": 128139292.67,
+   "units_2024": 324493,
+   "benes_2024": 5542,
+   "rxcui": "2119366",
+   "atc": null,
+   "rxnorm_name": "esketamine hcl",
+   "search_name": "esketamine hcl",
+   "avg_cost_per_unit_usd": 394.8913
+  },
+  {
+   "molecule": "carbamazepine",
+   "brand_examples": [
+    "Carbamazepine",
+    "Carbamazepine ER",
+    "Carbatrol",
+    "Epitol",
+    "Equetro",
+    "Tegretol",
+    "Tegretol XR"
+   ],
+   "spend_2024": 128082406.35,
+   "units_2024": 198214293,
+   "benes_2024": 229289,
+   "rxcui": "2002",
+   "atc": "N03AF01",
+   "rxnorm_name": "carbamazepine",
+   "search_name": "carbamazepine",
+   "avg_cost_per_unit_usd": 0.6462
+  },
+  {
+   "molecule": "simvastatin",
+   "brand_examples": [
+    "Flolipid",
+    "Simvastatin",
+    "Zocor"
+   ],
+   "spend_2024": 128001839.55,
+   "units_2024": 1139522932,
+   "benes_2024": 3669172,
+   "rxcui": "36567",
+   "atc": "C10AA01",
+   "rxnorm_name": "simvastatin",
+   "search_name": "simvastatin",
+   "avg_cost_per_unit_usd": 0.1123
+  },
+  {
+   "molecule": "pitavastatin calcium",
+   "brand_examples": [
+    "Livalo",
+    "Pitavastatin Calcium"
+   ],
+   "spend_2024": 127641653.08,
+   "units_2024": 19310420,
+   "benes_2024": 86832,
+   "rxcui": "861640",
+   "atc": null,
+   "rxnorm_name": "pitavastatin calcium",
+   "search_name": "pitavastatin calcium",
+   "avg_cost_per_unit_usd": 6.61
+  },
+  {
+   "molecule": "olanzapine + samidorphan malate",
+   "brand_examples": [
+    "Lybalvi"
+   ],
+   "spend_2024": 127260664.12,
+   "units_2024": 2373291,
+   "benes_2024": 11665,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 53.622
+  },
+  {
+   "molecule": "pravastatin sodium",
+   "brand_examples": [
+    "Pravastatin Sodium"
+   ],
+   "spend_2024": 126966414.24,
+   "units_2024": 704890397,
+   "benes_2024": 2344151,
+   "rxcui": "203144",
+   "atc": null,
+   "rxnorm_name": "pravastatin sodium",
+   "search_name": "pravastatin sodium",
+   "avg_cost_per_unit_usd": 0.1801
+  },
+  {
+   "molecule": "clobetasol propionate",
+   "brand_examples": [
+    "Clobetasol Propionate",
+    "Clobex",
+    "Clodan"
+   ],
+   "spend_2024": 126925951.97,
+   "units_2024": 147934298,
+   "benes_2024": 1472451,
+   "rxcui": "21245",
+   "atc": null,
+   "rxnorm_name": "clobetasol propionate",
+   "search_name": "clobetasol propionate",
+   "avg_cost_per_unit_usd": 0.858
+  },
+  {
+   "molecule": "efgartigimod-hyaluronidas-qvfc",
+   "brand_examples": [
+    "Vyvgart Hytrulo"
+   ],
+   "spend_2024": 126101724.87,
+   "units_2024": 44499,
+   "benes_2024": 658,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 2833.8103
+  },
+  {
+   "molecule": "olanzapine",
+   "brand_examples": [
+    "Olanzapine ODT",
+    "Olanzapine*",
+    "Zyprexa Zydis",
+    "Zyprexa*"
+   ],
+   "spend_2024": 125384338.04,
+   "units_2024": 151396372,
+   "benes_2024": 606506,
+   "rxcui": "61381",
+   "atc": "N05AH03",
+   "rxnorm_name": "olanzapine",
+   "search_name": "olanzapine",
+   "avg_cost_per_unit_usd": 0.8282
+  },
+  {
+   "molecule": "capmatinib hydrochloride",
+   "brand_examples": [
+    "Tabrecta"
+   ],
+   "spend_2024": 124105409.21,
+   "units_2024": 629520,
+   "benes_2024": 1169,
+   "rxcui": "2362259",
+   "atc": null,
+   "rxnorm_name": "capmatinib hydrochloride",
+   "search_name": "capmatinib hydrochloride",
+   "avg_cost_per_unit_usd": 197.1429
+  },
+  {
+   "molecule": "amantadine hcl",
+   "brand_examples": [
+    "Amantadine",
+    "Gocovri",
+    "Osmolex ER"
+   ],
+   "spend_2024": 123470222.11,
+   "units_2024": 54652598,
+   "benes_2024": 109379,
+   "rxcui": "282415",
+   "atc": null,
+   "rxnorm_name": "amantadine hcl",
+   "search_name": "amantadine hcl",
+   "avg_cost_per_unit_usd": 2.2592
+  },
+  {
+   "molecule": "plecanatide",
+   "brand_examples": [
+    "Trulance"
+   ],
+   "spend_2024": 123236395.23,
+   "units_2024": 6805795,
+   "benes_2024": 44622,
+   "rxcui": "1873752",
+   "atc": "A06AX07",
+   "rxnorm_name": "plecanatide",
+   "search_name": "plecanatide",
+   "avg_cost_per_unit_usd": 18.1076
+  },
+  {
+   "molecule": "isavuconazonium sulfate",
+   "brand_examples": [
+    "Cresemba*"
+   ],
+   "spend_2024": 123034268.62,
+   "units_2024": 1143557,
+   "benes_2024": 4665,
+   "rxcui": "1608321",
+   "atc": null,
+   "rxnorm_name": "isavuconazonium sulfate",
+   "search_name": "isavuconazonium sulfate",
+   "avg_cost_per_unit_usd": 107.5891
+  },
+  {
+   "molecule": "infliximab",
+   "brand_examples": [
+    "Infliximab",
+    "Remicade"
+   ],
+   "spend_2024": 122409873.92,
+   "units_2024": 120688,
+   "benes_2024": 3580,
+   "rxcui": "191831",
+   "atc": "L04AB02",
+   "rxnorm_name": "infliximab",
+   "search_name": "infliximab",
+   "avg_cost_per_unit_usd": 1014.2647
+  },
+  {
+   "molecule": "onabotulinumtoxina",
+   "brand_examples": [
+    "Botox"
+   ],
+   "spend_2024": 122282695.27,
+   "units_2024": 130575,
+   "benes_2024": 35913,
+   "rxcui": "860189",
+   "atc": null,
+   "rxnorm_name": "onabotulinumtoxina",
+   "search_name": "onabotulinumtoxina",
+   "avg_cost_per_unit_usd": 936.4939
+  },
+  {
+   "molecule": "insulin nph hum + reg insulin hm",
+   "brand_examples": [
+    "Humulin 70-30",
+    "Humulin 70/30 Kwikpen",
+    "Novolin 70-30",
+    "Novolin 70-30 Flexpen"
+   ],
+   "spend_2024": 122146644.54,
+   "units_2024": 22842385,
+   "benes_2024": 172744,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 5.3474
+  },
+  {
+   "molecule": "diclofenac epolamine",
+   "brand_examples": [
+    "Diclofenac Epolamine",
+    "Flector",
+    "Licart"
+   ],
+   "spend_2024": 121998917.63,
+   "units_2024": 10947816,
+   "benes_2024": 38156,
+   "rxcui": "40968",
+   "atc": null,
+   "rxnorm_name": "diclofenac epolamine",
+   "search_name": "diclofenac epolamine",
+   "avg_cost_per_unit_usd": 11.1437
+  },
+  {
+   "molecule": "molnupiravir",
+   "brand_examples": [
+    "Lagevrio (Eua)"
+   ],
+   "spend_2024": 120713773.57,
+   "units_2024": 8260328,
+   "benes_2024": 204150,
+   "rxcui": "2587901",
+   "atc": "J05AB18",
+   "rxnorm_name": "molnupiravir",
+   "search_name": "molnupiravir",
+   "avg_cost_per_unit_usd": 14.6137
+  },
+  {
+   "molecule": "daptomycin",
+   "brand_examples": [
+    "Daptomycin"
+   ],
+   "spend_2024": 120655232.75,
+   "units_2024": 2875270,
+   "benes_2024": 35354,
+   "rxcui": "22299",
+   "atc": "J01XX09",
+   "rxnorm_name": "daptomycin",
+   "search_name": "daptomycin",
+   "avg_cost_per_unit_usd": 41.9631
+  },
+  {
+   "molecule": "letermovir",
+   "brand_examples": [
+    "Prevymis*"
+   ],
+   "spend_2024": 120450530.64,
+   "units_2024": 480804,
+   "benes_2024": 3884,
+   "rxcui": "1988648",
+   "atc": "J05AX18",
+   "rxnorm_name": "letermovir",
+   "search_name": "letermovir",
+   "avg_cost_per_unit_usd": 250.519
+  },
+  {
+   "molecule": "epinephrine",
+   "brand_examples": [
+    "Adrenalin",
+    "Auvi-Q",
+    "Epinephrine",
+    "Epipen 2-Pak",
+    "Neffy"
+   ],
+   "spend_2024": 120432005.2,
+   "units_2024": 1203980,
+   "benes_2024": 462731,
+   "rxcui": "3992",
+   "atc": "A01AD01",
+   "rxnorm_name": "epinephrine",
+   "search_name": "epinephrine",
+   "avg_cost_per_unit_usd": 100.0282
+  },
+  {
+   "molecule": "tivozanib hcl",
+   "brand_examples": [
+    "Fotivda"
+   ],
+   "spend_2024": 118900828.62,
+   "units_2024": 85460,
+   "benes_2024": 993,
+   "rxcui": "2534245",
+   "atc": null,
+   "rxnorm_name": "tivozanib hcl",
+   "search_name": "tivozanib hcl",
+   "avg_cost_per_unit_usd": 1391.3039
+  },
+  {
+   "molecule": "efinaconazole",
+   "brand_examples": [
+    "Jublia"
+   ],
+   "spend_2024": 118601786.17,
+   "units_2024": 640533,
+   "benes_2024": 35400,
+   "rxcui": "1539753",
+   "atc": "D01AC19",
+   "rxnorm_name": "efinaconazole",
+   "search_name": "efinaconazole",
+   "avg_cost_per_unit_usd": 185.1611
+  },
+  {
+   "molecule": "alpelisib",
+   "brand_examples": [
+    "Piqray",
+    "Vijoice"
+   ],
+   "spend_2024": 118298214.08,
+   "units_2024": 259639,
+   "benes_2024": 1219,
+   "rxcui": "2169285",
+   "atc": "L01EM03",
+   "rxnorm_name": "alpelisib",
+   "search_name": "alpelisib",
+   "avg_cost_per_unit_usd": 455.6257
+  },
+  {
+   "molecule": "oxcarbazepine",
+   "brand_examples": [
+    "Oxcarbazepine",
+    "Oxcarbazepine ER",
+    "Oxtellar XR",
+    "Trileptal"
+   ],
+   "spend_2024": 118089543.01,
+   "units_2024": 139762983,
+   "benes_2024": 207523,
+   "rxcui": "32624",
+   "atc": "N03AF02",
+   "rxnorm_name": "oxcarbazepine",
+   "search_name": "oxcarbazepine",
+   "avg_cost_per_unit_usd": 0.8449
+  },
+  {
+   "molecule": "vismodegib",
+   "brand_examples": [
+    "Erivedge"
+   ],
+   "spend_2024": 116769823.67,
+   "units_2024": 246184,
+   "benes_2024": 1870,
+   "rxcui": "1242987",
+   "atc": "L01XJ01",
+   "rxnorm_name": "vismodegib",
+   "search_name": "vismodegib",
+   "avg_cost_per_unit_usd": 474.3193
+  },
+  {
+   "molecule": "lorlatinib",
+   "brand_examples": [
+    "Lorbrena"
+   ],
+   "spend_2024": 116734265.2,
+   "units_2024": 309298,
+   "benes_2024": 868,
+   "rxcui": "2103164",
+   "atc": "L01ED05",
+   "rxnorm_name": "lorlatinib",
+   "search_name": "lorlatinib",
+   "avg_cost_per_unit_usd": 377.4168
+  },
+  {
+   "molecule": "perfluorohexyloctane + pf",
+   "brand_examples": [
+    "Miebo"
+   ],
+   "spend_2024": 116305941.79,
+   "units_2024": 471662,
+   "benes_2024": 48590,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 246.5875
+  },
+  {
+   "molecule": "fostemsavir tromethamine",
+   "brand_examples": [
+    "Rukobia"
+   ],
+   "spend_2024": 115037190.62,
+   "units_2024": 777659,
+   "benes_2024": 1505,
+   "rxcui": "2380374",
+   "atc": null,
+   "rxnorm_name": "fostemsavir tromethamine",
+   "search_name": "fostemsavir tromethamine",
+   "avg_cost_per_unit_usd": 147.9276
+  },
+  {
+   "molecule": "linagliptin + metformin hcl",
+   "brand_examples": [
+    "Jentadueto",
+    "Jentadueto XR"
+   ],
+   "spend_2024": 114386045.03,
+   "units_2024": 12703542,
+   "benes_2024": 28205,
+   "rxcui": "1243019",
+   "atc": "A10BD11",
+   "rxnorm_name": "linagliptin + metformin hcl",
+   "search_name": "linagliptin / metformin hcl",
+   "avg_cost_per_unit_usd": 9.0043
+  },
+  {
+   "molecule": "lotilaner",
+   "brand_examples": [
+    "Xdemvy"
+   ],
+   "spend_2024": 114252679.32,
+   "units_2024": 611898,
+   "benes_2024": 57626,
+   "rxcui": "1998841",
+   "atc": "S01AX25",
+   "rxnorm_name": "lotilaner",
+   "search_name": "lotilaner",
+   "avg_cost_per_unit_usd": 186.7184
+  },
+  {
+   "molecule": "propranolol hcl",
+   "brand_examples": [
+    "Inderal La",
+    "Inderal XL",
+    "Innopran XL",
+    "Propranolol HCl ER",
+    "Propranolol HCl*"
+   ],
+   "spend_2024": 112120124.46,
+   "units_2024": 428906571,
+   "benes_2024": 999700,
+   "rxcui": "82084",
+   "atc": null,
+   "rxnorm_name": "propranolol hcl",
+   "search_name": "propranolol hcl",
+   "avg_cost_per_unit_usd": 0.2614
+  },
+  {
+   "molecule": "dextroamphetamine + amphetamine",
+   "brand_examples": [
+    "Adderall",
+    "Adderall XR",
+    "Dextroamphetamine-Amphet ER",
+    "Dextroamphetamine-Amphetamine",
+    "Mydayis"
+   ],
+   "spend_2024": 111966169.32,
+   "units_2024": 129906083,
+   "benes_2024": 369620,
+   "rxcui": "253146",
+   "atc": null,
+   "rxnorm_name": "dextroamphetamine + amphetamine",
+   "search_name": "dextroamphetamine / amphetamine",
+   "avg_cost_per_unit_usd": 0.8619
+  },
+  {
+   "molecule": "ranolazine",
+   "brand_examples": [
+    "Aspruzyo Sprinkle",
+    "Ranolazine ER"
+   ],
+   "spend_2024": 111440668.18,
+   "units_2024": 141429889,
+   "benes_2024": 301059,
+   "rxcui": "35829",
+   "atc": "C01EB18",
+   "rxnorm_name": "ranolazine",
+   "search_name": "ranolazine",
+   "avg_cost_per_unit_usd": 0.788
+  },
+  {
+   "molecule": "buspirone hcl",
+   "brand_examples": [
+    "Buspirone HCl"
+   ],
+   "spend_2024": 111220887.92,
+   "units_2024": 790145925,
+   "benes_2024": 1554487,
+   "rxcui": "203116",
+   "atc": null,
+   "rxnorm_name": "buspirone hcl",
+   "search_name": "buspirone hcl",
+   "avg_cost_per_unit_usd": 0.1408
+  },
+  {
+   "molecule": "glucagon",
+   "brand_examples": [
+    "Baqsimi",
+    "Glucagen",
+    "Glucagon Emergency Kit",
+    "Gvoke",
+    "Gvoke Hypopen 1-Pack",
+    "Gvoke Hypopen 2-Pack",
+    "Gvoke PFS 1-Pack Syringe",
+    "Gvoke PFS 2-Pack Syringe"
+   ],
+   "spend_2024": 111156052.7,
+   "units_2024": 211802,
+   "benes_2024": 162149,
+   "rxcui": "4832",
+   "atc": "H04AA01",
+   "rxnorm_name": "glucagon",
+   "search_name": "glucagon",
+   "avg_cost_per_unit_usd": 524.8102
+  },
+  {
+   "molecule": "valacyclovir hcl",
+   "brand_examples": [
+    "Valacyclovir",
+    "Valtrex"
+   ],
+   "spend_2024": 111093876.71,
+   "units_2024": 141482161,
+   "benes_2024": 1535607,
+   "rxcui": "236081",
+   "atc": null,
+   "rxnorm_name": "valacyclovir hcl",
+   "search_name": "valacyclovir hcl",
+   "avg_cost_per_unit_usd": 0.7852
+  },
+  {
+   "molecule": "oxybutynin chloride",
+   "brand_examples": [
+    "Gelnique",
+    "Oxybutynin Chloride",
+    "Oxybutynin Chloride ER"
+   ],
+   "spend_2024": 110865468.93,
+   "units_2024": 408751692,
+   "benes_2024": 1476314,
+   "rxcui": "54251",
+   "atc": null,
+   "rxnorm_name": "oxybutynin chloride",
+   "search_name": "oxybutynin chloride",
+   "avg_cost_per_unit_usd": 0.2712
+  },
+  {
+   "molecule": "pacritinib citrate",
+   "brand_examples": [
+    "Vonjo"
+   ],
+   "spend_2024": 110818538.14,
+   "units_2024": 527036,
+   "benes_2024": 1046,
+   "rxcui": "2595242",
+   "atc": null,
+   "rxnorm_name": "pacritinib citrate",
+   "search_name": "pacritinib citrate",
+   "avg_cost_per_unit_usd": 210.2675
+  },
+  {
+   "molecule": "tadalafil",
+   "brand_examples": [
+    "Adcirca",
+    "Alyq",
+    "Cialis",
+    "Tadalafil",
+    "Tadliq"
+   ],
+   "spend_2024": 109271419.76,
+   "units_2024": 19797623,
+   "benes_2024": 89968,
+   "rxcui": "358263",
+   "atc": "G04BE08",
+   "rxnorm_name": "tadalafil",
+   "search_name": "tadalafil",
+   "avg_cost_per_unit_usd": 5.5194
+  },
+  {
+   "molecule": "fingolimod hcl",
+   "brand_examples": [
+    "Fingolimod",
+    "Gilenya"
+   ],
+   "spend_2024": 108295671.38,
+   "units_2024": 1022836,
+   "benes_2024": 4073,
+   "rxcui": "1012891",
+   "atc": null,
+   "rxnorm_name": "fingolimod hcl",
+   "search_name": "fingolimod hcl",
+   "avg_cost_per_unit_usd": 105.8779
+  },
+  {
+   "molecule": "clozapine",
+   "brand_examples": [
+    "Clozapine",
+    "Clozapine ODT",
+    "Clozaril",
+    "Versacloz"
+   ],
+   "spend_2024": 108068170.68,
+   "units_2024": 69177519,
+   "benes_2024": 68660,
+   "rxcui": "2626",
+   "atc": "N05AH02",
+   "rxnorm_name": "clozapine",
+   "search_name": "clozapine",
+   "avg_cost_per_unit_usd": 1.5622
+  },
+  {
+   "molecule": "sacrosidase",
+   "brand_examples": [
+    "Sucraid"
+   ],
+   "spend_2024": 107661425.15,
+   "units_2024": 2772748,
+   "benes_2024": 2168,
+   "rxcui": "214817",
+   "atc": "A16AB06",
+   "rxnorm_name": "sacrosidase",
+   "search_name": "sacrosidase",
+   "avg_cost_per_unit_usd": 38.8284
+  },
+  {
+   "molecule": "tacrolimus",
+   "brand_examples": [
+    "Astagraf XL",
+    "Envarsus XR",
+    "Prograf*",
+    "Tacrolimus*"
+   ],
+   "spend_2024": 107378649.46,
+   "units_2024": 72032840,
+   "benes_2024": 266721,
+   "rxcui": "42316",
+   "atc": "D11AH01",
+   "rxnorm_name": "tacrolimus",
+   "search_name": "tacrolimus",
+   "avg_cost_per_unit_usd": 1.4907
+  },
+  {
+   "molecule": "metoprolol tartrate",
+   "brand_examples": [
+    "Lopressor",
+    "Metoprolol Tartrate*"
+   ],
+   "spend_2024": 107333917.87,
+   "units_2024": 1847039648,
+   "benes_2024": 3854195,
+   "rxcui": "203191",
+   "atc": null,
+   "rxnorm_name": "metoprolol tartrate",
+   "search_name": "metoprolol tartrate",
+   "avg_cost_per_unit_usd": 0.0581
+  },
+  {
+   "molecule": "omadacycline tosylate",
+   "brand_examples": [
+    "Nuzyra*"
+   ],
+   "spend_2024": 106622302.05,
+   "units_2024": 481370,
+   "benes_2024": 4748,
+   "rxcui": "2059268",
+   "atc": null,
+   "rxnorm_name": "omadacycline tosylate",
+   "search_name": "omadacycline tosylate",
+   "avg_cost_per_unit_usd": 221.4978
+  },
+  {
+   "molecule": "gilteritinib fumarate",
+   "brand_examples": [
+    "Xospata"
+   ],
+   "spend_2024": 106436061.03,
+   "units_2024": 350351,
+   "benes_2024": 1048,
+   "rxcui": "2105823",
+   "atc": null,
+   "rxnorm_name": "gilteritinib fumarate",
+   "search_name": "gilteritinib fumarate",
+   "avg_cost_per_unit_usd": 303.7984
+  },
+  {
+   "molecule": "tapentadol hcl",
+   "brand_examples": [
+    "Nucynta",
+    "Nucynta ER"
+   ],
+   "spend_2024": 103850391.05,
+   "units_2024": 6778564,
+   "benes_2024": 14493,
+   "rxcui": "857492",
+   "atc": null,
+   "rxnorm_name": "tapentadol hcl",
+   "search_name": "tapentadol hcl",
+   "avg_cost_per_unit_usd": 15.3204
+  },
+  {
+   "molecule": "hydroxychloroquine sulfate",
+   "brand_examples": [
+    "Hydroxychloroquine Sulfate",
+    "Plaquenil",
+    "Sovuna"
+   ],
+   "spend_2024": 103800444.24,
+   "units_2024": 257066368,
+   "benes_2024": 628127,
+   "rxcui": "153972",
+   "atc": null,
+   "rxnorm_name": "hydroxychloroquine sulfate",
+   "search_name": "hydroxychloroquine sulfate",
+   "avg_cost_per_unit_usd": 0.4038
+  },
+  {
+   "molecule": "midodrine hcl",
+   "brand_examples": [
+    "Midodrine HCl"
+   ],
+   "spend_2024": 103689616.44,
+   "units_2024": 171538691,
+   "benes_2024": 429312,
+   "rxcui": "993491",
+   "atc": null,
+   "rxnorm_name": "midodrine hcl",
+   "search_name": "midodrine hcl",
+   "avg_cost_per_unit_usd": 0.6045
+  },
+  {
+   "molecule": "tramadol hcl",
+   "brand_examples": [
+    "Conzip",
+    "Tramadol HCl",
+    "Tramadol HCl ER"
+   ],
+   "spend_2024": 103334767.74,
+   "units_2024": 816617381,
+   "benes_2024": 4039716,
+   "rxcui": "82110",
+   "atc": null,
+   "rxnorm_name": "tramadol hcl",
+   "search_name": "tramadol hcl",
+   "avg_cost_per_unit_usd": 0.1265
+  },
+  {
+   "molecule": "donepezil hcl",
+   "brand_examples": [
+    "Adlarity",
+    "Aricept",
+    "Donepezil HCl",
+    "Donepezil HCl ODT"
+   ],
+   "spend_2024": 103312122.57,
+   "units_2024": 407318226,
+   "benes_2024": 1569150,
+   "rxcui": "236559",
+   "atc": null,
+   "rxnorm_name": "donepezil hcl",
+   "search_name": "donepezil hcl",
+   "avg_cost_per_unit_usd": 0.2536
+  },
+  {
+   "molecule": "fremanezumab-vfrm",
+   "brand_examples": [
+    "Ajovy Autoinjector",
+    "Ajovy Syringe"
+   ],
+   "spend_2024": 102754399.37,
+   "units_2024": 224207,
+   "benes_2024": 23990,
+   "rxcui": "2056690",
+   "atc": null,
+   "rxnorm_name": "fremanezumab-vfrm",
+   "search_name": "fremanezumab-vfrm",
+   "avg_cost_per_unit_usd": 458.3015
+  },
+  {
+   "molecule": "daratumumab-hyaluronidase-fihj",
+   "brand_examples": [
+    "Darzalex Faspro"
+   ],
+   "spend_2024": 102716642.36,
+   "units_2024": 163108,
+   "benes_2024": 1125,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 629.7462
+  },
+  {
+   "molecule": "insulin glargine-yfgn",
+   "brand_examples": [
+    "Insulin Glargine-Yfgn",
+    "Semglee (Yfgn)",
+    "Semglee (Yfgn) Pen"
+   ],
+   "spend_2024": 101626297.72,
+   "units_2024": 9389160,
+   "benes_2024": 228660,
+   "rxcui": "2563969",
+   "atc": null,
+   "rxnorm_name": "insulin glargine-yfgn",
+   "search_name": "insulin glargine-yfgn",
+   "avg_cost_per_unit_usd": 10.8238
+  },
+  {
+   "molecule": "omaveloxolone",
+   "brand_examples": [
+    "Skyclarys"
+   ],
+   "spend_2024": 101272750.26,
+   "units_2024": 284534,
+   "benes_2024": 380,
+   "rxcui": "2631931",
+   "atc": "N07XX25",
+   "rxnorm_name": "omaveloxolone",
+   "search_name": "omaveloxolone",
+   "avg_cost_per_unit_usd": 355.925
+  },
+  {
+   "molecule": "nifedipine",
+   "brand_examples": [
+    "Nifedipine",
+    "Nifedipine ER",
+    "Procardia XL"
+   ],
+   "spend_2024": 100748953.7,
+   "units_2024": 286013768,
+   "benes_2024": 932043,
+   "rxcui": "7417",
+   "atc": "C08CA05",
+   "rxnorm_name": "nifedipine",
+   "search_name": "nifedipine",
+   "avg_cost_per_unit_usd": 0.3523
+  },
+  {
+   "molecule": "testosterone",
+   "brand_examples": [
+    "Androderm",
+    "Androgel",
+    "Natesto",
+    "Testim",
+    "Testopel",
+    "Testosterone"
+   ],
+   "spend_2024": 100039165.33,
+   "units_2024": 82973979,
+   "benes_2024": 134399,
+   "rxcui": "10379",
+   "atc": "G03BA03",
+   "rxnorm_name": "testosterone",
+   "search_name": "testosterone",
+   "avg_cost_per_unit_usd": 1.2057
+  },
+  {
+   "molecule": "empaglifloz + linaglip + metformin",
+   "brand_examples": [
+    "Trijardy XR"
+   ],
+   "spend_2024": 99142501.43,
+   "units_2024": 7706667,
+   "benes_2024": 21512,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 12.8645
+  },
+  {
+   "molecule": "fluoxetine hcl",
+   "brand_examples": [
+    "Fluoxetine Dr",
+    "Fluoxetine HCl",
+    "Prozac"
+   ],
+   "spend_2024": 98619582.96,
+   "units_2024": 539081942,
+   "benes_2024": 1488060,
+   "rxcui": "227224",
+   "atc": null,
+   "rxnorm_name": "fluoxetine hcl",
+   "search_name": "fluoxetine hcl",
+   "avg_cost_per_unit_usd": 0.1829
+  },
+  {
+   "molecule": "selinexor",
+   "brand_examples": [
+    "Xpovio"
+   ],
+   "spend_2024": 98217996.64,
+   "units_2024": 21210,
+   "benes_2024": 1103,
+   "rxcui": "2178390",
+   "atc": "L01XX66",
+   "rxnorm_name": "selinexor",
+   "search_name": "selinexor",
+   "avg_cost_per_unit_usd": 4630.7401
+  },
+  {
+   "molecule": "tasimelteon",
+   "brand_examples": [
+    "Hetlioz",
+    "Hetlioz Lq",
+    "Tasimelteon"
+   ],
+   "spend_2024": 98029899.84,
+   "units_2024": 153867,
+   "benes_2024": 632,
+   "rxcui": "1490468",
+   "atc": "N05CH03",
+   "rxnorm_name": "tasimelteon",
+   "search_name": "tasimelteon",
+   "avg_cost_per_unit_usd": 637.108
+  },
+  {
+   "molecule": "nebivolol hcl",
+   "brand_examples": [
+    "Bystolic",
+    "Nebivolol HCl"
+   ],
+   "spend_2024": 96831734.62,
+   "units_2024": 104687537,
+   "benes_2024": 357845,
+   "rxcui": "236883",
+   "atc": null,
+   "rxnorm_name": "nebivolol hcl",
+   "search_name": "nebivolol hcl",
+   "avg_cost_per_unit_usd": 0.925
+  },
+  {
+   "molecule": "finasteride",
+   "brand_examples": [
+    "Finasteride",
+    "Proscar"
+   ],
+   "spend_2024": 96632654.44,
+   "units_2024": 517732329,
+   "benes_2024": 1835919,
+   "rxcui": "25025",
+   "atc": "D11AX10",
+   "rxnorm_name": "finasteride",
+   "search_name": "finasteride",
+   "avg_cost_per_unit_usd": 0.1866
+  },
+  {
+   "molecule": "regorafenib",
+   "brand_examples": [
+    "Stivarga"
+   ],
+   "spend_2024": 96423433.02,
+   "units_2024": 362032,
+   "benes_2024": 1723,
+   "rxcui": "1312397",
+   "atc": "L01EX05",
+   "rxnorm_name": "regorafenib",
+   "search_name": "regorafenib",
+   "avg_cost_per_unit_usd": 266.3395
+  },
+  {
+   "molecule": "pegfilgrastim",
+   "brand_examples": [
+    "Neulasta",
+    "Neulasta Onpro"
+   ],
+   "spend_2024": 96273920.24,
+   "units_2024": 9341,
+   "benes_2024": 4336,
+   "rxcui": "338036",
+   "atc": "L03AA13",
+   "rxnorm_name": "pegfilgrastim",
+   "search_name": "pegfilgrastim",
+   "avg_cost_per_unit_usd": 10307.0381
+  },
+  {
+   "molecule": "allopurinol",
+   "brand_examples": [
+    "Allopurinol"
+   ],
+   "spend_2024": 96258249.59,
+   "units_2024": 797288793,
+   "benes_2024": 2355824,
+   "rxcui": "519",
+   "atc": "M04AA01",
+   "rxnorm_name": "allopurinol",
+   "search_name": "allopurinol",
+   "avg_cost_per_unit_usd": 0.1207
+  },
+  {
+   "molecule": "binimetinib",
+   "brand_examples": [
+    "Mektovi"
+   ],
+   "spend_2024": 96181636.3,
+   "units_2024": 1135546,
+   "benes_2024": 1364,
+   "rxcui": "2049122",
+   "atc": "L01EE03",
+   "rxnorm_name": "binimetinib",
+   "search_name": "binimetinib",
+   "avg_cost_per_unit_usd": 84.7008
+  },
+  {
+   "molecule": "decitabine + cedazuridine",
+   "brand_examples": [
+    "Inqovi"
+   ],
+   "spend_2024": 94503101.0,
+   "units_2024": 58446,
+   "benes_2024": 2928,
+   "rxcui": "2384456",
+   "atc": null,
+   "rxnorm_name": "decitabine + cedazuridine",
+   "search_name": "decitabine / cedazuridine",
+   "avg_cost_per_unit_usd": 1616.9302
+  },
+  {
+   "molecule": "diphth,pertuss(acell),tet vac",
+   "brand_examples": [
+    "Boostrix Tdap"
+   ],
+   "spend_2024": 94390236.18,
+   "units_2024": 767203,
+   "benes_2024": 1511572,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 123.0316
+  },
+  {
+   "molecule": "romosozumab-aqqg",
+   "brand_examples": [
+    "Evenity",
+    "Evenity (2 Syringes)"
+   ],
+   "spend_2024": 94003184.6,
+   "units_2024": 91217,
+   "benes_2024": 8293,
+   "rxcui": "2123180",
+   "atc": null,
+   "rxnorm_name": "romosozumab-aqqg",
+   "search_name": "romosozumab-aqqg",
+   "avg_cost_per_unit_usd": 1030.5424
+  },
+  {
+   "molecule": "interferon beta-1b",
+   "brand_examples": [
+    "Betaseron",
+    "Extavia"
+   ],
+   "spend_2024": 92863044.18,
+   "units_2024": 134965,
+   "benes_2024": 1073,
+   "rxcui": "72257",
+   "atc": "L03AB08",
+   "rxnorm_name": "interferon beta-1b",
+   "search_name": "interferon beta-1b",
+   "avg_cost_per_unit_usd": 688.0543
+  },
+  {
+   "molecule": "fentanyl",
+   "brand_examples": [
+    "Fentanyl"
+   ],
+   "spend_2024": 92388067.67,
+   "units_2024": 8188412,
+   "benes_2024": 116822,
+   "rxcui": "4337",
+   "atc": "N01AH01",
+   "rxnorm_name": "fentanyl",
+   "search_name": "fentanyl",
+   "avg_cost_per_unit_usd": 11.2828
+  },
+  {
+   "molecule": "insulin degludec + liraglutide",
+   "brand_examples": [
+    "Xultophy 100-3.6"
+   ],
+   "spend_2024": 91255682.08,
+   "units_2024": 1118790,
+   "benes_2024": 13672,
+   "rxcui": "1727493",
+   "atc": "A10AE56",
+   "rxnorm_name": "insulin degludec + liraglutide",
+   "search_name": "insulin degludec / liraglutide",
+   "avg_cost_per_unit_usd": 81.5664
+  },
+  {
+   "molecule": "ozanimod hydrochloride",
+   "brand_examples": [
+    "Zeposia"
+   ],
+   "spend_2024": 90951573.17,
+   "units_2024": 310628,
+   "benes_2024": 1271,
+   "rxcui": "2288235",
+   "atc": null,
+   "rxnorm_name": "ozanimod hydrochloride",
+   "search_name": "ozanimod hydrochloride",
+   "avg_cost_per_unit_usd": 292.799
+  },
+  {
+   "molecule": "glipizide",
+   "brand_examples": [
+    "Glipizide",
+    "Glipizide ER",
+    "Glipizide XL",
+    "Glucotrol XL"
+   ],
+   "spend_2024": 90777417.51,
+   "units_2024": 904206913,
+   "benes_2024": 2029090,
+   "rxcui": "4821",
+   "atc": "A10BB07",
+   "rxnorm_name": "glipizide",
+   "search_name": "glipizide",
+   "avg_cost_per_unit_usd": 0.1004
+  },
+  {
+   "molecule": "insulin nph human isophane",
+   "brand_examples": [
+    "Humulin N",
+    "Humulin N Kwikpen",
+    "Novolin N",
+    "Novolin N Flexpen"
+   ],
+   "spend_2024": 90714534.04,
+   "units_2024": 19350061,
+   "benes_2024": 170074,
+   "rxcui": "253181",
+   "atc": null,
+   "rxnorm_name": "insulin nph human isophane",
+   "search_name": "insulin nph human isophane",
+   "avg_cost_per_unit_usd": 4.6881
+  },
+  {
+   "molecule": "colchicine",
+   "brand_examples": [
+    "Colchicine",
+    "Colcrys",
+    "Gloperba",
+    "Lodoco",
+    "Mitigare"
+   ],
+   "spend_2024": 90462292.0,
+   "units_2024": 68829923,
+   "benes_2024": 649200,
+   "rxcui": "2683",
+   "atc": "M04AC01",
+   "rxnorm_name": "colchicine",
+   "search_name": "colchicine",
+   "avg_cost_per_unit_usd": 1.3143
+  },
+  {
+   "molecule": "nirmatrelvir + ritonavir",
+   "brand_examples": [
+    "Paxlovid",
+    "Paxlovid (Eua)"
+   ],
+   "spend_2024": 90384019.03,
+   "units_2024": 55828647,
+   "benes_2024": 1925328,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1.619
+  },
+  {
+   "molecule": "rotigotine",
+   "brand_examples": [
+    "Neupro"
+   ],
+   "spend_2024": 90068151.36,
+   "units_2024": 3263791,
+   "benes_2024": 14920,
+   "rxcui": "616739",
+   "atc": "N04BC09",
+   "rxnorm_name": "rotigotine",
+   "search_name": "rotigotine",
+   "avg_cost_per_unit_usd": 27.5962
+  },
+  {
+   "molecule": "insulin lispro-aabc",
+   "brand_examples": [
+    "Lyumjev",
+    "Lyumjev Kwikpen U-100",
+    "Lyumjev Kwikpen U-200",
+    "Lyumjev Tempo Pen U-100"
+   ],
+   "spend_2024": 89965552.72,
+   "units_2024": 2769539,
+   "benes_2024": 30747,
+   "rxcui": "2376838",
+   "atc": null,
+   "rxnorm_name": "insulin lispro-aabc",
+   "search_name": "insulin lispro-aabc",
+   "avg_cost_per_unit_usd": 32.4839
+  },
+  {
+   "molecule": "memantine hcl + donepezil hcl",
+   "brand_examples": [
+    "Namzaric"
+   ],
+   "spend_2024": 89617221.8,
+   "units_2024": 4614381,
+   "benes_2024": 18217,
+   "rxcui": "1430990",
+   "atc": "N06DA52",
+   "rxnorm_name": "memantine hcl + donepezil hcl",
+   "search_name": "memantine hcl / donepezil hcl",
+   "avg_cost_per_unit_usd": 19.4213
+  },
+  {
+   "molecule": "diclofenac potassium",
+   "brand_examples": [
+    "Cambia",
+    "Diclofenac Potassium",
+    "Lofena",
+    "Zipsor"
+   ],
+   "spend_2024": 89601543.79,
+   "units_2024": 23059728,
+   "benes_2024": 160879,
+   "rxcui": "81997",
+   "atc": null,
+   "rxnorm_name": "diclofenac potassium",
+   "search_name": "diclofenac potassium",
+   "avg_cost_per_unit_usd": 3.8856
+  },
+  {
+   "molecule": "baclofen",
+   "brand_examples": [
+    "Baclofen*",
+    "Fleqsuvy",
+    "Gablofen",
+    "Lioresal Intrathecal",
+    "Lyvispah",
+    "Ozobax Ds"
+   ],
+   "spend_2024": 89490617.23,
+   "units_2024": 484485380,
+   "benes_2024": 1358598,
+   "rxcui": "1292",
+   "atc": "M03BX01",
+   "rxnorm_name": "baclofen",
+   "search_name": "baclofen",
+   "avg_cost_per_unit_usd": 0.1847
+  },
+  {
+   "molecule": "azacitidine",
+   "brand_examples": [
+    "Azacitidine",
+    "Onureg"
+   ],
+   "spend_2024": 89000057.11,
+   "units_2024": 64685,
+   "benes_2024": 969,
+   "rxcui": "1251",
+   "atc": "L01BC07",
+   "rxnorm_name": "azacitidine",
+   "search_name": "azacitidine",
+   "avg_cost_per_unit_usd": 1375.8995
+  },
+  {
+   "molecule": "dalfampridine",
+   "brand_examples": [
+    "Ampyra",
+    "Dalfampridine ER"
+   ],
+   "spend_2024": 88742326.66,
+   "units_2024": 9386009,
+   "benes_2024": 18246,
+   "rxcui": "897018",
+   "atc": "N07XX07",
+   "rxnorm_name": "dalfampridine",
+   "search_name": "dalfampridine",
+   "avg_cost_per_unit_usd": 9.4547
+  },
+  {
+   "molecule": "insulin lispro protamin + lispro",
+   "brand_examples": [
+    "Humalog Mix 50-50",
+    "Humalog Mix 50-50 Kwikpen",
+    "Humalog Mix 75-25",
+    "Humalog Mix 75-25 Kwikpen",
+    "Insulin Lispro Protamine Mix"
+   ],
+   "spend_2024": 87714677.72,
+   "units_2024": 9215690,
+   "benes_2024": 69345,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 9.518
+  },
+  {
+   "molecule": "iloperidone",
+   "brand_examples": [
+    "Fanapt"
+   ],
+   "spend_2024": 87322404.53,
+   "units_2024": 2032118,
+   "benes_2024": 4229,
+   "rxcui": "73178",
+   "atc": "N05AX14",
+   "rxnorm_name": "iloperidone",
+   "search_name": "iloperidone",
+   "avg_cost_per_unit_usd": 42.9711
+  },
+  {
+   "molecule": "azelastine hcl",
+   "brand_examples": [
+    "Azelastine HCl*"
+   ],
+   "spend_2024": 86143660.95,
+   "units_2024": 113161984,
+   "benes_2024": 1382184,
+   "rxcui": "235824",
+   "atc": null,
+   "rxnorm_name": "azelastine hcl",
+   "search_name": "azelastine hcl",
+   "avg_cost_per_unit_usd": 0.7612
+  },
+  {
+   "molecule": "bimekizumab-bkzx",
+   "brand_examples": [
+    "Bimzelx",
+    "Bimzelx Autoinjector"
+   ],
+   "spend_2024": 86097719.97,
+   "units_2024": 11868,
+   "benes_2024": 1494,
+   "rxcui": "2668080",
+   "atc": null,
+   "rxnorm_name": "bimekizumab-bkzx",
+   "search_name": "bimekizumab-bkzx",
+   "avg_cost_per_unit_usd": 7254.6107
+  },
+  {
+   "molecule": "cinacalcet hcl",
+   "brand_examples": [
+    "Cinacalcet HCl",
+    "Sensipar"
+   ],
+   "spend_2024": 86057689.32,
+   "units_2024": 15492264,
+   "benes_2024": 62462,
+   "rxcui": "384379",
+   "atc": null,
+   "rxnorm_name": "cinacalcet hcl",
+   "search_name": "cinacalcet hcl",
+   "avg_cost_per_unit_usd": 5.5549
+  },
+  {
+   "molecule": "insulin aspart prot + insuln asp",
+   "brand_examples": [
+    "Insulin Aspart Prot Mix 70-30",
+    "Novolog Mix 70-30",
+    "Novolog Mix 70-30 Flexpen"
+   ],
+   "spend_2024": 85856957.96,
+   "units_2024": 10108688,
+   "benes_2024": 84325,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 8.4934
+  },
+  {
+   "molecule": "travoprost",
+   "brand_examples": [
+    "Travatan Z",
+    "Travoprost"
+   ],
+   "spend_2024": 85713207.13,
+   "units_2024": 2569289,
+   "benes_2024": 122995,
+   "rxcui": "283809",
+   "atc": "S01EE04",
+   "rxnorm_name": "travoprost",
+   "search_name": "travoprost",
+   "avg_cost_per_unit_usd": 33.3607
+  },
+  {
+   "molecule": "selpercatinib",
+   "brand_examples": [
+    "Retevmo"
+   ],
+   "spend_2024": 84887654.49,
+   "units_2024": 498905,
+   "benes_2024": 656,
+   "rxcui": "2370147",
+   "atc": "L01EX22",
+   "rxnorm_name": "selpercatinib",
+   "search_name": "selpercatinib",
+   "avg_cost_per_unit_usd": 170.1479
+  },
+  {
+   "molecule": "verapamil hcl",
+   "brand_examples": [
+    "Verapamil ER",
+    "Verapamil ER PM",
+    "Verapamil HCl*",
+    "Verapamil SR",
+    "Verelan PM"
+   ],
+   "spend_2024": 84717419.15,
+   "units_2024": 146631807,
+   "benes_2024": 413685,
+   "rxcui": "203138",
+   "atc": null,
+   "rxnorm_name": "verapamil hcl",
+   "search_name": "verapamil hcl",
+   "avg_cost_per_unit_usd": 0.5778
+  },
+  {
+   "molecule": "olmesartan medoxomil",
+   "brand_examples": [
+    "Benicar",
+    "Olmesartan Medoxomil"
+   ],
+   "spend_2024": 83161839.24,
+   "units_2024": 272145067,
+   "benes_2024": 916441,
+   "rxcui": "118463",
+   "atc": "C09CA08",
+   "rxnorm_name": "olmesartan medoxomil",
+   "search_name": "olmesartan medoxomil",
+   "avg_cost_per_unit_usd": 0.3056
+  },
+  {
+   "molecule": "aflibercept",
+   "brand_examples": [
+    "Eylea",
+    "Eylea Hd"
+   ],
+   "spend_2024": 82833701.38,
+   "units_2024": 2197,
+   "benes_2024": 8375,
+   "rxcui": "1232150",
+   "atc": "L01XX44",
+   "rxnorm_name": "aflibercept",
+   "search_name": "aflibercept",
+   "avg_cost_per_unit_usd": 37706.6999
+  },
+  {
+   "molecule": "ketoconazole",
+   "brand_examples": [
+    "Ketoconazole*",
+    "Ketodan"
+   ],
+   "spend_2024": 82188011.11,
+   "units_2024": 377663182,
+   "benes_2024": 2001085,
+   "rxcui": "6135",
+   "atc": "D01AC08",
+   "rxnorm_name": "ketoconazole",
+   "search_name": "ketoconazole",
+   "avg_cost_per_unit_usd": 0.2176
+  },
+  {
+   "molecule": "doxycycline hyclate",
+   "brand_examples": [
+    "Doryx Mpc",
+    "Doxy 100",
+    "Doxycycline Hyclate*",
+    "Targadox",
+    "Vibramycin"
+   ],
+   "spend_2024": 81986808.69,
+   "units_2024": 170029157,
+   "benes_2024": 4638575,
+   "rxcui": "23663",
+   "atc": null,
+   "rxnorm_name": "doxycycline hyclate",
+   "search_name": "doxycycline hyclate",
+   "avg_cost_per_unit_usd": 0.4822
+  },
+  {
+   "molecule": "hydralazine hcl",
+   "brand_examples": [
+    "Hydralazine HCl*"
+   ],
+   "spend_2024": 81689817.39,
+   "units_2024": 921775217,
+   "benes_2024": 1472549,
+   "rxcui": "82027",
+   "atc": null,
+   "rxnorm_name": "hydralazine hcl",
+   "search_name": "hydralazine hcl",
+   "avg_cost_per_unit_usd": 0.0886
+  },
+  {
+   "molecule": "prednisone",
+   "brand_examples": [
+    "Prednisone",
+    "Prednisone Intensol",
+    "Rayos"
+   ],
+   "spend_2024": 81469404.69,
+   "units_2024": 539038703,
+   "benes_2024": 7659993,
+   "rxcui": "8640",
+   "atc": "A07EA03",
+   "rxnorm_name": "prednisone",
+   "search_name": "prednisone",
+   "avg_cost_per_unit_usd": 0.1511
+  },
+  {
+   "molecule": "spironolactone",
+   "brand_examples": [
+    "Aldactone",
+    "Carospir",
+    "Spironolactone"
+   ],
+   "spend_2024": 81238913.17,
+   "units_2024": 601542345,
+   "benes_2024": 2366486,
+   "rxcui": "9997",
+   "atc": "C03DA01",
+   "rxnorm_name": "spironolactone",
+   "search_name": "spironolactone",
+   "avg_cost_per_unit_usd": 0.1351
+  },
+  {
+   "molecule": "ropeginterferon alfa-2b-njft",
+   "brand_examples": [
+    "Besremi"
+   ],
+   "spend_2024": 81198105.55,
+   "units_2024": 9865,
+   "benes_2024": 704,
+   "rxcui": "2587060",
+   "atc": null,
+   "rxnorm_name": "ropeginterferon alfa-2b-njft",
+   "search_name": "ropeginterferon alfa-2b-njft",
+   "avg_cost_per_unit_usd": 8230.9281
+  },
+  {
+   "molecule": "hydrochlorothiazide",
+   "brand_examples": [
+    "Hydrochlorothiazide"
+   ],
+   "spend_2024": 81181506.45,
+   "units_2024": 1395580845,
+   "benes_2024": 4944477,
+   "rxcui": "5487",
+   "atc": "C03AA03",
+   "rxnorm_name": "hydrochlorothiazide",
+   "search_name": "hydrochlorothiazide",
+   "avg_cost_per_unit_usd": 0.0582
+  },
+  {
+   "molecule": "losartan + hydrochlorothiazide",
+   "brand_examples": [
+    "Hyzaar",
+    "Losartan-Hydrochlorothiazide"
+   ],
+   "spend_2024": 80938061.26,
+   "units_2024": 442853415,
+   "benes_2024": 1483576,
+   "rxcui": "214619",
+   "atc": null,
+   "rxnorm_name": "losartan + hydrochlorothiazide",
+   "search_name": "losartan / hydrochlorothiazide",
+   "avg_cost_per_unit_usd": 0.1828
+  },
+  {
+   "molecule": "paliperidone",
+   "brand_examples": [
+    "Invega",
+    "Paliperidone ER"
+   ],
+   "spend_2024": 80600246.99,
+   "units_2024": 14237382,
+   "benes_2024": 52947,
+   "rxcui": "679314",
+   "atc": "N05AX13",
+   "rxnorm_name": "paliperidone",
+   "search_name": "paliperidone",
+   "avg_cost_per_unit_usd": 5.6612
+  },
+  {
+   "molecule": "enoxaparin sodium",
+   "brand_examples": [
+    "Enoxaparin Sodium",
+    "Lovenox"
+   ],
+   "spend_2024": 80080629.9,
+   "units_2024": 6848014,
+   "benes_2024": 282953,
+   "rxcui": "221095",
+   "atc": null,
+   "rxnorm_name": "enoxaparin sodium",
+   "search_name": "enoxaparin sodium",
+   "avg_cost_per_unit_usd": 11.694
+  },
+  {
+   "molecule": "glycerol phenylbutyrate",
+   "brand_examples": [
+    "Ravicti"
+   ],
+   "spend_2024": 79453177.16,
+   "units_2024": 356800,
+   "benes_2024": 94,
+   "rxcui": "1368451",
+   "atc": "A16AX09",
+   "rxnorm_name": "glycerol phenylbutyrate",
+   "search_name": "glycerol phenylbutyrate",
+   "avg_cost_per_unit_usd": 222.6827
+  },
+  {
+   "molecule": "rivastigmine",
+   "brand_examples": [
+    "Exelon",
+    "Rivastigmine"
+   ],
+   "spend_2024": 79397968.49,
+   "units_2024": 16556760,
+   "benes_2024": 82282,
+   "rxcui": "183379",
+   "atc": "N06DA03",
+   "rxnorm_name": "rivastigmine",
+   "search_name": "rivastigmine",
+   "avg_cost_per_unit_usd": 4.7955
+  },
+  {
+   "molecule": "loteprednol etabonate",
+   "brand_examples": [
+    "Alrex",
+    "Eysuvis",
+    "Inveltys",
+    "Lotemax",
+    "Lotemax Sm",
+    "Loteprednol Etabonate"
+   ],
+   "spend_2024": 79037466.79,
+   "units_2024": 2193339,
+   "benes_2024": 186600,
+   "rxcui": "52177",
+   "atc": null,
+   "rxnorm_name": "loteprednol etabonate",
+   "search_name": "loteprednol etabonate",
+   "avg_cost_per_unit_usd": 36.0352
+  },
+  {
+   "molecule": "brinzolamide + brimonidine tart",
+   "brand_examples": [
+    "Simbrinza"
+   ],
+   "spend_2024": 78872650.7,
+   "units_2024": 3148053,
+   "benes_2024": 74537,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 25.0544
+  },
+  {
+   "molecule": "doravirine",
+   "brand_examples": [
+    "Pifeltro"
+   ],
+   "spend_2024": 78680588.34,
+   "units_2024": 1352813,
+   "benes_2024": 4774,
+   "rxcui": "2055755",
+   "atc": "J05AG06",
+   "rxnorm_name": "doravirine",
+   "search_name": "doravirine",
+   "avg_cost_per_unit_usd": 58.1607
+  },
+  {
+   "molecule": "ripretinib",
+   "brand_examples": [
+    "Qinlock"
+   ],
+   "spend_2024": 78664212.26,
+   "units_2024": 172962,
+   "benes_2024": 352,
+   "rxcui": "2369389",
+   "atc": "L01EX19",
+   "rxnorm_name": "ripretinib",
+   "search_name": "ripretinib",
+   "avg_cost_per_unit_usd": 454.8063
+  },
+  {
+   "molecule": "bumetanide",
+   "brand_examples": [
+    "Bumetanide*"
+   ],
+   "spend_2024": 78616303.29,
+   "units_2024": 182999676,
+   "benes_2024": 570590,
+   "rxcui": "1808",
+   "atc": "C03CA02",
+   "rxnorm_name": "bumetanide",
+   "search_name": "bumetanide",
+   "avg_cost_per_unit_usd": 0.4296
+  },
+  {
+   "molecule": "lorazepam",
+   "brand_examples": [
+    "Ativan*",
+    "Lorazepam Intensol",
+    "Lorazepam*",
+    "Loreev XR"
+   ],
+   "spend_2024": 78389819.14,
+   "units_2024": 400264745,
+   "benes_2024": 1883727,
+   "rxcui": "6470",
+   "atc": "N05BA06",
+   "rxnorm_name": "lorazepam",
+   "search_name": "lorazepam",
+   "avg_cost_per_unit_usd": 0.1958
+  },
+  {
+   "molecule": "icatibant acetate",
+   "brand_examples": [
+    "Firazyr",
+    "Icatibant",
+    "Sajazir"
+   ],
+   "spend_2024": 78157928.13,
+   "units_2024": 46653,
+   "benes_2024": 876,
+   "rxcui": "1294605",
+   "atc": null,
+   "rxnorm_name": "icatibant acetate",
+   "search_name": "icatibant acetate",
+   "avg_cost_per_unit_usd": 1675.3034
+  },
+  {
+   "molecule": "ursodiol",
+   "brand_examples": [
+    "Reltone",
+    "Urso",
+    "Urso Forte",
+    "Ursodiol"
+   ],
+   "spend_2024": 78153338.53,
+   "units_2024": 67816908,
+   "benes_2024": 111500,
+   "rxcui": "11065",
+   "atc": "A05AA02",
+   "rxnorm_name": "ursodiol",
+   "search_name": "ursodiol",
+   "avg_cost_per_unit_usd": 1.1524
+  },
+  {
+   "molecule": "berotralstat hydrochloride",
+   "brand_examples": [
+    "Orladeyo"
+   ],
+   "spend_2024": 77894702.6,
+   "units_2024": 51380,
+   "benes_2024": 221,
+   "rxcui": "2467541",
+   "atc": null,
+   "rxnorm_name": "berotralstat hydrochloride",
+   "search_name": "berotralstat hydrochloride",
+   "avg_cost_per_unit_usd": 1516.051
+  },
+  {
+   "molecule": "amiodarone hcl",
+   "brand_examples": [
+    "Amiodarone HCl*",
+    "Pacerone"
+   ],
+   "spend_2024": 77834781.06,
+   "units_2024": 191683444,
+   "benes_2024": 880448,
+   "rxcui": "203114",
+   "atc": null,
+   "rxnorm_name": "amiodarone hcl",
+   "search_name": "amiodarone hcl",
+   "avg_cost_per_unit_usd": 0.4061
+  },
+  {
+   "molecule": "zolpidem tartrate",
+   "brand_examples": [
+    "Ambien",
+    "Ambien Cr",
+    "Edluar",
+    "Zolpidem Tartrate ER",
+    "Zolpidem Tartrate*"
+   ],
+   "spend_2024": 77816991.42,
+   "units_2024": 291149394,
+   "benes_2024": 1563487,
+   "rxcui": "221183",
+   "atc": null,
+   "rxnorm_name": "zolpidem tartrate",
+   "search_name": "zolpidem tartrate",
+   "avg_cost_per_unit_usd": 0.2673
+  },
+  {
+   "molecule": "alendronate sodium",
+   "brand_examples": [
+    "Alendronate Sodium",
+    "Binosto",
+    "Fosamax"
+   ],
+   "spend_2024": 77517294.93,
+   "units_2024": 95408453,
+   "benes_2024": 2378838,
+   "rxcui": "203152",
+   "atc": null,
+   "rxnorm_name": "alendronate sodium",
+   "search_name": "alendronate sodium",
+   "avg_cost_per_unit_usd": 0.8125
+  },
+  {
+   "molecule": "beclomethasone dipropionate",
+   "brand_examples": [
+    "Beconase Aq",
+    "Qnasl",
+    "Qnasl Children",
+    "Qvar Redihaler"
+   ],
+   "spend_2024": 77333886.99,
+   "units_2024": 3220531,
+   "benes_2024": 86699,
+   "rxcui": "1348",
+   "atc": null,
+   "rxnorm_name": "beclomethasone dipropionate",
+   "search_name": "beclomethasone dipropionate",
+   "avg_cost_per_unit_usd": 24.0128
+  },
+  {
+   "molecule": "voxelotor",
+   "brand_examples": [
+    "Oxbryta"
+   ],
+   "spend_2024": 77189158.78,
+   "units_2024": 572874,
+   "benes_2024": 1374,
+   "rxcui": "2265678",
+   "atc": "B06AX03",
+   "rxnorm_name": "voxelotor",
+   "search_name": "voxelotor",
+   "avg_cost_per_unit_usd": 134.7402
+  },
+  {
+   "molecule": "alprazolam",
+   "brand_examples": [
+    "Alprazolam",
+    "Alprazolam ER",
+    "Alprazolam Intensol",
+    "Alprazolam ODT",
+    "Alprazolam XR",
+    "Xanax",
+    "Xanax XR"
+   ],
+   "spend_2024": 77177339.31,
+   "units_2024": 675592316,
+   "benes_2024": 2317499,
+   "rxcui": "596",
+   "atc": "N05BA12",
+   "rxnorm_name": "alprazolam",
+   "search_name": "alprazolam",
+   "avg_cost_per_unit_usd": 0.1142
+  },
+  {
+   "molecule": "dextromethorphan hbr + bupropion",
+   "brand_examples": [
+    "Auvelity"
+   ],
+   "spend_2024": 77071789.99,
+   "units_2024": 4147127,
+   "benes_2024": 16448,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 18.5844
+  },
+  {
+   "molecule": "tizanidine hcl",
+   "brand_examples": [
+    "Tizanidine HCl",
+    "Zanaflex"
+   ],
+   "spend_2024": 77047981.18,
+   "units_2024": 561194951,
+   "benes_2024": 2073257,
+   "rxcui": "236460",
+   "atc": null,
+   "rxnorm_name": "tizanidine hcl",
+   "search_name": "tizanidine hcl",
+   "avg_cost_per_unit_usd": 0.1373
+  },
+  {
+   "molecule": "nystatin",
+   "brand_examples": [
+    "Klayesta",
+    "Nyamyc",
+    "Nystatin*",
+    "Nystop"
+   ],
+   "spend_2024": 76508881.33,
+   "units_2024": 305041836,
+   "benes_2024": 2114824,
+   "rxcui": "7597",
+   "atc": "A07AA02",
+   "rxnorm_name": "nystatin",
+   "search_name": "nystatin",
+   "avg_cost_per_unit_usd": 0.2508
+  },
+  {
+   "molecule": "avacopan",
+   "brand_examples": [
+    "Tavneos"
+   ],
+   "spend_2024": 76049419.99,
+   "units_2024": 852750,
+   "benes_2024": 828,
+   "rxcui": "2572100",
+   "atc": "L04AJ05",
+   "rxnorm_name": "avacopan",
+   "search_name": "avacopan",
+   "avg_cost_per_unit_usd": 89.1814
+  },
+  {
+   "molecule": "morphine sulfate",
+   "brand_examples": [
+    "Morphine Sulfate ER",
+    "Morphine Sulfate*",
+    "Ms Contin"
+   ],
+   "spend_2024": 75991802.66,
+   "units_2024": 166328537,
+   "benes_2024": 488428,
+   "rxcui": "30236",
+   "atc": null,
+   "rxnorm_name": "morphine sulfate",
+   "search_name": "morphine sulfate",
+   "avg_cost_per_unit_usd": 0.4569
+  },
+  {
+   "molecule": "siponimod",
+   "brand_examples": [
+    "Mayzent"
+   ],
+   "spend_2024": 75847094.34,
+   "units_2024": 244980,
+   "benes_2024": 850,
+   "rxcui": "2121085",
+   "atc": "L04AE03",
+   "rxnorm_name": "siponimod",
+   "search_name": "siponimod",
+   "avg_cost_per_unit_usd": 309.6053
+  },
+  {
+   "molecule": "perampanel",
+   "brand_examples": [
+    "Fycompa"
+   ],
+   "spend_2024": 75702972.16,
+   "units_2024": 2640126,
+   "benes_2024": 6558,
+   "rxcui": "1356552",
+   "atc": "N03AX22",
+   "rxnorm_name": "perampanel",
+   "search_name": "perampanel",
+   "avg_cost_per_unit_usd": 28.674
+  },
+  {
+   "molecule": "lactulose",
+   "brand_examples": [
+    "Constulose",
+    "Enulose",
+    "Generlac",
+    "Kristalose",
+    "Lactulose"
+   ],
+   "spend_2024": 75077819.25,
+   "units_2024": 1994650800,
+   "benes_2024": 723069,
+   "rxcui": "6218",
+   "atc": "A06AD11",
+   "rxnorm_name": "lactulose",
+   "search_name": "lactulose",
+   "avg_cost_per_unit_usd": 0.0376
+  },
+  {
+   "molecule": "clonazepam",
+   "brand_examples": [
+    "Clonazepam",
+    "Klonopin"
+   ],
+   "spend_2024": 74458747.71,
+   "units_2024": 490163232,
+   "benes_2024": 1316477,
+   "rxcui": "2598",
+   "atc": "N03AE01",
+   "rxnorm_name": "clonazepam",
+   "search_name": "clonazepam",
+   "avg_cost_per_unit_usd": 0.1519
+  },
+  {
+   "molecule": "amoxicillin + potassium clav",
+   "brand_examples": [
+    "Amoxicillin-Clavulanate Pot ER",
+    "Amoxicillin-Clavulanate Potass",
+    "Augmentin"
+   ],
+   "spend_2024": 73980701.53,
+   "units_2024": 147520105,
+   "benes_2024": 5871485,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.5015
+  },
+  {
+   "molecule": "hydroxyzine hcl",
+   "brand_examples": [
+    "Hydroxyzine HCl*"
+   ],
+   "spend_2024": 73894140.9,
+   "units_2024": 354764138,
+   "benes_2024": 1459051,
+   "rxcui": "154987",
+   "atc": null,
+   "rxnorm_name": "hydroxyzine hcl",
+   "search_name": "hydroxyzine hcl",
+   "avg_cost_per_unit_usd": 0.2083
+  },
+  {
+   "molecule": "naltrexone microspheres",
+   "brand_examples": [
+    "Vivitrol"
+   ],
+   "spend_2024": 73090050.82,
+   "units_2024": 45062,
+   "benes_2024": 9867,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1621.9742
+  },
+  {
+   "molecule": "ondansetron",
+   "brand_examples": [
+    "Ondansetron ODT"
+   ],
+   "spend_2024": 72932997.33,
+   "units_2024": 146302114,
+   "benes_2024": 2945288,
+   "rxcui": "26225",
+   "atc": "A04AA01",
+   "rxnorm_name": "ondansetron",
+   "search_name": "ondansetron",
+   "avg_cost_per_unit_usd": 0.4985
+  },
+  {
+   "molecule": "ertapenem sodium",
+   "brand_examples": [
+    "Ertapenem",
+    "Invanz"
+   ],
+   "spend_2024": 72629930.36,
+   "units_2024": 5602379,
+   "benes_2024": 68211,
+   "rxcui": "353107",
+   "atc": null,
+   "rxnorm_name": "ertapenem sodium",
+   "search_name": "ertapenem sodium",
+   "avg_cost_per_unit_usd": 12.9641
+  },
+  {
+   "molecule": "omega-3 acid ethyl esters",
+   "brand_examples": [
+    "Lovaza",
+    "Omega-3 Acid Ethyl Esters"
+   ],
+   "spend_2024": 72479742.63,
+   "units_2024": 171640750,
+   "benes_2024": 259382,
+   "rxcui": "484348",
+   "atc": null,
+   "rxnorm_name": "omega-3 acid ethyl esters",
+   "search_name": "omega-3 acid ethyl esters",
+   "avg_cost_per_unit_usd": 0.4223
+  },
+  {
+   "molecule": "solifenacin succinate",
+   "brand_examples": [
+    "Solifenacin Succinate",
+    "Vesicare",
+    "Vesicare Ls"
+   ],
+   "spend_2024": 71439375.91,
+   "units_2024": 82692231,
+   "benes_2024": 393768,
+   "rxcui": "476588",
+   "atc": null,
+   "rxnorm_name": "solifenacin succinate",
+   "search_name": "solifenacin succinate",
+   "avg_cost_per_unit_usd": 0.8639
+  },
+  {
+   "molecule": "tolterodine tartrate",
+   "brand_examples": [
+    "Detrol",
+    "Detrol La",
+    "Tolterodine Tartrate",
+    "Tolterodine Tartrate ER"
+   ],
+   "spend_2024": 71245597.38,
+   "units_2024": 51368260,
+   "benes_2024": 215352,
+   "rxcui": "221174",
+   "atc": null,
+   "rxnorm_name": "tolterodine tartrate",
+   "search_name": "tolterodine tartrate",
+   "avg_cost_per_unit_usd": 1.387
+  },
+  {
+   "molecule": "bempedoic acid",
+   "brand_examples": [
+    "Nexletol"
+   ],
+   "spend_2024": 70919859.98,
+   "units_2024": 5420066,
+   "benes_2024": 30048,
+   "rxcui": "2282403",
+   "atc": "C10AX15",
+   "rxnorm_name": "bempedoic acid",
+   "search_name": "bempedoic acid",
+   "avg_cost_per_unit_usd": 13.0847
+  },
+  {
+   "molecule": "bempedoic acid + ezetimibe",
+   "brand_examples": [
+    "Nexlizet"
+   ],
+   "spend_2024": 70824598.03,
+   "units_2024": 5418874,
+   "benes_2024": 27149,
+   "rxcui": "2283229",
+   "atc": "C10BA10",
+   "rxnorm_name": "bempedoic acid + ezetimibe",
+   "search_name": "bempedoic acid / ezetimibe",
+   "avg_cost_per_unit_usd": 13.07
+  },
+  {
+   "molecule": "prucalopride succinate",
+   "brand_examples": [
+    "Motegrity"
+   ],
+   "spend_2024": 70660851.44,
+   "units_2024": 4053785,
+   "benes_2024": 21866,
+   "rxcui": "2107309",
+   "atc": null,
+   "rxnorm_name": "prucalopride succinate",
+   "search_name": "prucalopride succinate",
+   "avg_cost_per_unit_usd": 17.4308
+  },
+  {
+   "molecule": "apomorphine hcl",
+   "brand_examples": [
+    "Apokyn",
+    "Apomorphine HCl"
+   ],
+   "spend_2024": 70580162.19,
+   "units_2024": 145236,
+   "benes_2024": 612,
+   "rxcui": "71225",
+   "atc": null,
+   "rxnorm_name": "apomorphine hcl",
+   "search_name": "apomorphine hcl",
+   "avg_cost_per_unit_usd": 485.9688
+  },
+  {
+   "molecule": "adagrasib",
+   "brand_examples": [
+    "Krazati"
+   ],
+   "spend_2024": 69712635.09,
+   "units_2024": 582380,
+   "benes_2024": 1042,
+   "rxcui": "2625882",
+   "atc": "L01XX77",
+   "rxnorm_name": "adagrasib",
+   "search_name": "adagrasib",
+   "avg_cost_per_unit_usd": 119.703
+  },
+  {
+   "molecule": "triamcinolone acetonide",
+   "brand_examples": [
+    "Kenalog-10",
+    "Kenalog-40",
+    "Kenalog-80",
+    "Oralone",
+    "Triamcinolone Acetonide*",
+    "Zilretta"
+   ],
+   "spend_2024": 69556954.96,
+   "units_2024": 780154880,
+   "benes_2024": 3906562,
+   "rxcui": "10761",
+   "atc": null,
+   "rxnorm_name": "triamcinolone acetonide",
+   "search_name": "triamcinolone acetonide",
+   "avg_cost_per_unit_usd": 0.0892
+  },
+  {
+   "molecule": "droxidopa",
+   "brand_examples": [
+    "Droxidopa",
+    "Northera"
+   ],
+   "spend_2024": 69490559.95,
+   "units_2024": 5853007,
+   "benes_2024": 7213,
+   "rxcui": "1489913",
+   "atc": "C01CA27",
+   "rxnorm_name": "droxidopa",
+   "search_name": "droxidopa",
+   "avg_cost_per_unit_usd": 11.8726
+  },
+  {
+   "molecule": "bromfenac sodium",
+   "brand_examples": [
+    "Bromfenac Sodium",
+    "Bromsite",
+    "Prolensa"
+   ],
+   "spend_2024": 69116469.68,
+   "units_2024": 797124,
+   "benes_2024": 142709,
+   "rxcui": "47364",
+   "atc": null,
+   "rxnorm_name": "bromfenac sodium",
+   "search_name": "bromfenac sodium",
+   "avg_cost_per_unit_usd": 86.7073
+  },
+  {
+   "molecule": "resmetirom",
+   "brand_examples": [
+    "Rezdiffra"
+   ],
+   "spend_2024": 69106676.97,
+   "units_2024": 523660,
+   "benes_2024": 4626,
+   "rxcui": "2677894",
+   "atc": "A05BA11",
+   "rxnorm_name": "resmetirom",
+   "search_name": "resmetirom",
+   "avg_cost_per_unit_usd": 131.9686
+  },
+  {
+   "molecule": "ondansetron hcl",
+   "brand_examples": [
+    "Ondansetron HCl*"
+   ],
+   "spend_2024": 68882898.79,
+   "units_2024": 144003665,
+   "benes_2024": 2252504,
+   "rxcui": "203148",
+   "atc": null,
+   "rxnorm_name": "ondansetron hcl",
+   "search_name": "ondansetron hcl",
+   "avg_cost_per_unit_usd": 0.4783
+  },
+  {
+   "molecule": "darunavir",
+   "brand_examples": [
+    "Darunavir",
+    "Prezista"
+   ],
+   "spend_2024": 68455005.88,
+   "units_2024": 2804762,
+   "benes_2024": 9578,
+   "rxcui": "460132",
+   "atc": "J05AE10",
+   "rxnorm_name": "darunavir",
+   "search_name": "darunavir",
+   "avg_cost_per_unit_usd": 24.4067
+  },
+  {
+   "molecule": "dofetilide",
+   "brand_examples": [
+    "Dofetilide",
+    "Tikosyn"
+   ],
+   "spend_2024": 67578020.78,
+   "units_2024": 43589153,
+   "benes_2024": 74828,
+   "rxcui": "49247",
+   "atc": "C01BD04",
+   "rxnorm_name": "dofetilide",
+   "search_name": "dofetilide",
+   "avg_cost_per_unit_usd": 1.5503
+  },
+  {
+   "molecule": "mycophenolate mofetil",
+   "brand_examples": [
+    "Cellcept",
+    "Mycophenolate Mofetil",
+    "Myhibbin"
+   ],
+   "spend_2024": 67356934.95,
+   "units_2024": 96803056,
+   "benes_2024": 116491,
+   "rxcui": "68149",
+   "atc": null,
+   "rxnorm_name": "mycophenolate mofetil",
+   "search_name": "mycophenolate mofetil",
+   "avg_cost_per_unit_usd": 0.6958
+  },
+  {
+   "molecule": "desvenlafaxine succinate",
+   "brand_examples": [
+    "Desvenlafaxine Succinate ER",
+    "Pristiq"
+   ],
+   "spend_2024": 66801861.69,
+   "units_2024": 51226502,
+   "benes_2024": 183264,
+   "rxcui": "683693",
+   "atc": null,
+   "rxnorm_name": "desvenlafaxine succinate",
+   "search_name": "desvenlafaxine succinate",
+   "avg_cost_per_unit_usd": 1.304
+  },
+  {
+   "molecule": "lanreotide acetate",
+   "brand_examples": [
+    "Lanreotide Acetate",
+    "Somatuline Depot"
+   ],
+   "spend_2024": 66466429.12,
+   "units_2024": 3434,
+   "benes_2024": 1097,
+   "rxcui": "236167",
+   "atc": null,
+   "rxnorm_name": "lanreotide acetate",
+   "search_name": "lanreotide acetate",
+   "avg_cost_per_unit_usd": 19355.9594
+  },
+  {
+   "molecule": "doxepin hcl",
+   "brand_examples": [
+    "Doxepin HCl*",
+    "Silenor",
+    "Zonalon"
+   ],
+   "spend_2024": 66175426.12,
+   "units_2024": 78184645,
+   "benes_2024": 292471,
+   "rxcui": "203179",
+   "atc": null,
+   "rxnorm_name": "doxepin hcl",
+   "search_name": "doxepin hcl",
+   "avg_cost_per_unit_usd": 0.8464
+  },
+  {
+   "molecule": "glycopyrrolate + formoterol fum",
+   "brand_examples": [
+    "Bevespi Aerosphere"
+   ],
+   "spend_2024": 65535900.21,
+   "units_2024": 1700588,
+   "benes_2024": 31184,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 38.5372
+  },
+  {
+   "molecule": "osilodrostat phosphate",
+   "brand_examples": [
+    "Isturisa"
+   ],
+   "spend_2024": 65522307.7,
+   "units_2024": 231130,
+   "benes_2024": 328,
+   "rxcui": "2286253",
+   "atc": null,
+   "rxnorm_name": "osilodrostat phosphate",
+   "search_name": "osilodrostat phosphate",
+   "avg_cost_per_unit_usd": 283.4868
+  },
+  {
+   "molecule": "ropinirole hcl",
+   "brand_examples": [
+    "Ropinirole ER",
+    "Ropinirole HCl"
+   ],
+   "spend_2024": 64771569.82,
+   "units_2024": 335770594,
+   "benes_2024": 704591,
+   "rxcui": "236553",
+   "atc": null,
+   "rxnorm_name": "ropinirole hcl",
+   "search_name": "ropinirole hcl",
+   "avg_cost_per_unit_usd": 0.1929
+  },
+  {
+   "molecule": "abatacept + maltose",
+   "brand_examples": [
+    "Orencia"
+   ],
+   "spend_2024": 64565143.24,
+   "units_2024": 45108,
+   "benes_2024": 2034,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1431.3457
+  },
+  {
+   "molecule": "cyclobenzaprine hcl",
+   "brand_examples": [
+    "Amrix",
+    "Cyclobenzaprine HCl",
+    "Cyclobenzaprine HCl ER"
+   ],
+   "spend_2024": 64239925.22,
+   "units_2024": 439705634,
+   "benes_2024": 2727309,
+   "rxcui": "52101",
+   "atc": null,
+   "rxnorm_name": "cyclobenzaprine hcl",
+   "search_name": "cyclobenzaprine hcl",
+   "avg_cost_per_unit_usd": 0.1461
+  },
+  {
+   "molecule": "pazopanib hcl",
+   "brand_examples": [
+    "Pazopanib HCl",
+    "Votrient"
+   ],
+   "spend_2024": 64031426.54,
+   "units_2024": 646508,
+   "benes_2024": 1711,
+   "rxcui": "732187",
+   "atc": null,
+   "rxnorm_name": "pazopanib hcl",
+   "search_name": "pazopanib hcl",
+   "avg_cost_per_unit_usd": 99.042
+  },
+  {
+   "molecule": "isosorbide mononitrate",
+   "brand_examples": [
+    "Isosorbide Mononitrate",
+    "Isosorbide Mononitrate ER"
+   ],
+   "spend_2024": 62826606.24,
+   "units_2024": 343064061,
+   "benes_2024": 1169964,
+   "rxcui": "28004",
+   "atc": "C01DA14",
+   "rxnorm_name": "isosorbide mononitrate",
+   "search_name": "isosorbide mononitrate",
+   "avg_cost_per_unit_usd": 0.1831
+  },
+  {
+   "molecule": "insulin pump cart,cont inf,bt",
+   "brand_examples": [
+    "Omnipod Dash Pods (Gen 4)"
+   ],
+   "spend_2024": 62638082.1,
+   "units_2024": 1084558,
+   "benes_2024": 11445,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 57.7545
+  },
+  {
+   "molecule": "darbepoetin alfa in polysorbat",
+   "brand_examples": [
+    "Aranesp"
+   ],
+   "spend_2024": 62541381.42,
+   "units_2024": 27194,
+   "benes_2024": 6472,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 2299.7881
+  },
+  {
+   "molecule": "roflumilast",
+   "brand_examples": [
+    "Daliresp",
+    "Roflumilast",
+    "Zoryve"
+   ],
+   "spend_2024": 62534719.17,
+   "units_2024": 17936555,
+   "benes_2024": 89149,
+   "rxcui": "1091836",
+   "atc": "D05AX06",
+   "rxnorm_name": "roflumilast",
+   "search_name": "roflumilast",
+   "avg_cost_per_unit_usd": 3.4864
+  },
+  {
+   "molecule": "valsartan + hydrochlorothiazide",
+   "brand_examples": [
+    "Diovan HCT",
+    "Valsartan-Hydrochlorothiazide"
+   ],
+   "spend_2024": 62412399.5,
+   "units_2024": 135893716,
+   "benes_2024": 450134,
+   "rxcui": "214626",
+   "atc": null,
+   "rxnorm_name": "valsartan + hydrochlorothiazide",
+   "search_name": "valsartan / hydrochlorothiazide",
+   "avg_cost_per_unit_usd": 0.4593
+  },
+  {
+   "molecule": "deucravacitinib",
+   "brand_examples": [
+    "Sotyktu"
+   ],
+   "spend_2024": 62226383.8,
+   "units_2024": 287087,
+   "benes_2024": 1803,
+   "rxcui": "2612087",
+   "atc": "L04AF07",
+   "rxnorm_name": "deucravacitinib",
+   "search_name": "deucravacitinib",
+   "avg_cost_per_unit_usd": 216.751
+  },
+  {
+   "molecule": "nitrofurantoin monohyd + m-cryst",
+   "brand_examples": [
+    "Macrobid",
+    "Nitrofurantoin Mono-Macro"
+   ],
+   "spend_2024": 61606951.3,
+   "units_2024": 64867056,
+   "benes_2024": 2905152,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 0.9497
+  },
+  {
+   "molecule": "afatinib dimaleate",
+   "brand_examples": [
+    "Gilotrif"
+   ],
+   "spend_2024": 61124498.75,
+   "units_2024": 161918,
+   "benes_2024": 940,
+   "rxcui": "1430441",
+   "atc": null,
+   "rxnorm_name": "afatinib dimaleate",
+   "search_name": "afatinib dimaleate",
+   "avg_cost_per_unit_usd": 377.5028
+  },
+  {
+   "molecule": "methenamine hippurate",
+   "brand_examples": [
+    "Methenamine Hippurate"
+   ],
+   "spend_2024": 60824523.3,
+   "units_2024": 70075556,
+   "benes_2024": 203337,
+   "rxcui": "29652",
+   "atc": null,
+   "rxnorm_name": "methenamine hippurate",
+   "search_name": "methenamine hippurate",
+   "avg_cost_per_unit_usd": 0.868
+  },
+  {
+   "molecule": "adalimumab-adbm",
+   "brand_examples": [
+    "Adalimumab-Adbm(Cf)",
+    "Adalimumab-Adbm(Cf) Pen",
+    "Adalimumab-Adbm(Cf)pen",
+    "Cyltezo(Cf)",
+    "Cyltezo(Cf) Pen",
+    "Cyltezo(Cf) Pen Crohn'S-Uc-Hs",
+    "Cyltezo(Cf) Pen Psoriasis-Uv"
+   ],
+   "spend_2024": 60613835.69,
+   "units_2024": 18844,
+   "benes_2024": 1579,
+   "rxcui": "2103477",
+   "atc": null,
+   "rxnorm_name": "adalimumab-adbm",
+   "search_name": "adalimumab-adbm",
+   "avg_cost_per_unit_usd": 3216.5778
+  },
+  {
+   "molecule": "clonidine",
+   "brand_examples": [
+    "Clonidine"
+   ],
+   "spend_2024": 60540565.03,
+   "units_2024": 3201271,
+   "benes_2024": 105840,
+   "rxcui": "2599",
+   "atc": "C02AC01",
+   "rxnorm_name": "clonidine",
+   "search_name": "clonidine",
+   "avg_cost_per_unit_usd": 18.9114
+  },
+  {
+   "molecule": "sodium, potassium,mag sulfates",
+   "brand_examples": [
+    "Sod Sulf-Potass Sulf-Mag Sulf",
+    "Suprep"
+   ],
+   "spend_2024": 60530440.71,
+   "units_2024": 327591628,
+   "benes_2024": 891168,
+   "rxcui": "1007809",
+   "atc": null,
+   "rxnorm_name": "sodium, potassium,mag sulfates",
+   "search_name": "sodium, potassium,mag sulfates",
+   "avg_cost_per_unit_usd": 0.1848
+  },
+  {
+   "molecule": "metronidazole",
+   "brand_examples": [
+    "Flagyl",
+    "Metrogel",
+    "Metronidazole*",
+    "Noritate",
+    "Nuvessa",
+    "Vandazole"
+   ],
+   "spend_2024": 60051535.87,
+   "units_2024": 77064262,
+   "benes_2024": 1633328,
+   "rxcui": "6922",
+   "atc": "A01AB17",
+   "rxnorm_name": "metronidazole",
+   "search_name": "metronidazole",
+   "avg_cost_per_unit_usd": 0.7792
+  },
+  {
+   "molecule": "talazoparib tosylate",
+   "brand_examples": [
+    "Talzenna"
+   ],
+   "spend_2024": 59841806.0,
+   "units_2024": 120560,
+   "benes_2024": 790,
+   "rxcui": "2099703",
+   "atc": null,
+   "rxnorm_name": "talazoparib tosylate",
+   "search_name": "talazoparib tosylate",
+   "avg_cost_per_unit_usd": 496.3653
+  },
+  {
+   "molecule": "torsemide",
+   "brand_examples": [
+    "Soaanz",
+    "Torsemide"
+   ],
+   "spend_2024": 59693571.12,
+   "units_2024": 259286374,
+   "benes_2024": 739316,
+   "rxcui": "38413",
+   "atc": "C03CA04",
+   "rxnorm_name": "torsemide",
+   "search_name": "torsemide",
+   "avg_cost_per_unit_usd": 0.2302
+  },
+  {
+   "molecule": "methotrexate sodium",
+   "brand_examples": [
+    "Methotrexate*",
+    "Trexall"
+   ],
+   "spend_2024": 59533995.31,
+   "units_2024": 114723605,
+   "benes_2024": 553515,
+   "rxcui": "287734",
+   "atc": null,
+   "rxnorm_name": "methotrexate sodium",
+   "search_name": "methotrexate sodium",
+   "avg_cost_per_unit_usd": 0.5189
+  },
+  {
+   "molecule": "milnacipran hcl",
+   "brand_examples": [
+    "Savella"
+   ],
+   "spend_2024": 59322983.07,
+   "units_2024": 7457388,
+   "benes_2024": 16606,
+   "rxcui": "30003",
+   "atc": null,
+   "rxnorm_name": "milnacipran hcl",
+   "search_name": "milnacipran hcl",
+   "avg_cost_per_unit_usd": 7.9549
+  },
+  {
+   "molecule": "eluxadoline",
+   "brand_examples": [
+    "Viberzi"
+   ],
+   "spend_2024": 59221425.2,
+   "units_2024": 2262474,
+   "benes_2024": 6935,
+   "rxcui": "1653781",
+   "atc": "A07DA06",
+   "rxnorm_name": "eluxadoline",
+   "search_name": "eluxadoline",
+   "avg_cost_per_unit_usd": 26.1755
+  },
+  {
+   "molecule": "fenofibrate",
+   "brand_examples": [
+    "Fenofibrate",
+    "Lipofen"
+   ],
+   "spend_2024": 59076308.06,
+   "units_2024": 149056737,
+   "benes_2024": 516663,
+   "rxcui": "8703",
+   "atc": "C10AB05",
+   "rxnorm_name": "fenofibrate",
+   "search_name": "fenofibrate",
+   "avg_cost_per_unit_usd": 0.3963
+  },
+  {
+   "molecule": "lubiprostone",
+   "brand_examples": [
+    "Amitiza",
+    "Lubiprostone"
+   ],
+   "spend_2024": 59049847.02,
+   "units_2024": 34213430,
+   "benes_2024": 123398,
+   "rxcui": "623033",
+   "atc": "A06AX03",
+   "rxnorm_name": "lubiprostone",
+   "search_name": "lubiprostone",
+   "avg_cost_per_unit_usd": 1.7259
+  },
+  {
+   "molecule": "crizotinib",
+   "brand_examples": [
+    "Xalkori"
+   ],
+   "spend_2024": 58875149.57,
+   "units_2024": 161955,
+   "benes_2024": 406,
+   "rxcui": "1148495",
+   "atc": "L01ED01",
+   "rxnorm_name": "crizotinib",
+   "search_name": "crizotinib",
+   "avg_cost_per_unit_usd": 363.5278
+  },
+  {
+   "molecule": "paroxetine hcl",
+   "brand_examples": [
+    "Paroxetine Cr",
+    "Paroxetine ER",
+    "Paroxetine HCl",
+    "Paxil",
+    "Paxil Cr"
+   ],
+   "spend_2024": 57634751.3,
+   "units_2024": 215615146,
+   "benes_2024": 720574,
+   "rxcui": "235830",
+   "atc": null,
+   "rxnorm_name": "paroxetine hcl",
+   "search_name": "paroxetine hcl",
+   "avg_cost_per_unit_usd": 0.2673
+  },
+  {
+   "molecule": "cephalexin",
+   "brand_examples": [
+    "Cephalexin"
+   ],
+   "spend_2024": 57528301.4,
+   "units_2024": 192802700,
+   "benes_2024": 5317376,
+   "rxcui": "2231",
+   "atc": "J01DB01",
+   "rxnorm_name": "cephalexin",
+   "search_name": "cephalexin",
+   "avg_cost_per_unit_usd": 0.2984
+  },
+  {
+   "molecule": "irbesartan",
+   "brand_examples": [
+    "Avapro",
+    "Irbesartan"
+   ],
+   "spend_2024": 57215582.88,
+   "units_2024": 199680332,
+   "benes_2024": 631260,
+   "rxcui": "83818",
+   "atc": "C09CA04",
+   "rxnorm_name": "irbesartan",
+   "search_name": "irbesartan",
+   "avg_cost_per_unit_usd": 0.2865
+  },
+  {
+   "molecule": "eplontersen sodium",
+   "brand_examples": [
+    "Wainua"
+   ],
+   "spend_2024": 56861356.74,
+   "units_2024": 1089,
+   "benes_2024": 251,
+   "rxcui": "2671940",
+   "atc": null,
+   "rxnorm_name": "eplontersen sodium",
+   "search_name": "eplontersen sodium",
+   "avg_cost_per_unit_usd": 52214.2853
+  },
+  {
+   "molecule": "octreotide acetate,mi-spheres",
+   "brand_examples": [
+    "Octreotide Acetate ER",
+    "Sandostatin Lar Depot"
+   ],
+   "spend_2024": 56725189.94,
+   "units_2024": 11080,
+   "benes_2024": 1511,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 5119.602
+  },
+  {
+   "molecule": "lansoprazole",
+   "brand_examples": [
+    "Lansoprazole",
+    "Prevacid"
+   ],
+   "spend_2024": 56586076.26,
+   "units_2024": 92711229,
+   "benes_2024": 326487,
+   "rxcui": "17128",
+   "atc": "A02BC03",
+   "rxnorm_name": "lansoprazole",
+   "search_name": "lansoprazole",
+   "avg_cost_per_unit_usd": 0.6103
+  },
+  {
+   "molecule": "dorzolamide hcl + timolol maleat",
+   "brand_examples": [
+    "Cosopt",
+    "Dorzolamide-Timolol"
+   ],
+   "spend_2024": 56337710.53,
+   "units_2024": 39162700,
+   "benes_2024": 785688,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 1.4386
+  },
+  {
+   "molecule": "rozanolixizumab-noli",
+   "brand_examples": [
+    "Rystiggo"
+   ],
+   "spend_2024": 56307918.56,
+   "units_2024": 18669,
+   "benes_2024": 279,
+   "rxcui": "2642273",
+   "atc": null,
+   "rxnorm_name": "rozanolixizumab-noli",
+   "search_name": "rozanolixizumab-noli",
+   "avg_cost_per_unit_usd": 3016.1186
+  },
+  {
+   "molecule": "clobazam",
+   "brand_examples": [
+    "Clobazam",
+    "Onfi",
+    "Sympazan"
+   ],
+   "spend_2024": 56179198.83,
+   "units_2024": 14108904,
+   "benes_2024": 22167,
+   "rxcui": "21241",
+   "atc": "N05BA09",
+   "rxnorm_name": "clobazam",
+   "search_name": "clobazam",
+   "avg_cost_per_unit_usd": 3.9818
+  },
+  {
+   "molecule": "burosumab-twza",
+   "brand_examples": [
+    "Crysvita"
+   ],
+   "spend_2024": 55895510.32,
+   "units_2024": 4707,
+   "benes_2024": 179,
+   "rxcui": "2043854",
+   "atc": null,
+   "rxnorm_name": "burosumab-twza",
+   "search_name": "burosumab-twza",
+   "avg_cost_per_unit_usd": 11874.9756
+  },
+  {
+   "molecule": "canakinumab + pf",
+   "brand_examples": [
+    "Ilaris"
+   ],
+   "spend_2024": 55735087.48,
+   "units_2024": 2996,
+   "benes_2024": 379,
+   "rxcui": null,
+   "atc": null,
+   "rxnorm_name": null,
+   "search_name": null,
+   "avg_cost_per_unit_usd": 18603.1667
+  },
+  {
+   "molecule": "c1 esterase inhibitor, recomb",
+   "brand_examples": [
+    "Ruconest"
+   ],
+   "spend_2024": 55710878.24,
+   "units_2024": 7372,
+   "benes_2024": 128,
+   "rxcui": "1599831",
+   "atc": "B06AC04",
+   "rxnorm_name": "c1 esterase inhibitor, recomb",
+   "search_name": "c1 esterase inhibitor, recomb",
+   "avg_cost_per_unit_usd": 7557.0915
+  },
+  {
+   "molecule": "amitriptyline hcl",
+   "brand_examples": [
+    "Amitriptyline HCl"
+   ],
+   "spend_2024": 54717091.64,
+   "units_2024": 262587495,
+   "benes_2024": 848297,
+   "rxcui": "203168",
+   "atc": null,
+   "rxnorm_name": "amitriptyline hcl",
+   "search_name": "amitriptyline hcl",
+   "avg_cost_per_unit_usd": 0.2084
+  },
+  {
+   "molecule": "mometasone furoate",
+   "brand_examples": [
+    "Asmanex",
+    "Asmanex HFA",
+    "Mometasone Furoate*"
+   ],
+   "spend_2024": 54200640.95,
+   "units_2024": 40209137,
+   "benes_2024": 545274,
+   "rxcui": "30145",
+   "atc": null,
+   "rxnorm_name": "mometasone furoate",
+   "search_name": "mometasone furoate",
+   "avg_cost_per_unit_usd": 1.348
+  },
+  {
+   "molecule": "methylphenidate hcl",
+   "brand_examples": [
+    "Aptensio XR",
+    "Concerta",
+    "Jornay PM",
+    "Methylin",
+    "Methylphenidate ER",
+    "Methylphenidate ER (La)",
+    "Methylphenidate HCl",
+    "Methylphenidate HCl CD",
+    "Methylphenidate HCl ER (Cd)",
+    "Quillichew ER",
+    "Quillivant XR",
+    "Relexxii",
+    "Ritalin",
+    "Ritalin La"
+   ],
+   "spend_2024": 54184876.89,
+   "units_2024": 55478921,
+   "benes_2024": 158234,
+   "rxcui": "203188",
+   "atc": null,
+   "rxnorm_name": "methylphenidate hcl",
+   "search_name": "methylphenidate hcl",
+   "avg_cost_per_unit_usd": 0.9767
+  }
+ ],
+ "counts": {
+  "unique_molecules_total": 1978,
+  "top_n": 500,
+  "rxcui_resolved": 447
+ }
+}

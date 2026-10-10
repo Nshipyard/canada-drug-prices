@@ -1,0 +1,37 @@
+[
+ {
+  "id": "widest-gap",
+  "question": "Which molecule has the widest US-to-Canada price gap?",
+  "stat": "Rivaroxaban costs 66.7x more per unit in the US than in Canada",
+  "body": "One Rivaroxaban dosage unit costs $17.30 under Medicare Part D against $0.26 through Ontario's public drug plan. The five widest gaps are Rivaroxaban (66.7x), Latanoprostene Bunod (64.5x), Dapagliflozin Propanediol (47.8x), Bimatoprost (41.5x), Canagliflozin (35.2x). US figures are gross of confidential rebates, so treat each ratio as an upper bound.",
+  "cite": "The Molecule Price Gap (Open Nshipyard, Richardson Dackam): Rivaroxaban has the widest US-to-Canada per-unit price gap at 66.7x (Medicare Part D 2024 vs Ontario Drug Benefit formulary, US gross of confidential rebates)."
+ },
+ {
+  "id": "median-gap",
+  "question": "What is the typical gap, not just the extreme?",
+  "stat": "The median molecule costs 4.4x more in the US",
+  "body": "Across 194 matched molecules, the median US-to-Canada per-unit ratio is 4.4x. 54 molecules sit under 2x, while 61 sit at 8x or more. The gap is structural, not a handful of outliers.",
+  "cite": "The Molecule Price Gap (Open Nshipyard, Richardson Dackam): median US-to-Canada per-unit price ratio is 4.4x across 194 matched molecules (Medicare Part D 2024 vs Ontario Drug Benefit, US gross of rebates)."
+ },
+ {
+  "id": "matched-spend",
+  "question": "How much spending does the ledger cover?",
+  "stat": "$125.5B in 2024 Medicare Part D spending across 194 molecules",
+  "body": "The matched molecules account for $125.5 billion of 2024 Medicare Part D spending, so the gaps describe where most of the money goes, not a niche corner of the market.",
+  "cite": "The Molecule Price Gap (Open Nshipyard, Richardson Dackam): matched molecules cover $125.5B of 2024 Medicare Part D spending across 194 molecules."
+ },
+ {
+  "id": "class-gap",
+  "question": "Which drug classes have the widest gaps?",
+  "stat": "Sensory organs leads at a 41.5x median ratio",
+  "body": "By ATC level-1 class, Sensory organs (S) has the widest median gap at 41.5x across 4 molecules. Some classes are structurally cheaper in Canada than others, which is where negotiation leverage concentrates.",
+  "cite": "The Molecule Price Gap (Open Nshipyard, Richardson Dackam): Sensory organs has the widest median US-to-Canada per-unit gap at 41.5x (ATC level-1, 4 molecules)."
+ },
+ {
+  "id": "anecdote-row",
+  "question": "What happened to the Rinvoq anecdote?",
+  "stat": "Upadacitinib (Rinvoq): 5.8x",
+  "body": "The often-quoted Rinvoq comparison is one row of 194 here: $217.14 per unit in the US against $37.73 in Canada. The ledger replaces the anecdote with a number anyone can check.",
+  "cite": "The Molecule Price Gap (Open Nshipyard, Richardson Dackam): upadacitinib (Rinvoq) per-unit ratio 5.8x (Medicare Part D 2024 vs Ontario Drug Benefit, US gross of rebates)."
+ }
+]

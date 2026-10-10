@@ -1,0 +1,156 @@
+{
+ "l1": [
+  {
+   "code": "S",
+   "name": "Sensory organs",
+   "median_ratio": 41.5,
+   "n": 4
+  },
+  {
+   "code": "B",
+   "name": "Blood and blood forming organs",
+   "median_ratio": 32.3,
+   "n": 3
+  },
+  {
+   "code": "G",
+   "name": "Genito urinary system and sex hormones",
+   "median_ratio": 19.5,
+   "n": 4
+  },
+  {
+   "code": "H",
+   "name": "Systemic hormonal preparations",
+   "median_ratio": 8.9,
+   "n": 3
+  },
+  {
+   "code": "L",
+   "name": "Antineoplastic and immunomodulating agents",
+   "median_ratio": 8.7,
+   "n": 24
+  },
+  {
+   "code": "R",
+   "name": "Respiratory system",
+   "median_ratio": 5.9,
+   "n": 2
+  },
+  {
+   "code": "N",
+   "name": "Nervous system",
+   "median_ratio": 5.2,
+   "n": 25
+  },
+  {
+   "code": "A",
+   "name": "Alimentary tract and metabolism",
+   "median_ratio": 5.1,
+   "n": 20
+  },
+  {
+   "code": "J",
+   "name": "Antiinfectives for systemic use",
+   "median_ratio": 4.7,
+   "n": 5
+  },
+  {
+   "code": "M",
+   "name": "Musculo-skeletal system",
+   "median_ratio": 2.1,
+   "n": 3
+  },
+  {
+   "code": "C",
+   "name": "Cardiovascular system",
+   "median_ratio": 1.7,
+   "n": 17
+  },
+  {
+   "code": "D",
+   "name": "Dermatologicals",
+   "median_ratio": 0.7,
+   "n": 3
+  }
+ ],
+ "l2": [
+  {
+   "code": "S01",
+   "name": "Ophthalmologicals",
+   "median_ratio": 41.5,
+   "n": 4
+  },
+  {
+   "code": "B01",
+   "name": "Antithrombotic agents",
+   "median_ratio": 32.3,
+   "n": 3
+  },
+  {
+   "code": "A07",
+   "name": "Antidiarrheals",
+   "median_ratio": 8.4,
+   "n": 3
+  },
+  {
+   "code": "L01",
+   "name": "Antineoplastic agents",
+   "median_ratio": 8.0,
+   "n": 7
+  },
+  {
+   "code": "A10",
+   "name": "Drugs used in diabetes",
+   "median_ratio": 7.5,
+   "n": 8
+  },
+  {
+   "code": "N05",
+   "name": "Psycholeptics",
+   "median_ratio": 7.5,
+   "n": 9
+  },
+  {
+   "code": "L04",
+   "name": "Immunosuppressants",
+   "median_ratio": 6.5,
+   "n": 13
+  },
+  {
+   "code": "N03",
+   "name": "Antiepileptics",
+   "median_ratio": 5.2,
+   "n": 10
+  },
+  {
+   "code": "C03",
+   "name": "Diuretics",
+   "median_ratio": 5.1,
+   "n": 5
+  },
+  {
+   "code": "J05",
+   "name": "Antivirals for systemic use",
+   "median_ratio": 4.8,
+   "n": 4
+  },
+  {
+   "code": "C09",
+   "name": "Agents acting on the renin-angiotensin system",
+   "median_ratio": 1.7,
+   "n": 3
+  },
+  {
+   "code": "C10",
+   "name": "Lipid modifying agents",
+   "median_ratio": 1.5,
+   "n": 4
+  },
+  {
+   "code": "A02",
+   "name": "Drugs for acid related disorders",
+   "median_ratio": 1.2,
+   "n": 5
+  }
+ ]
+}

@@ -1,0 +1,37 @@
+[
+ {
+  "id": "widest-gap",
+  "question": "Quelle molécule présente le plus grand écart de prix entre les États-Unis et le Canada ?",
+  "stat": "La molécule Rivaroxaban coûte 66.7 fois plus cher par unité aux États-Unis qu'au Canada",
+  "body": "Une unité posologique de Rivaroxaban coûte $17.30 sous Medicare Part D contre $0.26 via le régime public ontarien. Les cinq plus grands écarts : Rivaroxaban (66.7x), Latanoprostene Bunod (64.5x), Dapagliflozin Propanediol (47.8x), Bimatoprost (41.5x), Canagliflozin (35.2x). Les chiffres américains sont bruts des rabais confidentiels ; chaque ratio est une borne haute.",
+  "cite": "The Molecule Price Gap (Open Nshipyard, Richardson Dackam) : Rivaroxaban présente le plus grand écart de prix unitaire États-Unis / Canada, 66.7x (Medicare Part D 2024 contre formulaires ODB, chiffres américains bruts des rabais)."
+ },
+ {
+  "id": "median-gap",
+  "question": "Quel est l'écart typique, au-delà des extrêmes ?",
+  "stat": "La molécule médiane coûte 4.4 fois plus cher aux États-Unis",
+  "body": "Sur 194 molécules appariées, le ratio médian États-Unis / Canada par unité est de 4.4. 54 molécules sont sous 2x, 61 à 8x ou plus. L'écart est structurel, pas une poignée d'exceptions.",
+  "cite": "The Molecule Price Gap (Open Nshipyard, Richardson Dackam) : le ratio médian de prix unitaire États-Unis / Canada est de 4.4 sur 194 molécules appariées."
+ },
+ {
+  "id": "matched-spend",
+  "question": "Combien de dépenses le registre couvre-t-il ?",
+  "stat": "125.5 G$ de dépenses Medicare Part D en 2024 sur 194 molécules",
+  "body": "Les molécules appariées représentent 125.5 milliards de dollars de dépenses Medicare Part D en 2024 : les écarts décrivent là où va l'essentiel de l'argent, pas un recoin du marché.",
+  "cite": "The Molecule Price Gap (Open Nshipyard, Richardson Dackam) : les molécules appariées couvrent 125.5 G$ de dépenses Medicare Part D en 2024."
+ },
+ {
+  "id": "class-gap",
+  "question": "Quelles classes de médicaments ont les écarts les plus larges ?",
+  "stat": "Sensory organs mène avec un ratio médian de 41.5",
+  "body": "Par classe ATC de niveau 1, Sensory organs (S) a l'écart médian le plus large : 41.5 sur 4 molécules. Certaines classes sont structurellement moins chères au Canada, et c'est là que se concentre le levier de négociation.",
+  "cite": "The Molecule Price Gap (Open Nshipyard, Richardson Dackam) : Sensory organs a l'écart médian le plus large, 41.5x (ATC niveau 1, 4 molécules)."
+ },
+ {
+  "id": "anecdote-row",
+  "question": "Qu'est devenu l'anecdote Rinvoq ?",
+  "stat": "Upadacitinib (Rinvoq) : 5.8x",
+  "body": "La comparaison Rinvoq souvent citée devient une ligne parmi 194 : $217.14 par unité aux États-Unis contre $37.73 au Canada. Le registre remplace l'anecdote par un chiffre vérifiable.",
+  "cite": "The Molecule Price Gap (Open Nshipyard, Richardson Dackam) : upadacitinib (Rinvoq), ratio unitaire 5.8x."
+ }
+]

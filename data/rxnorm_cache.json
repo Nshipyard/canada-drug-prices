@@ -1,0 +1,2822 @@
+{
+ "apixaban": {
+  "rxcui": "1364430",
+  "atc": "B01AF02",
+  "rxnorm_name": "apixaban"
+ },
+ "semaglutide": {
+  "rxcui": "1991302",
+  "atc": "A10BJ06",
+  "rxnorm_name": "semaglutide"
+ },
+ "empagliflozin": {
+  "rxcui": "1545653",
+  "atc": "A10BK03",
+  "rxnorm_name": "empagliflozin"
+ },
+ "lenalidomide": {
+  "rxcui": "342369",
+  "atc": "L04AX04",
+  "rxnorm_name": "lenalidomide"
+ },
+ "tirzepatide": {
+  "rxcui": "2601723",
+  "atc": "A10BX16",
+  "rxnorm_name": "tirzepatide"
+ },
+ "rivaroxaban": {
+  "rxcui": "1114195",
+  "atc": "B01AF01",
+  "rxnorm_name": "rivaroxaban"
+ },
+ "adalimumab": {
+  "rxcui": "327361",
+  "atc": "L04AB04",
+  "rxnorm_name": "adalimumab"
+ },
+ "dapagliflozin propanediol": {
+  "rxcui": "1486966",
+  "atc": null,
+  "rxnorm_name": "dapagliflozin propanediol"
+ },
+ "dulaglutide": {
+  "rxcui": "1551291",
+  "atc": "A10BJ05",
+  "rxnorm_name": "dulaglutide"
+ },
+ "sacubitril + valsartan": {
+  "rxcui": "1656339",
+  "atc": "C09DX04",
+  "rxnorm_name": "sacubitril + valsartan"
+ },
+ "sitagliptin phosphate": {
+  "rxcui": "621590",
+  "atc": null,
+  "rxnorm_name": "sitagliptin phosphate"
+ },
+ "enzalutamide": {
+  "rxcui": "1307298",
+  "atc": "L02BB04",
+  "rxnorm_name": "enzalutamide"
+ },
+ "ustekinumab": {
+  "rxcui": "847083",
+  "atc": "L04AC05",
+  "rxnorm_name": "ustekinumab"
+ },
+ "etanercept": {
+  "rxcui": "214555",
+  "atc": "L04AB01",
+  "rxnorm_name": "etanercept"
+ },
+ "tafamidis": {
+  "rxcui": "1545063",
+  "atc": "N07XX08",
+  "rxnorm_name": "tafamidis"
+ },
+ "paliperidone palmitate": {
+  "rxcui": "858045",
+  "atc": null,
+  "rxnorm_name": "paliperidone palmitate"
+ },
+ "dupilumab": {
+  "rxcui": "1876376",
+  "atc": "D11AH05",
+  "rxnorm_name": "dupilumab"
+ },
+ "risankizumab-rzaa": {
+  "rxcui": "2166132",
+  "atc": null,
+  "rxnorm_name": "risankizumab-rzaa"
+ },
+ "mirabegron": {
+  "rxcui": "1300786",
+  "atc": "G04BD12",
+  "rxnorm_name": "mirabegron"
+ },
+ "ibrutinib": {
+  "rxcui": "1442981",
+  "atc": "L01EL01",
+  "rxnorm_name": "ibrutinib"
+ },
+ "ruxolitinib phosphate": {
+  "rxcui": "1193325",
+  "atc": null,
+  "rxnorm_name": "ruxolitinib phosphate"
+ },
+ "pomalidomide": {
+  "rxcui": "1369713",
+  "atc": "L04AX06",
+  "rxnorm_name": "pomalidomide"
+ },
+ "lipase + protease + amylase": {
+  "rxcui": "392491",
+  "atc": null,
+  "rxnorm_name": "lipase + protease + amylase"
+ },
+ "nintedanib esylate": {
+  "rxcui": "1592736",
+  "atc": null,
+  "rxnorm_name": "nintedanib esylate"
+ },
+ "palbociclib": {
+  "rxcui": "1601374",
+  "atc": "L01EF01",
+  "rxnorm_name": "palbociclib"
+ },
+ "linaclotide": {
+  "rxcui": "1307404",
+  "atc": "A06AX04",
+  "rxnorm_name": "linaclotide"
+ },
+ "valbenazine tosylate": {
+  "rxcui": "1923002",
+  "atc": null,
+  "rxnorm_name": "valbenazine tosylate"
+ },
+ "evolocumab": {
+  "rxcui": "1665684",
+  "atc": "C10AX13",
+  "rxnorm_name": "evolocumab"
+ },
+ "insulin degludec": {
+  "rxcui": "1670007",
+  "atc": "A10AE06",
+  "rxnorm_name": "insulin degludec"
+ },
+ "cyclosporine": {
+  "rxcui": "3008",
+  "atc": "L04AD01",
+  "rxnorm_name": "cyclosporine"
+ },
+ "zanubrutinib": {
+  "rxcui": "2262435",
+  "atc": "L01EL03",
+  "rxnorm_name": "zanubrutinib"
+ },
+ "acalabrutinib maleate": {
+  "rxcui": "1986808",
+  "atc": "L01EL02",
+  "rxnorm_name": "acalabrutinib maleate"
+ },
+ "deutetrabenazine": {
+  "rxcui": "1876905",
+  "atc": "N07XX16",
+  "rxnorm_name": "deutetrabenazine"
+ },
+ "osimertinib mesylate": {
+  "rxcui": "1721559",
+  "atc": null,
+  "rxnorm_name": "osimertinib mesylate"
+ },
+ "secukinumab": {
+  "rxcui": "1599788",
+  "atc": "L04AC10",
+  "rxnorm_name": "secukinumab"
+ },
+ "tiotropium bromide": {
+  "rxcui": "393575",
+  "atc": "R03BB04",
+  "rxnorm_name": "tiotropium bromide"
+ },
+ "fluticasone + vilanterol": {
+  "rxcui": "1424888",
+  "atc": null,
+  "rxnorm_name": "fluticasone + vilanterol"
+ },
+ "apalutamide": {
+  "rxcui": "1999574",
+  "atc": "L02BB05",
+  "rxnorm_name": "apalutamide"
+ },
+ "upadacitinib": {
+  "rxcui": "2196092",
+  "atc": "L04AF03",
+  "rxnorm_name": "upadacitinib"
+ },
+ "macitentan": {
+  "rxcui": "1442132",
+  "atc": "C02KX04",
+  "rxnorm_name": "macitentan"
+ },
+ "cabozantinib s-malate": {
+  "rxcui": "1363267",
+  "atc": null,
+  "rxnorm_name": "cabozantinib s-malate"
+ },
+ "rifaximin": {
+  "rxcui": "35619",
+  "atc": "A07AA11",
+  "rxnorm_name": "rifaximin"
+ },
+ "cariprazine hcl": {
+  "rxcui": "1721073",
+  "atc": null,
+  "rxnorm_name": "cariprazine hcl"
+ },
+ "linagliptin": {
+  "rxcui": "1100699",
+  "atc": "A10BH05",
+  "rxnorm_name": "linagliptin"
+ },
+ "sitagliptin phos + metformin hcl": {
+  "rxcui": "729717",
+  "atc": "A10BD07",
+  "rxnorm_name": "sitagliptin phos + metformin hcl"
+ },
+ "abemaciclib": {
+  "rxcui": "1946825",
+  "atc": "L01EF03",
+  "rxnorm_name": "abemaciclib"
+ },
+ "apremilast": {
+  "rxcui": "1492727",
+  "atc": "L04AA32",
+  "rxnorm_name": "apremilast"
+ },
+ "darolutamide": {
+  "rxcui": "2180325",
+  "atc": "L02BB06",
+  "rxnorm_name": "darolutamide"
+ },
+ "aripiprazole": {
+  "rxcui": "89013",
+  "atc": "N05AX12",
+  "rxnorm_name": "aripiprazole"
+ },
+ "venetoclax": {
+  "rxcui": "1747556",
+  "atc": "L01XX52",
+  "rxnorm_name": "venetoclax"
+ },
+ "vibegron": {
+  "rxcui": "2472254",
+  "atc": "G04BD15",
+  "rxnorm_name": "vibegron"
+ },
+ "selexipag": {
+  "rxcui": "1729002",
+  "atc": "B01AC27",
+  "rxnorm_name": "selexipag"
+ },
+ "insulin lispro": {
+  "rxcui": "86009",
+  "atc": "A10AB04",
+  "rxnorm_name": "insulin lispro"
+ },
+ "lenvatinib mesylate": {
+  "rxcui": "1604346",
+  "atc": null,
+  "rxnorm_name": "lenvatinib mesylate"
+ },
+ "icosapent ethyl": {
+  "rxcui": "1304974",
+  "atc": null,
+  "rxnorm_name": "icosapent ethyl"
+ },
+ "sofosbuvir + velpatasvir": {
+  "rxcui": "1799211",
+  "atc": "J05AP55",
+  "rxnorm_name": "sofosbuvir + velpatasvir"
+ },
+ "tofacitinib citrate": {
+  "rxcui": "1358492",
+  "atc": null,
+  "rxnorm_name": "tofacitinib citrate"
+ },
+ "brexpiprazole": {
+  "rxcui": "1658314",
+  "atc": "N05AX16",
+  "rxnorm_name": "brexpiprazole"
+ },
+ "levothyroxine sodium": {
+  "rxcui": "40144",
+  "atc": "H03AA01",
+  "rxnorm_name": "levothyroxine sodium"
+ },
+ "denosumab": {
+  "rxcui": "993449",
+  "atc": "M05BX04",
+  "rxnorm_name": "denosumab"
+ },
+ "atorvastatin calcium": {
+  "rxcui": "83366",
+  "atc": null,
+  "rxnorm_name": "atorvastatin calcium"
+ },
+ "ribociclib succinate": {
+  "rxcui": "1873978",
+  "atc": null,
+  "rxnorm_name": "ribociclib succinate"
+ },
+ "abatacept": {
+  "rxcui": "614391",
+  "atc": "L04AA24",
+  "rxnorm_name": "abatacept"
+ },
+ "treprostinil": {
+  "rxcui": "343048",
+  "atc": "B01AC21",
+  "rxnorm_name": "treprostinil"
+ },
+ "albuterol sulfate": {
+  "rxcui": "142153",
+  "atc": null,
+  "rxnorm_name": "albuterol sulfate"
+ },
+ "abiraterone acetate": {
+  "rxcui": "1100071",
+  "atc": null,
+  "rxnorm_name": "abiraterone acetate"
+ },
+ "cenegermin-bkbj": {
+  "rxcui": "2104331",
+  "atc": null,
+  "rxnorm_name": "cenegermin-bkbj"
+ },
+ "ixekizumab": {
+  "rxcui": "1745099",
+  "atc": "L04AC13",
+  "rxnorm_name": "ixekizumab"
+ },
+ "riociguat": {
+  "rxcui": "1439816",
+  "atc": "C02KX05",
+  "rxnorm_name": "riociguat"
+ },
+ "ticagrelor": {
+  "rxcui": "1116632",
+  "atc": "B01AC24",
+  "rxnorm_name": "ticagrelor"
+ },
+ "eltrombopag olamine": {
+  "rxcui": "735651",
+  "atc": null,
+  "rxnorm_name": "eltrombopag olamine"
+ },
+ "pimavanserin tartrate": {
+  "rxcui": "1791686",
+  "atc": null,
+  "rxnorm_name": "pimavanserin tartrate"
+ },
+ "bimatoprost": {
+  "rxcui": "283810",
+  "atc": "S01EE03",
+  "rxnorm_name": "bimatoprost"
+ },
+ "dolutegravir sodium": {
+  "rxcui": "1433867",
+  "atc": null,
+  "rxnorm_name": "dolutegravir sodium"
+ },
+ "rimegepant sulfate": {
+  "rxcui": "2282322",
+  "atc": null,
+  "rxnorm_name": "rimegepant sulfate"
+ },
+ "guselkumab": {
+  "rxcui": "1928588",
+  "atc": "L04AC16",
+  "rxnorm_name": "guselkumab"
+ },
+ "olaparib": {
+  "rxcui": "1597582",
+  "atc": "L01XK01",
+  "rxnorm_name": "olaparib"
+ },
+ "ofatumumab": {
+  "rxcui": "712566",
+  "atc": "L01FA02",
+  "rxnorm_name": "ofatumumab"
+ },
+ "gabapentin": {
+  "rxcui": "25480",
+  "atc": "N02BF01",
+  "rxnorm_name": "gabapentin"
+ },
+ "dasatinib": {
+  "rxcui": "475342",
+  "atc": "L01EA02",
+  "rxnorm_name": "dasatinib"
+ },
+ "corticotropin": {
+  "rxcui": "376",
+  "atc": "H01AA01",
+  "rxnorm_name": "corticotropin"
+ },
+ "lifitegrast": {
+  "rxcui": "1801820",
+  "atc": "S01XA25",
+  "rxnorm_name": "lifitegrast"
+ },
+ "empagliflozin + metformin hcl": {
+  "rxcui": "1664314",
+  "atc": "A10BD20",
+  "rxnorm_name": "empagliflozin + metformin hcl"
+ },
+ "relugolix": {
+  "rxcui": "2472778",
+  "atc": "L02BX04",
+  "rxnorm_name": "relugolix"
+ },
+ "teriparatide": {
+  "rxcui": "32915",
+  "atc": "H05AA02",
+  "rxnorm_name": "teriparatide"
+ },
+ "oxycodone hcl": {
+  "rxcui": "82063",
+  "atc": null,
+  "rxnorm_name": "oxycodone hcl"
+ },
+ "rosuvastatin calcium": {
+  "rxcui": "323828",
+  "atc": null,
+  "rxnorm_name": "rosuvastatin calcium"
+ },
+ "metoprolol succinate": {
+  "rxcui": "221124",
+  "atc": null,
+  "rxnorm_name": "metoprolol succinate"
+ },
+ "insulin aspart": {
+  "rxcui": "51428",
+  "atc": "A10AB05",
+  "rxnorm_name": "insulin aspart"
+ },
+ "axitinib": {
+  "rxcui": "1242999",
+  "atc": "L01EK01",
+  "rxnorm_name": "axitinib"
+ },
+ "sucroferric oxyhydroxide": {
+  "rxcui": "1484283",
+  "atc": "V03AE05",
+  "rxnorm_name": "sucroferric oxyhydroxide"
+ },
+ "ubrogepant": {
+  "rxcui": "2268216",
+  "atc": "N02CD04",
+  "rxnorm_name": "ubrogepant"
+ },
+ "nilotinib hcl": {
+  "rxcui": "1804015",
+  "atc": null,
+  "rxnorm_name": "nilotinib hcl"
+ },
+ "dolutegravir + rilpivirine": {
+  "rxcui": "1989499",
+  "atc": "J05AR21",
+  "rxnorm_name": "dolutegravir + rilpivirine"
+ },
+ "dronedarone hcl": {
+  "rxcui": "736680",
+  "atc": null,
+  "rxnorm_name": "dronedarone hcl"
+ },
+ "glatiramer acetate": {
+  "rxcui": "84375",
+  "atc": "L03AX13",
+  "rxnorm_name": "glatiramer acetate"
+ },
+ "metformin hcl": {
+  "rxcui": "235743",
+  "atc": null,
+  "rxnorm_name": "metformin hcl"
+ },
+ "ipratropium + albuterol sulfate": {
+  "rxcui": "214199",
+  "atc": null,
+  "rxnorm_name": "ipratropium + albuterol sulfate"
+ },
+ "carbidopa + levodopa": {
+  "rxcui": "103990",
+  "atc": null,
+  "rxnorm_name": "carbidopa + levodopa"
+ },
+ "finerenone": {
+  "rxcui": "2562811",
+  "atc": "C03DA05",
+  "rxnorm_name": "finerenone"
+ },
+ "vortioxetine hydrobromide": {
+  "rxcui": "1439834",
+  "atc": null,
+  "rxnorm_name": "vortioxetine hydrobromide"
+ },
+ "estradiol": {
+  "rxcui": "4083",
+  "atc": "G03CA03",
+  "rxnorm_name": "estradiol"
+ },
+ "hydrocodone + acetaminophen": {
+  "rxcui": "214182",
+  "atc": null,
+  "rxnorm_name": "hydrocodone + acetaminophen"
+ },
+ "edaravone": {
+  "rxcui": "1921877",
+  "atc": "N07XX14",
+  "rxnorm_name": "edaravone"
+ },
+ "umeclidinium bromide": {
+  "rxcui": "1487512",
+  "atc": "R03BB07",
+  "rxnorm_name": "umeclidinium bromide"
+ },
+ "tocilizumab": {
+  "rxcui": "612865",
+  "atc": "L04AC07",
+  "rxnorm_name": "tocilizumab"
+ },
+ "omeprazole": {
+  "rxcui": "7646",
+  "atc": "A02BC01",
+  "rxnorm_name": "omeprazole"
+ },
+ "insulin regular, human": {
+  "rxcui": "253182",
+  "atc": "A10AB01",
+  "rxnorm_name": "insulin regular, human"
+ },
+ "alpha-1-proteinase inhibitor": {
+  "rxcui": "535",
+  "atc": "B02AB02",
+  "rxnorm_name": "alpha-1-proteinase inhibitor"
+ },
+ "losartan potassium": {
+  "rxcui": "203160",
+  "atc": null,
+  "rxnorm_name": "losartan potassium"
+ },
+ "teduglutide": {
+  "rxcui": "1364468",
+  "atc": "A16AX08",
+  "rxnorm_name": "teduglutide"
+ },
+ "diclofenac sodium": {
+  "rxcui": "203214",
+  "atc": null,
+  "rxnorm_name": "diclofenac sodium"
+ },
+ "mifepristone": {
+  "rxcui": "6964",
+  "atc": "G03XB01",
+  "rxnorm_name": "mifepristone"
+ },
+ "asfotase alfa": {
+  "rxcui": "1720259",
+  "atc": "A16AB13",
+  "rxnorm_name": "asfotase alfa"
+ },
+ "momelotinib dihydrochloride": {
+  "rxcui": "2665204",
+  "atc": "L01EJ04",
+  "rxnorm_name": "momelotinib dihydrochloride"
+ },
+ "alirocumab": {
+  "rxcui": "1659152",
+  "atc": "C10AX14",
+  "rxnorm_name": "alirocumab"
+ },
+ "pantoprazole sodium": {
+  "rxcui": "253191",
+  "atc": null,
+  "rxnorm_name": "pantoprazole sodium"
+ },
+ "amlodipine besylate": {
+  "rxcui": "104416",
+  "atc": null,
+  "rxnorm_name": "amlodipine besylate"
+ },
+ "liraglutide": {
+  "rxcui": "475968",
+  "atc": "A10BJ02",
+  "rxnorm_name": "liraglutide"
+ },
+ "duloxetine hcl": {
+  "rxcui": "476250",
+  "atc": null,
+  "rxnorm_name": "duloxetine hcl"
+ },
+ "potassium chloride": {
+  "rxcui": "8591",
+  "atc": "A12BA01",
+  "rxnorm_name": "potassium chloride"
+ },
+ "bupropion hcl": {
+  "rxcui": "203204",
+  "atc": null,
+  "rxnorm_name": "bupropion hcl"
+ },
+ "mepolizumab": {
+  "rxcui": "1720597",
+  "atc": "R03DX09",
+  "rxnorm_name": "mepolizumab"
+ },
+ "fluticasone propionate": {
+  "rxcui": "50121",
+  "atc": null,
+  "rxnorm_name": "fluticasone propionate"
+ },
+ "omalizumab": {
+  "rxcui": "302379",
+  "atc": "R03DX05",
+  "rxnorm_name": "omalizumab"
+ },
+ "oxycodone hcl + acetaminophen": {
+  "rxcui": "214183",
+  "atc": null,
+  "rxnorm_name": "oxycodone hcl + acetaminophen"
+ },
+ "mesalamine": {
+  "rxcui": "52582",
+  "atc": "A07EC02",
+  "rxnorm_name": "mesalamine"
+ },
+ "fluticasone + umeclidin + vilanter": {
+  "rxcui": "1945038",
+  "atc": null,
+  "rxnorm_name": "fluticasone + umeclidin + vilanter",
+  "search_name": "fluticasone / umeclidinium / vilanterol"
+ },
+ "bictegrav + emtricit + tenofov ala": {
+  "rxcui": "1996259",
+  "atc": "J05AR20",
+  "rxnorm_name": "bictegrav + emtricit + tenofov ala",
+  "search_name": "bictegravir / emtricitabine / tenofovir alafenamide"
+ },
+ "insulin glargine,hum.rec.anlog": {
+  "rxcui": "274783",
+  "atc": "A10AE04",
+  "rxnorm_name": "insulin glargine,hum.rec.anlog",
+  "search_name": "insulin glargine"
+ },
+ "budesonide + glycopyr + formoterol": {
+  "rxcui": "2387330",
+  "atc": null,
+  "rxnorm_name": "budesonide + glycopyr + formoterol",
+  "search_name": "budesonide / glycopyrronium / formoterol"
+ },
+ "fluticasone propion + salmeterol": {
+  "rxcui": "284635",
+  "atc": "R03AK06",
+  "rxnorm_name": "fluticasone propion + salmeterol",
+  "search_name": "fluticasone propionate / salmeterol"
+ },
+ "budesonide + formoterol fumarate": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "umeclidinium brm + vilanterol tr": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "immune globul g + gly + iga avg 46": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "varicella-zoster ge + as01b + pf": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "rsvpref3 antigen + as01e + pf": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "elexacaftor + tezacaftor + ivacaft": {
+  "rxcui": "2257010",
+  "atc": "R07AX32",
+  "rxnorm_name": "elexacaftor + tezacaftor + ivacaft",
+  "search_name": "elexacaftor / tezacaftor / ivacaftor"
+ },
+ "immun glob g(igg) + pro + iga 0-50": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "immun glob g(igg) + gly + iga ov50": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "abacavir + dolutegravir + lamivudi": {
+  "rxcui": "1546887",
+  "atc": "J05AR13",
+  "rxnorm_name": "abacavir + dolutegravir + lamivudi",
+  "search_name": "abacavir / dolutegravir / lamivudine"
+ },
+ "elviteg + cob + emtri + tenof alafen": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "emtricitabine + tenofov alafenam": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "dolutegravir sodium + lamivudine": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "pen needle, diabetic": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "rsv vacc, pref a and pref b + pf": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "tiotropium br + olodaterol hcl": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "darunavir + cob + emtri + tenof alaf": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "immun globg(igg) + malt + iga ov50": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "emtricitab + rilpiviri + tenof ala": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "insulin aspart (niacinamide)": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "tamsulosin hcl": {
+  "rxcui": "236495",
+  "atc": null,
+  "rxnorm_name": "tamsulosin hcl",
+  "search_name": "tamsulosin hcl"
+ },
+ "insulin glargine + lixisenatide": {
+  "rxcui": "1858994",
+  "atc": "A10AE54",
+  "rxnorm_name": "insulin glargine + lixisenatide",
+  "search_name": "insulin glargine / lixisenatide"
+ },
+ "erenumab-aooe": {
+  "rxcui": "2045614",
+  "atc": null,
+  "rxnorm_name": "erenumab-aooe",
+  "search_name": "erenumab-aooe"
+ },
+ "benralizumab": {
+  "rxcui": "1989100",
+  "atc": "R03DX10",
+  "rxnorm_name": "benralizumab",
+  "search_name": "benralizumab"
+ },
+ "galcanezumab-gnlm": {
+  "rxcui": "2058868",
+  "atc": null,
+  "rxnorm_name": "galcanezumab-gnlm",
+  "search_name": "galcanezumab-gnlm"
+ },
+ "immun glob g(igg) + gly + iga 0-50": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "tafamidis meglumine": {
+  "rxcui": "1727003",
+  "atc": null,
+  "rxnorm_name": "tafamidis meglumine",
+  "search_name": "tafamidis meglumine"
+ },
+ "buprenorphine hcl + naloxone hcl": {
+  "rxcui": "352364",
+  "atc": null,
+  "rxnorm_name": "buprenorphine hcl + naloxone hcl",
+  "search_name": "buprenorphine hcl / naloxone hcl"
+ },
+ "mavacamten": {
+  "rxcui": "2600867",
+  "atc": "C01EB24",
+  "rxnorm_name": "mavacamten",
+  "search_name": "mavacamten"
+ },
+ "interferon beta-1a": {
+  "rxcui": "75917",
+  "atc": "L03AB07",
+  "rxnorm_name": "interferon beta-1a",
+  "search_name": "interferon beta-1a"
+ },
+ "certolizumab pegol": {
+  "rxcui": "709271",
+  "atc": "L04AB05",
+  "rxnorm_name": "certolizumab pegol",
+  "search_name": "certolizumab pegol"
+ },
+ "ixazomib citrate": {
+  "rxcui": "1723734",
+  "atc": null,
+  "rxnorm_name": "ixazomib citrate",
+  "search_name": "ixazomib citrate"
+ },
+ "canagliflozin": {
+  "rxcui": "1373458",
+  "atc": "A10BK02",
+  "rxnorm_name": "canagliflozin",
+  "search_name": "canagliflozin"
+ },
+ "lumateperone tosylate": {
+  "rxcui": "2275731",
+  "atc": null,
+  "rxnorm_name": "lumateperone tosylate",
+  "search_name": "lumateperone tosylate"
+ },
+ "aripiprazole lauroxil": {
+  "rxcui": "1673265",
+  "atc": null,
+  "rxnorm_name": "aripiprazole lauroxil",
+  "search_name": "aripiprazole lauroxil"
+ },
+ "ivosidenib": {
+  "rxcui": "2049873",
+  "atc": "L01XM02",
+  "rxnorm_name": "ivosidenib",
+  "search_name": "ivosidenib"
+ },
+ "ambrisentan": {
+  "rxcui": "358274",
+  "atc": "C02KX02",
+  "rxnorm_name": "ambrisentan",
+  "search_name": "ambrisentan"
+ },
+ "collagenase clostridium hist.": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "pregabalin": {
+  "rxcui": "187832",
+  "atc": "N02BF02",
+  "rxnorm_name": "pregabalin",
+  "search_name": "pregabalin"
+ },
+ "dexlansoprazole": {
+  "rxcui": "816346",
+  "atc": "A02BC06",
+  "rxnorm_name": "dexlansoprazole",
+  "search_name": "dexlansoprazole"
+ },
+ "elacestrant hcl": {
+  "rxcui": "2628473",
+  "atc": null,
+  "rxnorm_name": "elacestrant hcl",
+  "search_name": "elacestrant hcl"
+ },
+ "atogepant": {
+  "rxcui": "2571813",
+  "atc": "N02CD07",
+  "rxnorm_name": "atogepant",
+  "search_name": "atogepant"
+ },
+ "abaloparatide": {
+  "rxcui": "1921069",
+  "atc": "H05AA04",
+  "rxnorm_name": "abaloparatide",
+  "search_name": "abaloparatide"
+ },
+ "insulin pump cart,auto,bt,g6 + 7": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "lisinopril": {
+  "rxcui": "29046",
+  "atc": "C09AA03",
+  "rxnorm_name": "lisinopril",
+  "search_name": "lisinopril"
+ },
+ "darunavir + cobicistat": {
+  "rxcui": "1598380",
+  "atc": "J05AR14",
+  "rxnorm_name": "darunavir + cobicistat",
+  "search_name": "darunavir / cobicistat"
+ },
+ "brimonidine tartrate + timolol": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "levetiracetam": {
+  "rxcui": "114477",
+  "atc": "N03AX14",
+  "rxnorm_name": "levetiracetam",
+  "search_name": "levetiracetam"
+ },
+ "estrogens, conjugated": {
+  "rxcui": "4099",
+  "atc": "G03CA57",
+  "rxnorm_name": "estrogens, conjugated",
+  "search_name": "estrogens, conjugated"
+ },
+ "belumosudil mesylate": {
+  "rxcui": "2565692",
+  "atc": null,
+  "rxnorm_name": "belumosudil mesylate",
+  "search_name": "belumosudil mesylate"
+ },
+ "divalproex sodium": {
+  "rxcui": "266856",
+  "atc": null,
+  "rxnorm_name": "divalproex sodium",
+  "search_name": "divalproex sodium"
+ },
+ "efgartigimod alfa-fcab": {
+  "rxcui": "2587719",
+  "atc": null,
+  "rxnorm_name": "efgartigimod alfa-fcab",
+  "search_name": "efgartigimod alfa-fcab"
+ },
+ "alectinib hcl": {
+  "rxcui": "1727454",
+  "atc": null,
+  "rxnorm_name": "alectinib hcl",
+  "search_name": "alectinib hcl"
+ },
+ "bosutinib": {
+  "rxcui": "1307619",
+  "atc": "L01EA04",
+  "rxnorm_name": "bosutinib",
+  "search_name": "bosutinib"
+ },
+ "sodium zirconium cyclosilicate": {
+  "rxcui": "2047628",
+  "atc": "V03AE10",
+  "rxnorm_name": "sodium zirconium cyclosilicate",
+  "search_name": "sodium zirconium cyclosilicate"
+ },
+ "oxycodone myristate": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "diltiazem hcl": {
+  "rxcui": "203211",
+  "atc": null,
+  "rxnorm_name": "diltiazem hcl",
+  "search_name": "diltiazem hcl"
+ },
+ "teriflunomide": {
+  "rxcui": "1310520",
+  "atc": "L04AK02",
+  "rxnorm_name": "teriflunomide",
+  "search_name": "teriflunomide"
+ },
+ "ravulizumab-cwvz": {
+  "rxcui": "2107316",
+  "atc": null,
+  "rxnorm_name": "ravulizumab-cwvz",
+  "search_name": "ravulizumab-cwvz"
+ },
+ "memantine hcl": {
+  "rxcui": "236685",
+  "atc": null,
+  "rxnorm_name": "memantine hcl",
+  "search_name": "memantine hcl"
+ },
+ "treprostinil diolamine": {
+  "rxcui": "1927409",
+  "atc": null,
+  "rxnorm_name": "treprostinil diolamine",
+  "search_name": "treprostinil diolamine"
+ },
+ "golimumab": {
+  "rxcui": "819300",
+  "atc": "L04AB06",
+  "rxnorm_name": "golimumab",
+  "search_name": "golimumab"
+ },
+ "dimethyl fumarate": {
+  "rxcui": "1373478",
+  "atc": "L04AX07",
+  "rxnorm_name": "dimethyl fumarate",
+  "search_name": "dimethyl fumarate"
+ },
+ "trifluridine + tipiracil hcl": {
+  "rxcui": "1670310",
+  "atc": null,
+  "rxnorm_name": "trifluridine + tipiracil hcl",
+  "search_name": "trifluridine / tipiracil hcl"
+ },
+ "niraparib tosylate": {
+  "rxcui": "2637447",
+  "atc": null,
+  "rxnorm_name": "niraparib tosylate",
+  "search_name": "niraparib tosylate"
+ },
+ "lurasidone hcl": {
+  "rxcui": "1040027",
+  "atc": null,
+  "rxnorm_name": "lurasidone hcl",
+  "search_name": "lurasidone hcl"
+ },
+ "lamotrigine": {
+  "rxcui": "28439",
+  "atc": "N03AX09",
+  "rxnorm_name": "lamotrigine",
+  "search_name": "lamotrigine"
+ },
+ "lanadelumab-flyo": {
+  "rxcui": "2055640",
+  "atc": null,
+  "rxnorm_name": "lanadelumab-flyo",
+  "search_name": "lanadelumab-flyo"
+ },
+ "exenatide microspheres": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "brivaracetam": {
+  "rxcui": "1739745",
+  "atc": "N03AX23",
+  "rxnorm_name": "brivaracetam",
+  "search_name": "brivaracetam"
+ },
+ "imatinib mesylate": {
+  "rxcui": "284924",
+  "atc": null,
+  "rxnorm_name": "imatinib mesylate",
+  "search_name": "imatinib mesylate"
+ },
+ "cabotegravir + rilpivirine": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "belimumab": {
+  "rxcui": "1092437",
+  "atc": "L04AG04",
+  "rxnorm_name": "belimumab",
+  "search_name": "belimumab"
+ },
+ "lidocaine": {
+  "rxcui": "6387",
+  "atc": "C01BB01",
+  "rxnorm_name": "lidocaine",
+  "search_name": "lidocaine"
+ },
+ "dapaglifloz propaned + metformin": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "ezetimibe": {
+  "rxcui": "341248",
+  "atc": "C10AX09",
+  "rxnorm_name": "ezetimibe",
+  "search_name": "ezetimibe"
+ },
+ "pegloticase": {
+  "rxcui": "1011650",
+  "atc": "M04AX02",
+  "rxnorm_name": "pegloticase",
+  "search_name": "pegloticase"
+ },
+ "sodium,calcium,mag,pot oxybate": {
+  "rxcui": "2393796",
+  "atc": null,
+  "rxnorm_name": "sodium,calcium,mag,pot oxybate",
+  "search_name": "sodium,calcium,mag,pot oxybate"
+ },
+ "quetiapine fumarate": {
+  "rxcui": "221153",
+  "atc": null,
+  "rxnorm_name": "quetiapine fumarate",
+  "search_name": "quetiapine fumarate"
+ },
+ "cannabidiol (cbd)": {
+  "rxcui": "2045371",
+  "atc": "N03AX24",
+  "rxnorm_name": "cannabidiol (cbd)",
+  "search_name": "cannabidiol (cbd)"
+ },
+ "trametinib dimethyl sulfoxide": {
+  "rxcui": "1425098",
+  "atc": null,
+  "rxnorm_name": "trametinib dimethyl sulfoxide",
+  "search_name": "trametinib dimethyl sulfoxide"
+ },
+ "varenicline tartrate": {
+  "rxcui": "636674",
+  "atc": null,
+  "rxnorm_name": "varenicline tartrate",
+  "search_name": "varenicline tartrate"
+ },
+ "belzutifan": {
+  "rxcui": "2567226",
+  "atc": "L01XX74",
+  "rxnorm_name": "belzutifan",
+  "search_name": "belzutifan"
+ },
+ "pirtobrutinib": {
+  "rxcui": "2629338",
+  "atc": "L01EL05",
+  "rxnorm_name": "pirtobrutinib",
+  "search_name": "pirtobrutinib"
+ },
+ "fluticasone furoate": {
+  "rxcui": "705022",
+  "atc": "R01AD12",
+  "rxnorm_name": "fluticasone furoate",
+  "search_name": "fluticasone furoate"
+ },
+ "dabigatran etexilate mesylate": {
+  "rxcui": "1037041",
+  "atc": null,
+  "rxnorm_name": "dabigatran etexilate mesylate",
+  "search_name": "dabigatran etexilate mesylate"
+ },
+ "asciminib hydrochloride": {
+  "rxcui": "2584303",
+  "atc": null,
+  "rxnorm_name": "asciminib hydrochloride",
+  "search_name": "asciminib hydrochloride"
+ },
+ "budesonide": {
+  "rxcui": "19831",
+  "atc": "A07EA06",
+  "rxnorm_name": "budesonide",
+  "search_name": "budesonide"
+ },
+ "tenofovir alafenamide": {
+  "rxcui": "1721603",
+  "atc": "J05AF13",
+  "rxnorm_name": "tenofovir alafenamide",
+  "search_name": "tenofovir alafenamide"
+ },
+ "brimonidine tartrate": {
+  "rxcui": "39171",
+  "atc": null,
+  "rxnorm_name": "brimonidine tartrate",
+  "search_name": "brimonidine tartrate"
+ },
+ "eculizumab": {
+  "rxcui": "591781",
+  "atc": "L04AJ01",
+  "rxnorm_name": "eculizumab",
+  "search_name": "eculizumab"
+ },
+ "amikacin liposomal + neb.accessr": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "ocrelizumab": {
+  "rxcui": "1876366",
+  "atc": "L04AG08",
+  "rxnorm_name": "ocrelizumab",
+  "search_name": "ocrelizumab"
+ },
+ "tenapanor hcl": {
+  "rxcui": "2199673",
+  "atc": null,
+  "rxnorm_name": "tenapanor hcl",
+  "search_name": "tenapanor hcl"
+ },
+ "diroximel fumarate": {
+  "rxcui": "2261783",
+  "atc": "L04AX09",
+  "rxnorm_name": "diroximel fumarate",
+  "search_name": "diroximel fumarate"
+ },
+ "buprenorphine": {
+  "rxcui": "1819",
+  "atc": "N02AE01",
+  "rxnorm_name": "buprenorphine",
+  "search_name": "buprenorphine"
+ },
+ "enasidenib mesylate": {
+  "rxcui": "1940331",
+  "atc": null,
+  "rxnorm_name": "enasidenib mesylate",
+  "search_name": "enasidenib mesylate"
+ },
+ "obeticholic acid": {
+  "rxcui": "1798288",
+  "atc": "A05AA04",
+  "rxnorm_name": "obeticholic acid",
+  "search_name": "obeticholic acid"
+ },
+ "sotatercept-csrk": {
+  "rxcui": "2678931",
+  "atc": null,
+  "rxnorm_name": "sotatercept-csrk",
+  "search_name": "sotatercept-csrk"
+ },
+ "capivasertib": {
+  "rxcui": "2669967",
+  "atc": "L01EX27",
+  "rxnorm_name": "capivasertib",
+  "search_name": "capivasertib"
+ },
+ "esomeprazole magnesium": {
+  "rxcui": "283562",
+  "atc": null,
+  "rxnorm_name": "esomeprazole magnesium",
+  "search_name": "esomeprazole magnesium"
+ },
+ "tezepelumab-ekko": {
+  "rxcui": "2587790",
+  "atc": null,
+  "rxnorm_name": "tezepelumab-ekko",
+  "search_name": "tezepelumab-ekko"
+ },
+ "sevelamer carbonate": {
+  "rxcui": "660890",
+  "atc": null,
+  "rxnorm_name": "sevelamer carbonate",
+  "search_name": "sevelamer carbonate"
+ },
+ "celecoxib": {
+  "rxcui": "140587",
+  "atc": "L01XX33",
+  "rxnorm_name": "celecoxib",
+  "search_name": "celecoxib"
+ },
+ "famotidine": {
+  "rxcui": "4278",
+  "atc": "A02BA03",
+  "rxnorm_name": "famotidine",
+  "search_name": "famotidine"
+ },
+ "ipratropium bromide": {
+  "rxcui": "203212",
+  "atc": "R01AX03",
+  "rxnorm_name": "ipratropium bromide",
+  "search_name": "ipratropium bromide"
+ },
+ "amifampridine phosphate": {
+  "rxcui": "2106337",
+  "atc": null,
+  "rxnorm_name": "amifampridine phosphate",
+  "search_name": "amifampridine phosphate"
+ },
+ "lacosamide": {
+  "rxcui": "623400",
+  "atc": "N03AX18",
+  "rxnorm_name": "lacosamide",
+  "search_name": "lacosamide"
+ },
+ "leuprolide acetate": {
+  "rxcui": "203217",
+  "atc": null,
+  "rxnorm_name": "leuprolide acetate",
+  "search_name": "leuprolide acetate"
+ },
+ "cladribine": {
+  "rxcui": "44157",
+  "atc": "L01BB04",
+  "rxnorm_name": "cladribine",
+  "search_name": "cladribine"
+ },
+ "risperidone": {
+  "rxcui": "35636",
+  "atc": "N05AX08",
+  "rxnorm_name": "risperidone",
+  "search_name": "risperidone"
+ },
+ "interferon beta-1a + albumin": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "dextromethorphan hbr + quinidine": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "patiromer calcium sorbitex": {
+  "rxcui": "2204723",
+  "atc": null,
+  "rxnorm_name": "patiromer calcium sorbitex",
+  "search_name": "patiromer calcium sorbitex"
+ },
+ "dabrafenib mesylate": {
+  "rxcui": "1425222",
+  "atc": null,
+  "rxnorm_name": "dabrafenib mesylate",
+  "search_name": "dabrafenib mesylate"
+ },
+ "buprenorphine hcl": {
+  "rxcui": "203841",
+  "atc": null,
+  "rxnorm_name": "buprenorphine hcl",
+  "search_name": "buprenorphine hcl"
+ },
+ "netarsudil mesylat + latanoprost": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "sarilumab": {
+  "rxcui": "1923319",
+  "atc": "L04AC14",
+  "rxnorm_name": "sarilumab",
+  "search_name": "sarilumab"
+ },
+ "pirfenidone": {
+  "rxcui": "1592254",
+  "atc": "L04AX05",
+  "rxnorm_name": "pirfenidone",
+  "search_name": "pirfenidone"
+ },
+ "somatropin": {
+  "rxcui": "61148",
+  "atc": "H01AC01",
+  "rxnorm_name": "somatropin",
+  "search_name": "somatropin"
+ },
+ "everolimus": {
+  "rxcui": "141704",
+  "atc": "L01EG02",
+  "rxnorm_name": "everolimus",
+  "search_name": "everolimus"
+ },
+ "netarsudil mesylate": {
+  "rxcui": "1992863",
+  "atc": null,
+  "rxnorm_name": "netarsudil mesylate",
+  "search_name": "netarsudil mesylate"
+ },
+ "epoetin alfa": {
+  "rxcui": "105694",
+  "atc": null,
+  "rxnorm_name": "epoetin alfa",
+  "search_name": "epoetin alfa"
+ },
+ "glecaprevir + pibrentasvir": {
+  "rxcui": "1940702",
+  "atc": "J05AP57",
+  "rxnorm_name": "glecaprevir + pibrentasvir",
+  "search_name": "glecaprevir / pibrentasvir"
+ },
+ "trazodone hcl": {
+  "rxcui": "82112",
+  "atc": null,
+  "rxnorm_name": "trazodone hcl",
+  "search_name": "trazodone hcl"
+ },
+ "sodium oxybate": {
+  "rxcui": "9899",
+  "atc": "N01AX11",
+  "rxnorm_name": "sodium oxybate",
+  "search_name": "sodium oxybate"
+ },
+ "mometasone + formoterol": {
+  "rxcui": "1002293",
+  "atc": "R03AK09",
+  "rxnorm_name": "mometasone + formoterol",
+  "search_name": "mometasone / formoterol"
+ },
+ "avapritinib": {
+  "rxcui": "2272107",
+  "atc": "L01EX18",
+  "rxnorm_name": "avapritinib",
+  "search_name": "avapritinib"
+ },
+ "sertraline hcl": {
+  "rxcui": "155137",
+  "atc": null,
+  "rxnorm_name": "sertraline hcl",
+  "search_name": "sertraline hcl"
+ },
+ "cenobamate": {
+  "rxcui": "2265690",
+  "atc": "N03AX25",
+  "rxnorm_name": "cenobamate",
+  "search_name": "cenobamate"
+ },
+ "clopidogrel bisulfate": {
+  "rxcui": "236991",
+  "atc": null,
+  "rxnorm_name": "clopidogrel bisulfate",
+  "search_name": "clopidogrel bisulfate"
+ },
+ "avatrombopag maleate": {
+  "rxcui": "2045727",
+  "atc": null,
+  "rxnorm_name": "avatrombopag maleate",
+  "search_name": "avatrombopag maleate"
+ },
+ "ponatinib hcl": {
+  "rxcui": "1364953",
+  "atc": null,
+  "rxnorm_name": "ponatinib hcl",
+  "search_name": "ponatinib hcl"
+ },
+ "immun glob g(igg)-ifas + glycine": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "mirtazapine": {
+  "rxcui": "15996",
+  "atc": "N06AX11",
+  "rxnorm_name": "mirtazapine",
+  "search_name": "mirtazapine"
+ },
+ "venlafaxine hcl": {
+  "rxcui": "235988",
+  "atc": null,
+  "rxnorm_name": "venlafaxine hcl",
+  "search_name": "venlafaxine hcl"
+ },
+ "escitalopram oxalate": {
+  "rxcui": "353108",
+  "atc": null,
+  "rxnorm_name": "escitalopram oxalate",
+  "search_name": "escitalopram oxalate"
+ },
+ "prednisolone acetate": {
+  "rxcui": "34372",
+  "atc": null,
+  "rxnorm_name": "prednisolone acetate",
+  "search_name": "prednisolone acetate"
+ },
+ "vedolizumab": {
+  "rxcui": "1538097",
+  "atc": "L04AG05",
+  "rxnorm_name": "vedolizumab",
+  "search_name": "vedolizumab"
+ },
+ "risdiplam": {
+  "rxcui": "2390935",
+  "atc": "M09AX10",
+  "rxnorm_name": "risdiplam",
+  "search_name": "risdiplam"
+ },
+ "fidaxomicin": {
+  "rxcui": "1111103",
+  "atc": "A07AA12",
+  "rxnorm_name": "fidaxomicin",
+  "search_name": "fidaxomicin"
+ },
+ "naloxegol oxalate": {
+  "rxcui": "1593586",
+  "atc": null,
+  "rxnorm_name": "naloxegol oxalate",
+  "search_name": "naloxegol oxalate"
+ },
+ "risperidone microspheres": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "sotorasib": {
+  "rxcui": "2550714",
+  "atc": "L01XX73",
+  "rxnorm_name": "sotorasib",
+  "search_name": "sotorasib"
+ },
+ "insulin detemir": {
+  "rxcui": "139825",
+  "atc": "A10AE05",
+  "rxnorm_name": "insulin detemir",
+  "search_name": "insulin detemir"
+ },
+ "teprotumumab-trbw": {
+  "rxcui": "2274802",
+  "atc": null,
+  "rxnorm_name": "teprotumumab-trbw",
+  "search_name": "teprotumumab-trbw"
+ },
+ "c1 esterase inhibitor": {
+  "rxcui": "1599832",
+  "atc": null,
+  "rxnorm_name": "c1 esterase inhibitor",
+  "search_name": "c1 esterase inhibitor"
+ },
+ "suvorexant": {
+  "rxcui": "1547099",
+  "atc": "N05CJ01",
+  "rxnorm_name": "suvorexant",
+  "search_name": "suvorexant"
+ },
+ "valsartan": {
+  "rxcui": "69749",
+  "atc": "C09CA03",
+  "rxnorm_name": "valsartan",
+  "search_name": "valsartan"
+ },
+ "furosemide": {
+  "rxcui": "4603",
+  "atc": "C03CA01",
+  "rxnorm_name": "furosemide",
+  "search_name": "furosemide"
+ },
+ "eslicarbazepine acetate": {
+  "rxcui": "1482501",
+  "atc": null,
+  "rxnorm_name": "eslicarbazepine acetate",
+  "search_name": "eslicarbazepine acetate"
+ },
+ "montelukast sodium": {
+  "rxcui": "115713",
+  "atc": null,
+  "rxnorm_name": "montelukast sodium",
+  "search_name": "montelukast sodium"
+ },
+ "vutrisiran sodium": {
+  "rxcui": "2605574",
+  "atc": null,
+  "rxnorm_name": "vutrisiran sodium",
+  "search_name": "vutrisiran sodium"
+ },
+ "tolvaptan": {
+  "rxcui": "358257",
+  "atc": "C03XA01",
+  "rxnorm_name": "tolvaptan",
+  "search_name": "tolvaptan"
+ },
+ "empagliflozin + linagliptin": {
+  "rxcui": "1598392",
+  "atc": "A10BD19",
+  "rxnorm_name": "empagliflozin + linagliptin",
+  "search_name": "empagliflozin / linagliptin"
+ },
+ "pembrolizumab": {
+  "rxcui": "1547545",
+  "atc": "L01FF02",
+  "rxnorm_name": "pembrolizumab",
+  "search_name": "pembrolizumab"
+ },
+ "tucatinib": {
+  "rxcui": "2361285",
+  "atc": "L01EH03",
+  "rxnorm_name": "tucatinib",
+  "search_name": "tucatinib"
+ },
+ "encorafenib": {
+  "rxcui": "2049106",
+  "atc": "L01EC03",
+  "rxnorm_name": "encorafenib",
+  "search_name": "encorafenib"
+ },
+ "fruquintinib": {
+  "rxcui": "2670179",
+  "atc": "L01EK04",
+  "rxnorm_name": "fruquintinib",
+  "search_name": "fruquintinib"
+ },
+ "raltegravir potassium": {
+  "rxcui": "1235585",
+  "atc": null,
+  "rxnorm_name": "raltegravir potassium",
+  "search_name": "raltegravir potassium"
+ },
+ "carvedilol": {
+  "rxcui": "20352",
+  "atc": "C07AG02",
+  "rxnorm_name": "carvedilol",
+  "search_name": "carvedilol"
+ },
+ "latanoprost": {
+  "rxcui": "43611",
+  "atc": "S01EE01",
+  "rxnorm_name": "latanoprost",
+  "search_name": "latanoprost"
+ },
+ "methylnaltrexone bromide": {
+  "rxcui": "979111",
+  "atc": "A06AH01",
+  "rxnorm_name": "methylnaltrexone bromide",
+  "search_name": "methylnaltrexone bromide"
+ },
+ "lisdexamfetamine dimesylate": {
+  "rxcui": "673579",
+  "atc": null,
+  "rxnorm_name": "lisdexamfetamine dimesylate",
+  "search_name": "lisdexamfetamine dimesylate"
+ },
+ "omeprazole + sodium bicarbonate": {
+  "rxcui": "617777",
+  "atc": null,
+  "rxnorm_name": "omeprazole + sodium bicarbonate",
+  "search_name": "omeprazole / sodium bicarbonate"
+ },
+ "pitolisant hcl": {
+  "rxcui": "2197879",
+  "atc": null,
+  "rxnorm_name": "pitolisant hcl",
+  "search_name": "pitolisant hcl"
+ },
+ "ferric citrate": {
+  "rxcui": "1594675",
+  "atc": "V03AE08",
+  "rxnorm_name": "ferric citrate",
+  "search_name": "ferric citrate"
+ },
+ "topiramate": {
+  "rxcui": "38404",
+  "atc": "N03AX11",
+  "rxnorm_name": "topiramate",
+  "search_name": "topiramate"
+ },
+ "sucralfate": {
+  "rxcui": "10156",
+  "atc": "A02BX02",
+  "rxnorm_name": "sucralfate",
+  "search_name": "sucralfate"
+ },
+ "olanzapine + samidorphan malate": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "latanoprostene bunod": {
+  "rxcui": "1988390",
+  "atc": "S01EE06",
+  "rxnorm_name": "latanoprostene bunod",
+  "search_name": "latanoprostene bunod"
+ },
+ "esketamine hcl": {
+  "rxcui": "2119366",
+  "atc": null,
+  "rxnorm_name": "esketamine hcl",
+  "search_name": "esketamine hcl"
+ },
+ "carbamazepine": {
+  "rxcui": "2002",
+  "atc": "N03AF01",
+  "rxnorm_name": "carbamazepine",
+  "search_name": "carbamazepine"
+ },
+ "pitavastatin calcium": {
+  "rxcui": "861640",
+  "atc": null,
+  "rxnorm_name": "pitavastatin calcium",
+  "search_name": "pitavastatin calcium"
+ },
+ "efgartigimod-hyaluronidas-qvfc": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "simvastatin": {
+  "rxcui": "36567",
+  "atc": "C10AA01",
+  "rxnorm_name": "simvastatin",
+  "search_name": "simvastatin"
+ },
+ "clobetasol propionate": {
+  "rxcui": "21245",
+  "atc": null,
+  "rxnorm_name": "clobetasol propionate",
+  "search_name": "clobetasol propionate"
+ },
+ "pravastatin sodium": {
+  "rxcui": "203144",
+  "atc": null,
+  "rxnorm_name": "pravastatin sodium",
+  "search_name": "pravastatin sodium"
+ },
+ "olanzapine": {
+  "rxcui": "61381",
+  "atc": "N05AH03",
+  "rxnorm_name": "olanzapine",
+  "search_name": "olanzapine"
+ },
+ "amantadine hcl": {
+  "rxcui": "282415",
+  "atc": null,
+  "rxnorm_name": "amantadine hcl",
+  "search_name": "amantadine hcl"
+ },
+ "plecanatide": {
+  "rxcui": "1873752",
+  "atc": "A06AX07",
+  "rxnorm_name": "plecanatide",
+  "search_name": "plecanatide"
+ },
+ "insulin nph hum + reg insulin hm": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "isavuconazonium sulfate": {
+  "rxcui": "1608321",
+  "atc": null,
+  "rxnorm_name": "isavuconazonium sulfate",
+  "search_name": "isavuconazonium sulfate"
+ },
+ "infliximab": {
+  "rxcui": "191831",
+  "atc": "L04AB02",
+  "rxnorm_name": "infliximab",
+  "search_name": "infliximab"
+ },
+ "capmatinib hydrochloride": {
+  "rxcui": "2362259",
+  "atc": null,
+  "rxnorm_name": "capmatinib hydrochloride",
+  "search_name": "capmatinib hydrochloride"
+ },
+ "onabotulinumtoxina": {
+  "rxcui": "860189",
+  "atc": null,
+  "rxnorm_name": "onabotulinumtoxina",
+  "search_name": "onabotulinumtoxina"
+ },
+ "diclofenac epolamine": {
+  "rxcui": "40968",
+  "atc": null,
+  "rxnorm_name": "diclofenac epolamine",
+  "search_name": "diclofenac epolamine"
+ },
+ "daptomycin": {
+  "rxcui": "22299",
+  "atc": "J01XX09",
+  "rxnorm_name": "daptomycin",
+  "search_name": "daptomycin"
+ },
+ "molnupiravir": {
+  "rxcui": "2587901",
+  "atc": "J05AB18",
+  "rxnorm_name": "molnupiravir",
+  "search_name": "molnupiravir"
+ },
+ "letermovir": {
+  "rxcui": "1988648",
+  "atc": "J05AX18",
+  "rxnorm_name": "letermovir",
+  "search_name": "letermovir"
+ },
+ "epinephrine": {
+  "rxcui": "3992",
+  "atc": "A01AD01",
+  "rxnorm_name": "epinephrine",
+  "search_name": "epinephrine"
+ },
+ "tivozanib hcl": {
+  "rxcui": "2534245",
+  "atc": null,
+  "rxnorm_name": "tivozanib hcl",
+  "search_name": "tivozanib hcl"
+ },
+ "efinaconazole": {
+  "rxcui": "1539753",
+  "atc": "D01AC19",
+  "rxnorm_name": "efinaconazole",
+  "search_name": "efinaconazole"
+ },
+ "alpelisib": {
+  "rxcui": "2169285",
+  "atc": "L01EM03",
+  "rxnorm_name": "alpelisib",
+  "search_name": "alpelisib"
+ },
+ "oxcarbazepine": {
+  "rxcui": "32624",
+  "atc": "N03AF02",
+  "rxnorm_name": "oxcarbazepine",
+  "search_name": "oxcarbazepine"
+ },
+ "perfluorohexyloctane + pf": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "lorlatinib": {
+  "rxcui": "2103164",
+  "atc": "L01ED05",
+  "rxnorm_name": "lorlatinib",
+  "search_name": "lorlatinib"
+ },
+ "vismodegib": {
+  "rxcui": "1242987",
+  "atc": "L01XJ01",
+  "rxnorm_name": "vismodegib",
+  "search_name": "vismodegib"
+ },
+ "fostemsavir tromethamine": {
+  "rxcui": "2380374",
+  "atc": null,
+  "rxnorm_name": "fostemsavir tromethamine",
+  "search_name": "fostemsavir tromethamine"
+ },
+ "propranolol hcl": {
+  "rxcui": "82084",
+  "atc": null,
+  "rxnorm_name": "propranolol hcl",
+  "search_name": "propranolol hcl"
+ },
+ "lotilaner": {
+  "rxcui": "1998841",
+  "atc": "S01AX25",
+  "rxnorm_name": "lotilaner",
+  "search_name": "lotilaner"
+ },
+ "linagliptin + metformin hcl": {
+  "rxcui": "1243019",
+  "atc": "A10BD11",
+  "rxnorm_name": "linagliptin + metformin hcl",
+  "search_name": "linagliptin / metformin hcl"
+ },
+ "dextroamphetamine + amphetamine": {
+  "rxcui": "253146",
+  "atc": null,
+  "rxnorm_name": "dextroamphetamine + amphetamine",
+  "search_name": "dextroamphetamine / amphetamine"
+ },
+ "ranolazine": {
+  "rxcui": "35829",
+  "atc": "C01EB18",
+  "rxnorm_name": "ranolazine",
+  "search_name": "ranolazine"
+ },
+ "glucagon": {
+  "rxcui": "4832",
+  "atc": "H04AA01",
+  "rxnorm_name": "glucagon",
+  "search_name": "glucagon"
+ },
+ "buspirone hcl": {
+  "rxcui": "203116",
+  "atc": null,
+  "rxnorm_name": "buspirone hcl",
+  "search_name": "buspirone hcl"
+ },
+ "oxybutynin chloride": {
+  "rxcui": "54251",
+  "atc": null,
+  "rxnorm_name": "oxybutynin chloride",
+  "search_name": "oxybutynin chloride"
+ },
+ "pacritinib citrate": {
+  "rxcui": "2595242",
+  "atc": null,
+  "rxnorm_name": "pacritinib citrate",
+  "search_name": "pacritinib citrate"
+ },
+ "valacyclovir hcl": {
+  "rxcui": "236081",
+  "atc": null,
+  "rxnorm_name": "valacyclovir hcl",
+  "search_name": "valacyclovir hcl"
+ },
+ "tadalafil": {
+  "rxcui": "358263",
+  "atc": "G04BE08",
+  "rxnorm_name": "tadalafil",
+  "search_name": "tadalafil"
+ },
+ "fingolimod hcl": {
+  "rxcui": "1012891",
+  "atc": null,
+  "rxnorm_name": "fingolimod hcl",
+  "search_name": "fingolimod hcl"
+ },
+ "sacrosidase": {
+  "rxcui": "214817",
+  "atc": "A16AB06",
+  "rxnorm_name": "sacrosidase",
+  "search_name": "sacrosidase"
+ },
+ "clozapine": {
+  "rxcui": "2626",
+  "atc": "N05AH02",
+  "rxnorm_name": "clozapine",
+  "search_name": "clozapine"
+ },
+ "tacrolimus": {
+  "rxcui": "42316",
+  "atc": "D11AH01",
+  "rxnorm_name": "tacrolimus",
+  "search_name": "tacrolimus"
+ },
+ "metoprolol tartrate": {
+  "rxcui": "203191",
+  "atc": null,
+  "rxnorm_name": "metoprolol tartrate",
+  "search_name": "metoprolol tartrate"
+ },
+ "omadacycline tosylate": {
+  "rxcui": "2059268",
+  "atc": null,
+  "rxnorm_name": "omadacycline tosylate",
+  "search_name": "omadacycline tosylate"
+ },
+ "tapentadol hcl": {
+  "rxcui": "857492",
+  "atc": null,
+  "rxnorm_name": "tapentadol hcl",
+  "search_name": "tapentadol hcl"
+ },
+ "gilteritinib fumarate": {
+  "rxcui": "2105823",
+  "atc": null,
+  "rxnorm_name": "gilteritinib fumarate",
+  "search_name": "gilteritinib fumarate"
+ },
+ "midodrine hcl": {
+  "rxcui": "993491",
+  "atc": null,
+  "rxnorm_name": "midodrine hcl",
+  "search_name": "midodrine hcl"
+ },
+ "daratumumab-hyaluronidase-fihj": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "hydroxychloroquine sulfate": {
+  "rxcui": "153972",
+  "atc": null,
+  "rxnorm_name": "hydroxychloroquine sulfate",
+  "search_name": "hydroxychloroquine sulfate"
+ },
+ "tramadol hcl": {
+  "rxcui": "82110",
+  "atc": null,
+  "rxnorm_name": "tramadol hcl",
+  "search_name": "tramadol hcl"
+ },
+ "donepezil hcl": {
+  "rxcui": "236559",
+  "atc": null,
+  "rxnorm_name": "donepezil hcl",
+  "search_name": "donepezil hcl"
+ },
+ "empaglifloz + linaglip + metformin": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "insulin glargine-yfgn": {
+  "rxcui": "2563969",
+  "atc": null,
+  "rxnorm_name": "insulin glargine-yfgn",
+  "search_name": "insulin glargine-yfgn"
+ },
+ "testosterone": {
+  "rxcui": "10379",
+  "atc": "G03BA03",
+  "rxnorm_name": "testosterone",
+  "search_name": "testosterone"
+ },
+ "nifedipine": {
+  "rxcui": "7417",
+  "atc": "C08CA05",
+  "rxnorm_name": "nifedipine",
+  "search_name": "nifedipine"
+ },
+ "fremanezumab-vfrm": {
+  "rxcui": "2056690",
+  "atc": null,
+  "rxnorm_name": "fremanezumab-vfrm",
+  "search_name": "fremanezumab-vfrm"
+ },
+ "omaveloxolone": {
+  "rxcui": "2631931",
+  "atc": "N07XX25",
+  "rxnorm_name": "omaveloxolone",
+  "search_name": "omaveloxolone"
+ },
+ "fluoxetine hcl": {
+  "rxcui": "227224",
+  "atc": null,
+  "rxnorm_name": "fluoxetine hcl",
+  "search_name": "fluoxetine hcl"
+ },
+ "nebivolol hcl": {
+  "rxcui": "236883",
+  "atc": null,
+  "rxnorm_name": "nebivolol hcl",
+  "search_name": "nebivolol hcl"
+ },
+ "selinexor": {
+  "rxcui": "2178390",
+  "atc": "L01XX66",
+  "rxnorm_name": "selinexor",
+  "search_name": "selinexor"
+ },
+ "tasimelteon": {
+  "rxcui": "1490468",
+  "atc": "N05CH03",
+  "rxnorm_name": "tasimelteon",
+  "search_name": "tasimelteon"
+ },
+ "regorafenib": {
+  "rxcui": "1312397",
+  "atc": "L01EX05",
+  "rxnorm_name": "regorafenib",
+  "search_name": "regorafenib"
+ },
+ "finasteride": {
+  "rxcui": "25025",
+  "atc": "D11AX10",
+  "rxnorm_name": "finasteride",
+  "search_name": "finasteride"
+ },
+ "diphth,pertuss(acell),tet vac": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "pegfilgrastim": {
+  "rxcui": "338036",
+  "atc": "L03AA13",
+  "rxnorm_name": "pegfilgrastim",
+  "search_name": "pegfilgrastim"
+ },
+ "binimetinib": {
+  "rxcui": "2049122",
+  "atc": "L01EE03",
+  "rxnorm_name": "binimetinib",
+  "search_name": "binimetinib"
+ },
+ "allopurinol": {
+  "rxcui": "519",
+  "atc": "M04AA01",
+  "rxnorm_name": "allopurinol",
+  "search_name": "allopurinol"
+ },
+ "decitabine + cedazuridine": {
+  "rxcui": "2384456",
+  "atc": null,
+  "rxnorm_name": "decitabine + cedazuridine",
+  "search_name": "decitabine / cedazuridine"
+ },
+ "romosozumab-aqqg": {
+  "rxcui": "2123180",
+  "atc": null,
+  "rxnorm_name": "romosozumab-aqqg",
+  "search_name": "romosozumab-aqqg"
+ },
+ "insulin degludec + liraglutide": {
+  "rxcui": "1727493",
+  "atc": "A10AE56",
+  "rxnorm_name": "insulin degludec + liraglutide",
+  "search_name": "insulin degludec / liraglutide"
+ },
+ "interferon beta-1b": {
+  "rxcui": "72257",
+  "atc": "L03AB08",
+  "rxnorm_name": "interferon beta-1b",
+  "search_name": "interferon beta-1b"
+ },
+ "fentanyl": {
+  "rxcui": "4337",
+  "atc": "N01AH01",
+  "rxnorm_name": "fentanyl",
+  "search_name": "fentanyl"
+ },
+ "glipizide": {
+  "rxcui": "4821",
+  "atc": "A10BB07",
+  "rxnorm_name": "glipizide",
+  "search_name": "glipizide"
+ },
+ "nirmatrelvir + ritonavir": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "ozanimod hydrochloride": {
+  "rxcui": "2288235",
+  "atc": null,
+  "rxnorm_name": "ozanimod hydrochloride",
+  "search_name": "ozanimod hydrochloride"
+ },
+ "colchicine": {
+  "rxcui": "2683",
+  "atc": "M04AC01",
+  "rxnorm_name": "colchicine",
+  "search_name": "colchicine"
+ },
+ "insulin nph human isophane": {
+  "rxcui": "253181",
+  "atc": null,
+  "rxnorm_name": "insulin nph human isophane",
+  "search_name": "insulin nph human isophane"
+ },
+ "rotigotine": {
+  "rxcui": "616739",
+  "atc": "N04BC09",
+  "rxnorm_name": "rotigotine",
+  "search_name": "rotigotine"
+ },
+ "insulin lispro-aabc": {
+  "rxcui": "2376838",
+  "atc": null,
+  "rxnorm_name": "insulin lispro-aabc",
+  "search_name": "insulin lispro-aabc"
+ },
+ "memantine hcl + donepezil hcl": {
+  "rxcui": "1430990",
+  "atc": "N06DA52",
+  "rxnorm_name": "memantine hcl + donepezil hcl",
+  "search_name": "memantine hcl / donepezil hcl"
+ },
+ "diclofenac potassium": {
+  "rxcui": "81997",
+  "atc": null,
+  "rxnorm_name": "diclofenac potassium",
+  "search_name": "diclofenac potassium"
+ },
+ "insulin lispro protamin + lispro": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "baclofen": {
+  "rxcui": "1292",
+  "atc": "M03BX01",
+  "rxnorm_name": "baclofen",
+  "search_name": "baclofen"
+ },
+ "azacitidine": {
+  "rxcui": "1251",
+  "atc": "L01BC07",
+  "rxnorm_name": "azacitidine",
+  "search_name": "azacitidine"
+ },
+ "dalfampridine": {
+  "rxcui": "897018",
+  "atc": "N07XX07",
+  "rxnorm_name": "dalfampridine",
+  "search_name": "dalfampridine"
+ },
+ "iloperidone": {
+  "rxcui": "73178",
+  "atc": "N05AX14",
+  "rxnorm_name": "iloperidone",
+  "search_name": "iloperidone"
+ },
+ "insulin aspart prot + insuln asp": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "azelastine hcl": {
+  "rxcui": "235824",
+  "atc": null,
+  "rxnorm_name": "azelastine hcl",
+  "search_name": "azelastine hcl"
+ },
+ "bimekizumab-bkzx": {
+  "rxcui": "2668080",
+  "atc": null,
+  "rxnorm_name": "bimekizumab-bkzx",
+  "search_name": "bimekizumab-bkzx"
+ },
+ "cinacalcet hcl": {
+  "rxcui": "384379",
+  "atc": null,
+  "rxnorm_name": "cinacalcet hcl",
+  "search_name": "cinacalcet hcl"
+ },
+ "selpercatinib": {
+  "rxcui": "2370147",
+  "atc": "L01EX22",
+  "rxnorm_name": "selpercatinib",
+  "search_name": "selpercatinib"
+ },
+ "verapamil hcl": {
+  "rxcui": "203138",
+  "atc": null,
+  "rxnorm_name": "verapamil hcl",
+  "search_name": "verapamil hcl"
+ },
+ "travoprost": {
+  "rxcui": "283809",
+  "atc": "S01EE04",
+  "rxnorm_name": "travoprost",
+  "search_name": "travoprost"
+ },
+ "olmesartan medoxomil": {
+  "rxcui": "118463",
+  "atc": "C09CA08",
+  "rxnorm_name": "olmesartan medoxomil",
+  "search_name": "olmesartan medoxomil"
+ },
+ "ketoconazole": {
+  "rxcui": "6135",
+  "atc": "D01AC08",
+  "rxnorm_name": "ketoconazole",
+  "search_name": "ketoconazole"
+ },
+ "aflibercept": {
+  "rxcui": "1232150",
+  "atc": "L01XX44",
+  "rxnorm_name": "aflibercept",
+  "search_name": "aflibercept"
+ },
+ "prednisone": {
+  "rxcui": "8640",
+  "atc": "A07EA03",
+  "rxnorm_name": "prednisone",
+  "search_name": "prednisone"
+ },
+ "hydralazine hcl": {
+  "rxcui": "82027",
+  "atc": null,
+  "rxnorm_name": "hydralazine hcl",
+  "search_name": "hydralazine hcl"
+ },
+ "doxycycline hyclate": {
+  "rxcui": "23663",
+  "atc": null,
+  "rxnorm_name": "doxycycline hyclate",
+  "search_name": "doxycycline hyclate"
+ },
+ "spironolactone": {
+  "rxcui": "9997",
+  "atc": "C03DA01",
+  "rxnorm_name": "spironolactone",
+  "search_name": "spironolactone"
+ },
+ "paliperidone": {
+  "rxcui": "679314",
+  "atc": "N05AX13",
+  "rxnorm_name": "paliperidone",
+  "search_name": "paliperidone"
+ },
+ "losartan + hydrochlorothiazide": {
+  "rxcui": "214619",
+  "atc": null,
+  "rxnorm_name": "losartan + hydrochlorothiazide",
+  "search_name": "losartan / hydrochlorothiazide"
+ },
+ "ropeginterferon alfa-2b-njft": {
+  "rxcui": "2587060",
+  "atc": null,
+  "rxnorm_name": "ropeginterferon alfa-2b-njft",
+  "search_name": "ropeginterferon alfa-2b-njft"
+ },
+ "hydrochlorothiazide": {
+  "rxcui": "5487",
+  "atc": "C03AA03",
+  "rxnorm_name": "hydrochlorothiazide",
+  "search_name": "hydrochlorothiazide"
+ },
+ "enoxaparin sodium": {
+  "rxcui": "221095",
+  "atc": null,
+  "rxnorm_name": "enoxaparin sodium",
+  "search_name": "enoxaparin sodium"
+ },
+ "brinzolamide + brimonidine tart": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "doravirine": {
+  "rxcui": "2055755",
+  "atc": "J05AG06",
+  "rxnorm_name": "doravirine",
+  "search_name": "doravirine"
+ },
+ "rivastigmine": {
+  "rxcui": "183379",
+  "atc": "N06DA03",
+  "rxnorm_name": "rivastigmine",
+  "search_name": "rivastigmine"
+ },
+ "loteprednol etabonate": {
+  "rxcui": "52177",
+  "atc": null,
+  "rxnorm_name": "loteprednol etabonate",
+  "search_name": "loteprednol etabonate"
+ },
+ "ripretinib": {
+  "rxcui": "2369389",
+  "atc": "L01EX19",
+  "rxnorm_name": "ripretinib",
+  "search_name": "ripretinib"
+ },
+ "glycerol phenylbutyrate": {
+  "rxcui": "1368451",
+  "atc": "A16AX09",
+  "rxnorm_name": "glycerol phenylbutyrate",
+  "search_name": "glycerol phenylbutyrate"
+ },
+ "bumetanide": {
+  "rxcui": "1808",
+  "atc": "C03CA02",
+  "rxnorm_name": "bumetanide",
+  "search_name": "bumetanide"
+ },
+ "ursodiol": {
+  "rxcui": "11065",
+  "atc": "A05AA02",
+  "rxnorm_name": "ursodiol",
+  "search_name": "ursodiol"
+ },
+ "icatibant acetate": {
+  "rxcui": "1294605",
+  "atc": null,
+  "rxnorm_name": "icatibant acetate",
+  "search_name": "icatibant acetate"
+ },
+ "berotralstat hydrochloride": {
+  "rxcui": "2467541",
+  "atc": null,
+  "rxnorm_name": "berotralstat hydrochloride",
+  "search_name": "berotralstat hydrochloride"
+ },
+ "lorazepam": {
+  "rxcui": "6470",
+  "atc": "N05BA06",
+  "rxnorm_name": "lorazepam",
+  "search_name": "lorazepam"
+ },
+ "zolpidem tartrate": {
+  "rxcui": "221183",
+  "atc": null,
+  "rxnorm_name": "zolpidem tartrate",
+  "search_name": "zolpidem tartrate"
+ },
+ "amiodarone hcl": {
+  "rxcui": "203114",
+  "atc": null,
+  "rxnorm_name": "amiodarone hcl",
+  "search_name": "amiodarone hcl"
+ },
+ "dextromethorphan hbr + bupropion": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "alendronate sodium": {
+  "rxcui": "203152",
+  "atc": null,
+  "rxnorm_name": "alendronate sodium",
+  "search_name": "alendronate sodium"
+ },
+ "beclomethasone dipropionate": {
+  "rxcui": "1348",
+  "atc": null,
+  "rxnorm_name": "beclomethasone dipropionate",
+  "search_name": "beclomethasone dipropionate"
+ },
+ "voxelotor": {
+  "rxcui": "2265678",
+  "atc": "B06AX03",
+  "rxnorm_name": "voxelotor",
+  "search_name": "voxelotor"
+ },
+ "alprazolam": {
+  "rxcui": "596",
+  "atc": "N05BA12",
+  "rxnorm_name": "alprazolam",
+  "search_name": "alprazolam"
+ },
+ "tizanidine hcl": {
+  "rxcui": "236460",
+  "atc": null,
+  "rxnorm_name": "tizanidine hcl",
+  "search_name": "tizanidine hcl"
+ },
+ "nystatin": {
+  "rxcui": "7597",
+  "atc": "A07AA02",
+  "rxnorm_name": "nystatin",
+  "search_name": "nystatin"
+ },
+ "avacopan": {
+  "rxcui": "2572100",
+  "atc": "L04AJ05",
+  "rxnorm_name": "avacopan",
+  "search_name": "avacopan"
+ },
+ "morphine sulfate": {
+  "rxcui": "30236",
+  "atc": null,
+  "rxnorm_name": "morphine sulfate",
+  "search_name": "morphine sulfate"
+ },
+ "amoxicillin + potassium clav": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "perampanel": {
+  "rxcui": "1356552",
+  "atc": "N03AX22",
+  "rxnorm_name": "perampanel",
+  "search_name": "perampanel"
+ },
+ "siponimod": {
+  "rxcui": "2121085",
+  "atc": "L04AE03",
+  "rxnorm_name": "siponimod",
+  "search_name": "siponimod"
+ },
+ "naltrexone microspheres": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "lactulose": {
+  "rxcui": "6218",
+  "atc": "A06AD11",
+  "rxnorm_name": "lactulose",
+  "search_name": "lactulose"
+ },
+ "clonazepam": {
+  "rxcui": "2598",
+  "atc": "N03AE01",
+  "rxnorm_name": "clonazepam",
+  "search_name": "clonazepam"
+ },
+ "hydroxyzine hcl": {
+  "rxcui": "154987",
+  "atc": null,
+  "rxnorm_name": "hydroxyzine hcl",
+  "search_name": "hydroxyzine hcl"
+ },
+ "ondansetron": {
+  "rxcui": "26225",
+  "atc": "A04AA01",
+  "rxnorm_name": "ondansetron",
+  "search_name": "ondansetron"
+ },
+ "ertapenem sodium": {
+  "rxcui": "353107",
+  "atc": null,
+  "rxnorm_name": "ertapenem sodium",
+  "search_name": "ertapenem sodium"
+ },
+ "omega-3 acid ethyl esters": {
+  "rxcui": "484348",
+  "atc": null,
+  "rxnorm_name": "omega-3 acid ethyl esters",
+  "search_name": "omega-3 acid ethyl esters"
+ },
+ "tolterodine tartrate": {
+  "rxcui": "221174",
+  "atc": null,
+  "rxnorm_name": "tolterodine tartrate",
+  "search_name": "tolterodine tartrate"
+ },
+ "solifenacin succinate": {
+  "rxcui": "476588",
+  "atc": null,
+  "rxnorm_name": "solifenacin succinate",
+  "search_name": "solifenacin succinate"
+ },
+ "bempedoic acid": {
+  "rxcui": "2282403",
+  "atc": "C10AX15",
+  "rxnorm_name": "bempedoic acid",
+  "search_name": "bempedoic acid"
+ },
+ "bempedoic acid + ezetimibe": {
+  "rxcui": "2283229",
+  "atc": "C10BA10",
+  "rxnorm_name": "bempedoic acid + ezetimibe",
+  "search_name": "bempedoic acid / ezetimibe"
+ },
+ "prucalopride succinate": {
+  "rxcui": "2107309",
+  "atc": null,
+  "rxnorm_name": "prucalopride succinate",
+  "search_name": "prucalopride succinate"
+ },
+ "adagrasib": {
+  "rxcui": "2625882",
+  "atc": "L01XX77",
+  "rxnorm_name": "adagrasib",
+  "search_name": "adagrasib"
+ },
+ "apomorphine hcl": {
+  "rxcui": "71225",
+  "atc": null,
+  "rxnorm_name": "apomorphine hcl",
+  "search_name": "apomorphine hcl"
+ },
+ "triamcinolone acetonide": {
+  "rxcui": "10761",
+  "atc": null,
+  "rxnorm_name": "triamcinolone acetonide",
+  "search_name": "triamcinolone acetonide"
+ },
+ "droxidopa": {
+  "rxcui": "1489913",
+  "atc": "C01CA27",
+  "rxnorm_name": "droxidopa",
+  "search_name": "droxidopa"
+ },
+ "bromfenac sodium": {
+  "rxcui": "47364",
+  "atc": null,
+  "rxnorm_name": "bromfenac sodium",
+  "search_name": "bromfenac sodium"
+ },
+ "resmetirom": {
+  "rxcui": "2677894",
+  "atc": "A05BA11",
+  "rxnorm_name": "resmetirom",
+  "search_name": "resmetirom"
+ },
+ "ondansetron hcl": {
+  "rxcui": "203148",
+  "atc": null,
+  "rxnorm_name": "ondansetron hcl",
+  "search_name": "ondansetron hcl"
+ },
+ "dofetilide": {
+  "rxcui": "49247",
+  "atc": "C01BD04",
+  "rxnorm_name": "dofetilide",
+  "search_name": "dofetilide"
+ },
+ "darunavir": {
+  "rxcui": "460132",
+  "atc": "J05AE10",
+  "rxnorm_name": "darunavir",
+  "search_name": "darunavir"
+ },
+ "mycophenolate mofetil": {
+  "rxcui": "68149",
+  "atc": null,
+  "rxnorm_name": "mycophenolate mofetil",
+  "search_name": "mycophenolate mofetil"
+ },
+ "desvenlafaxine succinate": {
+  "rxcui": "683693",
+  "atc": null,
+  "rxnorm_name": "desvenlafaxine succinate",
+  "search_name": "desvenlafaxine succinate"
+ },
+ "glycopyrrolate + formoterol fum": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "lanreotide acetate": {
+  "rxcui": "236167",
+  "atc": null,
+  "rxnorm_name": "lanreotide acetate",
+  "search_name": "lanreotide acetate"
+ },
+ "abatacept + maltose": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "ropinirole hcl": {
+  "rxcui": "236553",
+  "atc": null,
+  "rxnorm_name": "ropinirole hcl",
+  "search_name": "ropinirole hcl"
+ },
+ "osilodrostat phosphate": {
+  "rxcui": "2286253",
+  "atc": null,
+  "rxnorm_name": "osilodrostat phosphate",
+  "search_name": "osilodrostat phosphate"
+ },
+ "doxepin hcl": {
+  "rxcui": "203179",
+  "atc": null,
+  "rxnorm_name": "doxepin hcl",
+  "search_name": "doxepin hcl"
+ },
+ "insulin pump cart,cont inf,bt": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "cyclobenzaprine hcl": {
+  "rxcui": "52101",
+  "atc": null,
+  "rxnorm_name": "cyclobenzaprine hcl",
+  "search_name": "cyclobenzaprine hcl"
+ },
+ "pazopanib hcl": {
+  "rxcui": "732187",
+  "atc": null,
+  "rxnorm_name": "pazopanib hcl",
+  "search_name": "pazopanib hcl"
+ },
+ "darbepoetin alfa in polysorbat": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "isosorbide mononitrate": {
+  "rxcui": "28004",
+  "atc": "C01DA14",
+  "rxnorm_name": "isosorbide mononitrate",
+  "search_name": "isosorbide mononitrate"
+ },
+ "nitrofurantoin monohyd + m-cryst": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "roflumilast": {
+  "rxcui": "1091836",
+  "atc": "D05AX06",
+  "rxnorm_name": "roflumilast",
+  "search_name": "roflumilast"
+ },
+ "methenamine hippurate": {
+  "rxcui": "29652",
+  "atc": null,
+  "rxnorm_name": "methenamine hippurate",
+  "search_name": "methenamine hippurate"
+ },
+ "afatinib dimaleate": {
+  "rxcui": "1430441",
+  "atc": null,
+  "rxnorm_name": "afatinib dimaleate",
+  "search_name": "afatinib dimaleate"
+ },
+ "deucravacitinib": {
+  "rxcui": "2612087",
+  "atc": "L04AF07",
+  "rxnorm_name": "deucravacitinib",
+  "search_name": "deucravacitinib"
+ },
+ "valsartan + hydrochlorothiazide": {
+  "rxcui": "214626",
+  "atc": null,
+  "rxnorm_name": "valsartan + hydrochlorothiazide",
+  "search_name": "valsartan / hydrochlorothiazide"
+ },
+ "adalimumab-adbm": {
+  "rxcui": "2103477",
+  "atc": null,
+  "rxnorm_name": "adalimumab-adbm",
+  "search_name": "adalimumab-adbm"
+ },
+ "clonidine": {
+  "rxcui": "2599",
+  "atc": "C02AC01",
+  "rxnorm_name": "clonidine",
+  "search_name": "clonidine"
+ },
+ "sodium, potassium,mag sulfates": {
+  "rxcui": "1007809",
+  "atc": null,
+  "rxnorm_name": "sodium, potassium,mag sulfates",
+  "search_name": "sodium, potassium,mag sulfates"
+ },
+ "metronidazole": {
+  "rxcui": "6922",
+  "atc": "A01AB17",
+  "rxnorm_name": "metronidazole",
+  "search_name": "metronidazole"
+ },
+ "talazoparib tosylate": {
+  "rxcui": "2099703",
+  "atc": null,
+  "rxnorm_name": "talazoparib tosylate",
+  "search_name": "talazoparib tosylate"
+ },
+ "torsemide": {
+  "rxcui": "38413",
+  "atc": "C03CA04",
+  "rxnorm_name": "torsemide",
+  "search_name": "torsemide"
+ },
+ "methotrexate sodium": {
+  "rxcui": "287734",
+  "atc": null,
+  "rxnorm_name": "methotrexate sodium",
+  "search_name": "methotrexate sodium"
+ },
+ "milnacipran hcl": {
+  "rxcui": "30003",
+  "atc": null,
+  "rxnorm_name": "milnacipran hcl",
+  "search_name": "milnacipran hcl"
+ },
+ "fenofibrate": {
+  "rxcui": "8703",
+  "atc": "C10AB05",
+  "rxnorm_name": "fenofibrate",
+  "search_name": "fenofibrate"
+ },
+ "eluxadoline": {
+  "rxcui": "1653781",
+  "atc": "A07DA06",
+  "rxnorm_name": "eluxadoline",
+  "search_name": "eluxadoline"
+ },
+ "lubiprostone": {
+  "rxcui": "623033",
+  "atc": "A06AX03",
+  "rxnorm_name": "lubiprostone",
+  "search_name": "lubiprostone"
+ },
+ "crizotinib": {
+  "rxcui": "1148495",
+  "atc": "L01ED01",
+  "rxnorm_name": "crizotinib",
+  "search_name": "crizotinib"
+ },
+ "paroxetine hcl": {
+  "rxcui": "235830",
+  "atc": null,
+  "rxnorm_name": "paroxetine hcl",
+  "search_name": "paroxetine hcl"
+ },
+ "octreotide acetate,mi-spheres": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "cephalexin": {
+  "rxcui": "2231",
+  "atc": "J01DB01",
+  "rxnorm_name": "cephalexin",
+  "search_name": "cephalexin"
+ },
+ "dorzolamide hcl + timolol maleat": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "irbesartan": {
+  "rxcui": "83818",
+  "atc": "C09CA04",
+  "rxnorm_name": "irbesartan",
+  "search_name": "irbesartan"
+ },
+ "eplontersen sodium": {
+  "rxcui": "2671940",
+  "atc": null,
+  "rxnorm_name": "eplontersen sodium",
+  "search_name": "eplontersen sodium"
+ },
+ "lansoprazole": {
+  "rxcui": "17128",
+  "atc": "A02BC03",
+  "rxnorm_name": "lansoprazole",
+  "search_name": "lansoprazole"
+ },
+ "canakinumab + pf": {
+  "rxcui": null,
+  "atc": null,
+  "rxnorm_name": null
+ },
+ "rozanolixizumab-noli": {
+  "rxcui": "2642273",
+  "atc": null,
+  "rxnorm_name": "rozanolixizumab-noli",
+  "search_name": "rozanolixizumab-noli"
+ },
+ "clobazam": {
+  "rxcui": "21241",
+  "atc": "N05BA09",
+  "rxnorm_name": "clobazam",
+  "search_name": "clobazam"
+ },
+ "burosumab-twza": {
+  "rxcui": "2043854",
+  "atc": null,
+  "rxnorm_name": "burosumab-twza",
+  "search_name": "burosumab-twza"
+ },
+ "mometasone furoate": {
+  "rxcui": "30145",
+  "atc": null,
+  "rxnorm_name": "mometasone furoate",
+  "search_name": "mometasone furoate"
+ },
+ "amitriptyline hcl": {
+  "rxcui": "203168",
+  "atc": null,
+  "rxnorm_name": "amitriptyline hcl",
+  "search_name": "amitriptyline hcl"
+ },
+ "c1 esterase inhibitor, recomb": {
+  "rxcui": "1599831",
+  "atc": "B06AC04",
+  "rxnorm_name": "c1 esterase inhibitor, recomb",
+  "search_name": "c1 esterase inhibitor, recomb"
+ },
+ "methylphenidate hcl": {
+  "rxcui": "203188",
+  "atc": null,
+  "rxnorm_name": "methylphenidate hcl",
+  "search_name": "methylphenidate hcl"
+ }
+}

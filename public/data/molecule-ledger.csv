@@ -1,0 +1,485 @@
+molecule,rxcui,atc,atc_l1_name,brand_examples,us_spend_2024_usd,us_units_2024,us_benes_2024,us_avg_cost_per_unit_usd,ca_price_per_unit_cad,ca_unit,ca_price_per_unit_usd,gap_usd_per_unit,ratio_us_to_ca,ca_price_source,ca_price_din
+apixaban,1364430,B01AF02,Blood and blood forming organs,Eliquis,20774929225.0,2156238529,4424796,9.6348,0.4084,unit,0.2981,9.34,32.32,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Apixaban 5mg Tab",02487721
+empagliflozin,1545653,A10BK03,Alimentary tract and metabolism,Jardiance,11435997421.0,604181682,2543331,18.9281,2.8868,unit,2.1075,16.82,8.98,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Jardiance 10mg Tab",02443937
+lenalidomide,342369,L04AX04,Antineoplastic and immunomodulating agents,Lenalidomide; Revlimid,6820366286.1,8914893,69222,765.0531,82.375,unit,60.1365,704.92,12.72,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Lenalidomide 2.5mg Cap",02507927
+tirzepatide,2601723,A10BX16,Alimentary tract and metabolism,Mounjaro; Zepbound,6337329984.15,12386141,894826,511.6469,,,,,,,
+rivaroxaban,1114195,B01AF01,Blood and blood forming organs,Xarelto,6232231839.7,360337521,1321019,17.2955,0.355,unit,0.2592,17.04,66.73,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Rivaroxaban 2.5mg Tab",02541734
+adalimumab,327361,L04AB04,Antineoplastic and immunomodulating agents,Humira; Humira Pen; Humira(Cf),5715863099.68,1630312,90349,3505.994,235.63,container,172.0178,3333.98,20.38,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per container, Abrilada 20mg/0.4mL Inj Sol-0.4mL Pref Syr (Preservative-Free)",02511061
+dapagliflozin propanediol,1486966,,,Dapagliflozin; Farxiga,5492482710.54,301297661,1492285,18.2294,0.522,unit,0.3811,17.85,47.83,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Accel-Dapagliflozin 10mg Tab",02543192
+dulaglutide,1551291,A10BJ05,Alimentary tract and metabolism,Trulicity,5454134725.1,11660568,788716,467.7418,,,,,,,
+fluticasone + umeclidin + vilanter,1945038,,,Trelegy Ellipta,5294401776.8,503324684,1268914,10.5189,,,,,,,
+sacubitril + valsartan,1656339,C09DX04,Cardiovascular system,Entresto; Entresto Sprinkle,4020466403.9,364179144,795388,11.0398,,,,,,,
+sitagliptin phosphate,621590,,,Januvia,3807854661.8,211984298,828288,17.9629,0.8197,unit,0.5984,17.36,30.02,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Sitagliptin 100mg Tab",02512491
+bictegrav + emtricit + tenofov ala,1996259,J05AR20,Antiinfectives for systemic use,Biktarvy,3456061331.1,26315903,92246,131.3298,,,,,,,
+enzalutamide,1307298,L02BB04,Antineoplastic and immunomodulating agents,Xtandi,3400769228.6,24915219,35367,136.4937,7.2989,unit,5.3284,131.17,25.62,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Enzalutamide (Off-Formulary Interchangeable) 40mg Cap",02562677
+ustekinumab,847083,L04AC05,Antineoplastic and immunomodulating agents,Stelara*,3378017374.1,245388,24754,13766.0532,1248.0,container,911.0819,12854.97,15.11,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per container, Wezlana I.V. 130mg/26mL Inj Sol-26mL Vial Pk",02544210
+etanercept,214555,L04AB01,Antineoplastic and immunomodulating agents,Enbrel; Enbrel Mini; Enbrel Sureclick,3225567875.91,1772952,53261,1819.3202,120.5,container,87.969,1731.35,20.68,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per container, Erelzi 25mg/0.5mL Inj Sol-0.5mL Pref Syr Pk",02462877
+tafamidis,1545063,N07XX08,Nervous system,Vyndamax,2830811857.1,3805207,13925,743.9311,,,,,,,
+"insulin glargine,hum.rec.anlog",274783,A10AE04,Alimentary tract and metabolism,Basaglar Kwikpen U-100; Basaglar Tempo Pen U-100; Insulin Glargine,2625111991.08,181912063,2472076,14.4307,4.2556,mL,3.1067,11.32,4.65,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Semglee 100U/mL Inj Sol-3mL Pref Pen",02526441
+paliperidone palmitate,858045,,,Invega Hafyera; Invega Sustenna; Invega Trinza,2537386110.92,962234,94710,2636.9753,,,,,,,
+dupilumab,1876376,D11AH05,Dermatologicals,Dupixent Pen; Dupixent Syringe,2491772008.05,2622337,88374,950.2105,,,,,,,
+mirabegron,1300786,G04BD12,Genito urinary system and sex hormones,Mirabegron ER; Myrbetriq,2431374764.33,166998171,881635,14.5593,0.73,unit,0.5329,14.03,27.32,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Mirabegron 50mg ER Tab",02564971
+ibrutinib,1442981,L01EL01,Antineoplastic and immunomodulating agents,Imbruvica,2266252031.7,5501472,15351,411.9356,,,,,,,
+ruxolitinib phosphate,1193325,,,Jakafi; Opzelura,2188644366.34,10555645,34859,207.3435,,,,,,,
+pomalidomide,1369713,L04AX06,Antineoplastic and immunomodulating agents,Pomalyst,2150231814.6,1964117,14325,1094.7575,425.0,unit,310.2643,784.49,3.53,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Pomalidomide (Off-Formulary Interchangeable) 3mg Cap",02520443
+lipase + protease + amylase,392491,,,Creon; Pancreaze; Pertzye,2112590035.83,222611321,247072,9.49,,,,,,,
+nintedanib esylate,1592736,,,Ofev,2086398978.9,9639091,23929,216.4518,,,,,,,
+palbociclib,1601374,L01EF01,Antineoplastic and immunomodulating agents,Ibrance,2035022061.3,2734327,15923,744.2497,126.9562,unit,92.6823,651.57,8.03,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, PMS-Palbociclib (Off-Formulary Interchangeable) 75mg Tab",02552124
+linaclotide,1307404,A06AX04,Alimentary tract and metabolism,Linzess,1981958629.2,112066899,632063,17.6855,,,,,,,
+valbenazine tosylate,1923002,,,Ingrezza; Ingrezza Initiation Pk(Tardiv); Ingrezza Sprinkle,1966082675.83,7200963,33064,273.0305,,,,,,,
+evolocumab,1665684,C10AX13,Cardiovascular system,Repatha Pushtronex; Repatha Sureclick; Repatha Syringe,1962120377.24,7403439,459932,265.0282,,,,,,,
+insulin degludec,1670007,A10AE06,Alimentary tract and metabolism,Insulin Degludec; Insulin Degludec Pen (U-100); Insulin Degludec Pen (U-200),1851907113.28,43229042,622443,42.8394,7.7707,mL,5.6729,37.17,7.55,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Tresiba 100U/mL Inj Sol-3X5mL Cart Pk",02467860
+cyclosporine,3008,L04AD01,Antineoplastic and immunomodulating agents,Cequa; Cyclosporine*; Restasis,1749681664.82,205928165,816975,8.4966,0.7829,unit,0.5715,7.93,14.87,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Neoral 10mg Cap",02237671
+zanubrutinib,2262435,L01EL03,Antineoplastic and immunomodulating agents,Brukinsa,1724363413.8,14214858,18031,121.3071,,,,,,,
+acalabrutinib maleate,1986808,L01EL02,Antineoplastic and immunomodulating agents,Calquence,1701974920.8,6844352,15056,248.6685,,,,,,,
+deutetrabenazine,1876905,N07XX16,Nervous system,Austedo; Austedo XR; Austedo XR Titration Kt(Wk1-4),1674822920.09,12855746,31190,130.2782,,,,,,,
+osimertinib mesylate,1721559,,,Tagrisso,1627109177.4,2940042,12370,553.4306,,,,,,,
+secukinumab,1599788,L04AC10,Antineoplastic and immunomodulating agents,Cosentyx; Cosentyx (2 Syringes); Cosentyx Sensoready (2 Pens),1562575147.71,397533,27644,3930.6803,,,,,,,
+fluticasone + vilanterol,1424888,,,Breo Ellipta; Fluticasone-Vilanterol,1427586472.25,221284904,704534,6.4514,,,,,,,
+apalutamide,1999574,L02BB05,Antineoplastic and immunomodulating agents,Erleada,1386301873.3,8737751,13253,158.6566,,,,,,,
+upadacitinib,2196092,L04AF03,Antineoplastic and immunomodulating agents,Rinvoq; Rinvoq Lq,1385938732.73,6382625,29077,217.1424,51.681,unit,37.7289,179.41,5.76,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Rinvoq 15mg ER Tab",02495155
+macitentan,1442132,C02KX04,Cardiovascular system,Opsumit,1231721758.3,2930637,10962,420.2915,,,,,,,
+cabozantinib s-malate,1363267,,,Cabometyx; Cometriq,1220068427.92,1485860,9223,821.1194,,,,,,,
+rifaximin,35619,A07AA11,Alimentary tract and metabolism,Xifaxan,1158111408.6,21359910,104805,54.2189,8.7985,unit,6.4232,47.8,8.44,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Zaxine 550mg Tab",02410702
+cariprazine hcl,1721073,,,Vraylar,1135973310.0,23309776,117573,48.7338,5.096,unit,3.7203,45.01,13.1,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Vraylar 1.5mg Cap",02526794
+budesonide + glycopyr + formoterol,2387330,,,Breztri Aerosphere,1130105761.4,19474953,367055,58.0287,,,,,,,
+linagliptin,1100699,A10BH05,Alimentary tract and metabolism,Tradjenta,1127598446.4,68079768,274523,16.5629,2.812,unit,2.0529,14.51,8.07,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Trajenta 5mg Tab",02370921
+sitagliptin phos + metformin hcl,729717,A10BD07,Alimentary tract and metabolism,Janumet; Janumet XR,1067148178.2,111132564,245251,9.6025,,,,,,,
+abemaciclib,1946825,L01EF03,Antineoplastic and immunomodulating agents,Verzenio,1056757309.4,3935934,11239,268.4896,,,,,,,
+apremilast,1492727,L04AA32,Antineoplastic and immunomodulating agents,Otezla,1045029750.9,12955039,31045,80.6659,18.7237,unit,13.6689,67.0,5.9,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Auro-Apremilast (Off-Formulary Interchangeable) 30mg Tab",02524104
+fluticasone propion + salmeterol,284635,R03AK06,Respiratory system,Advair Diskus; Advair HFA; Airduo Digihaler,1030328458.18,371931693,1580431,2.7702,,,,,,,
+darolutamide,2180325,L02BB06,Antineoplastic and immunomodulating agents,Nubeqa,998066130.12,9044450,11577,110.3512,,,,,,,
+aripiprazole,89013,N05AX12,Nervous system,Abilify; Abilify Asimtufii; Abilify Maintena,967982256.16,160539016,684239,6.0296,0.8092,unit,0.5907,5.44,10.21,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Aripiprazole 2mg Tab",02471086
+budesonide + formoterol fumarate,,,,Breyna; Budesonide-Formoterol Fumarate; Symbicort,961862517.73,50460562,1199019,19.0617,,,,,,,
+venetoclax,1747556,L01XX52,Antineoplastic and immunomodulating agents,Venclexta; Venclexta Starting Pack,955961159.3,7957902,26257,120.1273,,,,,,,
+vibegron,2472254,G04BD15,Genito urinary system and sex hormones,Gemtesa,945088935.3,59519609,320270,15.8786,,,,,,,
+selexipag,1729002,B01AC27,Blood and blood forming organs,Uptravi*,908772074.01,2738853,4320,331.8075,,,,,,,
+insulin lispro,86009,A10AB04,Alimentary tract and metabolism,Admelog; Admelog Solostar; Humalog,881396678.75,79544069,1110451,11.0806,2.27,mL,1.6572,9.42,6.69,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Admelog 100U/mL Inj Sol-10mL Vial Pk",02469901
+lenvatinib mesylate,1604346,,,Lenvima,875642918.93,2086188,8450,419.7335,,,,,,,
+icosapent ethyl,1304974,,,Icosapent Ethyl; Vascepa,867547245.39,353732030,478163,2.4526,,,,,,,
+sofosbuvir + velpatasvir,1799211,J05AP55,Antiinfectives for systemic use,Epclusa; Sofosbuvir-Velpatasvir,866576061.82,1279952,17886,677.0379,,,,,,,
+tofacitinib citrate,1358492,,,Xeljanz; Xeljanz XR,863632682.63,6020629,19269,143.4456,27.2507,unit,19.8939,123.55,7.21,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Taro-Tofacitinib XR 11mg ER Tab",02553988
+brexpiprazole,1658314,N05AX16,Nervous system,Rexulti,861392149.79,17379109,94695,49.5648,3.5,unit,2.5551,47.01,19.4,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Rexulti 0.25mg Tab",02461749
+levothyroxine sodium,40144,H03AA01,Systemic hormonal preparations,Ermeza; Euthyrox; Levo-T,842684081.24,3319775775,10236905,0.2538,0.0373,unit,0.0272,0.23,9.33,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Levothyroxine 0.05mg Tab",02550717
+denosumab,993449,M05BX04,Musculo-skeletal system,Prolia; Xgeva,827665924.3,481167,288460,1720.1214,174.49,container,127.3836,1592.74,13.5,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per container, Stoboclo 60mg/mL Inj Sol-1.0mL Pref Syr Pk (Preservative-Free)",02560917
+umeclidinium brm + vilanterol tr,,,,Anoro Ellipta,819257997.62,108063283,291195,7.5813,,,,,,,
+immune globul g + gly + iga avg 46,,,,Gammaked; Gamunex-C,790822380.19,53995586,6996,14.6461,,,,,,,
+atorvastatin calcium,83366,,,Atorvaliq; Atorvastatin Calcium; Lipitor,784217807.95,5319132586,17838516,0.1474,0.1743,unit,0.1272,0.02,1.16,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Atorvastatin 10mg Tab",02478145
+varicella-zoster ge + as01b + pf,,,,Shingrix,775597084.17,3945846,2933003,196.5604,,,,,,,
+ribociclib succinate,1873978,,,Kisqali,775493707.49,2674696,8782,289.9371,,,,,,,
+rsvpref3 antigen + as01e + pf,,,,Arexvy,774198317.54,2835314,2820344,273.0555,,,,,,,
+abatacept,614391,L04AA24,Antineoplastic and immunomodulating agents,Orencia; Orencia Clickject,754104202.24,535879,17660,1407.2275,,,,,,,
+treprostinil,343048,B01AC21,Blood and blood forming organs,Tyvaso Dpi,728752454.61,3841209,4385,189.7196,,,,,,,
+elexacaftor + tezacaftor + ivacaft,2257010,R07AX32,Respiratory system,Trikafta,724709204.3,2350678,2732,308.2979,,,,,,,
+albuterol sulfate,142153,,,Albuterol Sulfate HFA; Albuterol Sulfate*; Proair Digihaler,720370133.38,327681842,7709981,2.1984,,,,,,,
+abiraterone acetate,1100071,,,Abiraterone Acetate; Zytiga,714945234.65,40141784,55589,17.8105,7.6563,unit,5.5894,12.22,3.19,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Abiraterone Film Coated Tablets 250mg Tab",02491397
+cenegermin-bkbj,2104331,,,Oxervate,714549320.33,355186,4781,2011.7609,,,,,,,
+ixekizumab,1745099,L04AC13,Antineoplastic and immunomodulating agents,Taltz Autoinjector; Taltz Autoinjector (2 Pack); Taltz Autoinjector (3 Pack),698182157.22,103745,14382,6729.787,,,,,,,
+riociguat,1439816,C02KX05,Cardiovascular system,Adempas,694246753.36,4501236,5553,154.2347,24.046,unit,17.5544,136.68,8.79,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Sandoz Riociguat (Off-Formulary Interchangeable) 1mg Tab",02533561
+immun glob g(igg) + pro + iga 0-50,,,,Hizentra; Privigen,690806601.69,33289353,5783,20.7516,,,,,,,
+ticagrelor,1116632,B01AC24,Blood and blood forming organs,Brilinta,685497436.89,94428457,242931,7.2594,0.396,unit,0.2891,6.97,25.11,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Ticagrelor 90mg Tab",02482630
+eltrombopag olamine,735651,,,Promacta,672379160.6,1608219,6666,418.0893,55.25,unit,40.3344,377.75,10.37,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Eltrombopag (Off-Formulary Interchangeable) 25mg Tab",02506742
+pimavanserin tartrate,1791686,,,Nuplazid,657826492.55,3972906,17122,165.5781,,,,,,,
+bimatoprost,283810,S01EE03,Sensory organs,Bimatoprost*; Durysta; Lumigan,655739802.46,7065183,357398,92.8129,3.0645,mL,2.2372,90.58,41.49,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Vistitan 0.03% Oph Sol",02429063
+dolutegravir sodium,1433867,,,Tivicay; Tivicay Pd,629438608.16,8468982,29205,74.3228,,,,,,,
+immun glob g(igg) + gly + iga ov50,,,,Bivigam; Cuvitru; Gammagard Liquid,629276747.26,36719566,5219,17.1374,,,,,,,
+rimegepant sulfate,2282322,,,Nurtec ODT,625230826.2,5051627,105323,123.7682,,,,,,,
+guselkumab,1928588,L04AC16,Antineoplastic and immunomodulating agents,Tremfya Pen; Tremfya*,619021085.8,48255,10860,12828.1232,3059.74,container,2233.713,10594.41,5.74,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per container, Tremfya One-Press 100mg/mL Inj Sol-1mL Autoinj (Preservative-Free)",02487314
+olaparib,1597582,L01XK01,Antineoplastic and immunomodulating agents,Lynparza,593929897.65,4358924,7016,136.2561,,,,,,,
+ofatumumab,712566,L01FA02,Antineoplastic and immunomodulating agents,Kesimpta Pen,582607939.91,26860,7188,21690.3798,,,,,,,
+gabapentin,25480,N02BF01,Nervous system,Gabapentin; Gabapentin ER; Gralise,579085199.59,4608583907,7968946,0.1257,0.5615,unit,0.4099,-0.28,0.31,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Neurontin 100mg Cap",02084260
+dasatinib,475342,L01EA02,Antineoplastic and immunomodulating agents,Dasatinib; Sprycel,568525607.84,1381481,7778,411.5334,32.8823,unit,24.0052,387.53,17.14,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Dasatinib (Off-Formulary Interchangeable) 20mg Tab",02470705
+abacavir + dolutegravir + lamivudi,1546887,J05AR13,Antiinfectives for systemic use,Triumeq,565891468.38,4579883,16151,123.5602,,,,,,,
+elviteg + cob + emtri + tenof alafen,,,,Genvoya,552006675.06,4186557,14573,131.8522,,,,,,,
+emtricitabine + tenofov alafenam,,,,Descovy,544696049.72,7545087,30179,72.1921,,,,,,,
+dolutegravir sodium + lamivudine,,,,Dovato,541076552.5,5493209,19337,98.4992,,,,,,,
+corticotropin,376,H01AA01,Systemic hormonal preparations,Acthar; Acthar Selfject; Cortrophin,522348438.8,63926,1631,8171.1422,,,,,,,
+lifitegrast,1801820,S01XA25,Sensory organs,Xiidra,505334180.32,45167796,166361,11.1879,,,,,,,
+empagliflozin + metformin hcl,1664314,A10BD20,Alimentary tract and metabolism,Synjardy; Synjardy XR,500981707.37,44482800,113201,11.2624,,,,,,,
+relugolix,2472778,L02BX04,Antineoplastic and immunomodulating agents,Orgovyx,484308516.16,5564114,28521,87.0414,9.0,unit,6.5703,80.47,13.25,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Orgovyx 120mg Tab",02542137
+teriparatide,32915,H05AA02,Systemic hormonal preparations,Forteo; Teriparatide,478973724.03,390495,27264,1226.5814,188.42,mL,137.5529,1089.03,8.92,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Osnuvo 250mcg/mL Inj Sol-3mL Cart Pk",02495589
+oxycodone hcl,82063,,,Oxaydo; Oxycodone HCl; Oxycodone HCl ER,475278880.03,685643521,2842056,0.6932,0.2333,unit,0.1703,0.52,4.07,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, PMS-Oxycodone (Off-Formulary Interchangeable) 5mg Tab",02319977
+rosuvastatin calcium,323828,,,Crestor; Ezallor Sprinkle; Rosuvastatin Calcium,468525712.78,2349992857,8225223,0.1994,0.1284,unit,0.0937,0.11,2.13,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Rosuvastatin 5mg Tab",02438917
+"pen needle, diabetic",,,,1st Tier Unifine Pentips; 1st Tier Unifine Pentips Plus; Advocate Pen Needle,468194968.45,920672491,2439807,0.5085,,,,,,,
+"rsv vacc, pref a and pref b + pf",,,,Abrysvo,467554856.86,1628012,1621026,287.1938,,,,,,,
+metoprolol succinate,221124,,,Kapspargo Sprinkle; Metoprolol Succinate; Toprol XL,463601640.69,2553011189,7791700,0.1816,0.0624,unit,0.0456,0.14,3.98,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Metoprolol-L 50mg Tab",02481316
+insulin aspart,51428,A10AB05,Alimentary tract and metabolism,Insulin Aspart; Insulin Aspart Flexpen; Insulin Aspart Penfill,462790061.25,54856593,750223,8.4364,2.2643,mL,1.653,6.78,5.1,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Trurapi 100U/mL Inj Sol-10mL Vial Pk",02529254
+tiotropium br + olodaterol hcl,,,,Stiolto Respimat,448588557.35,3958758,167334,113.3155,,,,,,,
+darunavir + cob + emtri + tenof alaf,,,,Symtuza,448466476.63,2895616,10616,154.8777,,,,,,,
+axitinib,1242999,L01EK01,Antineoplastic and immunomodulating agents,Inlyta,438904955.79,2362456,4465,185.7833,,,,,,,
+sucroferric oxyhydroxide,1484283,V03AE05,Various,Velphoro,438436195.16,25357051,38351,17.2905,,,,,,,
+ubrogepant,2268216,N02CD04,Nervous system,Ubrelvy,429537897.96,4208168,83437,102.0724,,,,,,,
+nilotinib hcl,1804015,,,Tasigna,426961765.33,2435739,3054,175.2904,16.557,unit,12.0872,163.2,14.5,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Nilotinib (Off-Formulary Interchangeable) 150mg Cap",02550881
+dolutegravir + rilpivirine,1989499,J05AR21,Antiinfectives for systemic use,Juluca,415220184.76,3575957,12112,116.1144,,,,,,,
+dronedarone hcl,736680,,,Multaq,414751255.09,32215474,72761,12.8743,,,,,,,
+glatiramer acetate,84375,L03AX13,Antineoplastic and immunomodulating agents,Copaxone; Glatiramer Acetate; Glatopa,411553409.27,1718434,14455,239.4933,27.8587,container,20.3378,219.16,11.78,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per container, Glatiramer Acetate Injection 20mg/mL Inj Sol Pref Syr-1mL Pk",02541440
+metformin hcl,235743,,,Glumetza; Metformin ER Gastric; Metformin ER Osmotic,408558855.68,5165411520,8812400,0.0791,0.0247,unit,0.018,0.06,4.39,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Metformin 500mg Tab",02167786
+ipratropium + albuterol sulfate,214199,,,Combivent Respimat; Ipratropium-Albuterol,406229700.3,76213088,381509,5.3302,,,,,,,
+carbidopa + levodopa,103990,,,Carbidopa-Levodopa; Carbidopa-Levodopa ER; Crexont,399523751.74,854477452,738372,0.4676,,,,,,,
+finerenone,2562811,C03DA05,Cardiovascular system,Kerendia,396302773.23,18813859,88208,21.0644,3.2565,unit,2.3774,18.69,8.86,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Kerendia 20mg Tab",02531925
+immun globg(igg) + malt + iga ov50,,,,Octagam,393231316.22,21624171,3206,18.1848,,,,,,,
+vortioxetine hydrobromide,1439834,,,Trintellix,392486138.2,24438666,100706,16.06,1.5853,unit,1.1573,14.9,13.88,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Vortioxetine 5mg Tab",02552744
+estradiol,4083,G03CA03,Genito urinary system and sex hormones,Climara; Divigel; Dotti,391725707.16,229870246,1941472,1.7041,0.1199,unit,0.0875,1.62,19.48,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Lupin-Estradiol 0.5mg Tab",02449048
+hydrocodone + acetaminophen,214182,,,Hydrocodone-Acetaminophen,386982896.58,1402711851,5266914,0.2759,,,,,,,
+edaravone,1921877,N07XX14,Nervous system,Radicava; Radicava Ors,380571880.04,2153540,3577,176.7192,,,,,,,
+umeclidinium bromide,1487512,R03BB07,Respiratory system,Incruse Ellipta,375858547.52,33092749,185597,11.3577,,,,,,,
+emtricitab + rilpiviri + tenof ala,,,,Odefsey,375477600.43,3149973,10329,119.2003,,,,,,,
+tocilizumab,612865,L04AC07,Antineoplastic and immunomodulating agents,Actemra Actpen; Actemra*,368046318.6,457370,13833,804.7021,311.9025,container,227.6993,577.0,3.53,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per container, Tyenne 200mg/10mL Inj Sol-10mL Vial Pk",02552469
+omeprazole,7646,A02BC01,Alimentary tract and metabolism,Omeprazole,366738344.22,2163551754,7509766,0.1695,0.2287,unit,0.167,,1.01,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Omeprazole Cap 20mg",02245058
+"insulin regular, human",253182,A10AB01,Alimentary tract and metabolism,Afrezza; Humulin R; Humulin R U-500,361308060.08,14919661,148341,24.2169,,,,,,,
+alpha-1-proteinase inhibitor,535,B02AB02,Blood and blood forming organs,Aralast NP; Glassia; Prolastin C,361004703.34,610742942,3171,0.5911,,,,,,,
+losartan potassium,203160,,,Cozaar; Losartan Potassium,359526344.61,2871504792,8913904,0.1252,0.3147,unit,0.2297,-0.1,0.55,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Auro-Losartan 100mg Tab",02403358
+insulin aspart (niacinamide),,,,Fiasp; Fiasp Flextouch; Fiasp Penfill,358494355.53,10618473,160300,33.7614,,,,,,,
+teduglutide,1364468,A16AX08,Alimentary tract and metabolism,Gattex,357634244.51,9404,962,38030.0132,,,,,,,
+diclofenac sodium,203214,,,Diclofenac Sodium ER; Diclofenac Sodium*; Pennsaid,355630280.07,813636558,2628097,0.4371,0.1563,unit,0.1141,0.32,3.83,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Diclo 25mg Ent Tab",00839175
+mifepristone,6964,G03XB01,Genito urinary system and sex hormones,Korlym; Mifepristone,349239812.86,510563,1804,684.0288,,,,,,,
+asfotase alfa,1720259,A16AB13,Alimentary tract and metabolism,Strensiq,345971143.7,52869,290,6543.9321,,,,,,,
+momelotinib dihydrochloride,2665204,L01EJ04,Antineoplastic and immunomodulating agents,Ojjaara,341692381.97,374591,2316,912.1746,,,,,,,
+alirocumab,1659152,C10AX14,Cardiovascular system,Praluent Pen,340584673.39,1414077,92483,240.853,273.45,mL,199.6277,41.23,1.21,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Praluent 300mg/2mL Inj Sol-Pref Pen 2mL Pk (Preservative-Free)",02547732
+pantoprazole sodium,253191,,,Pantoprazole Sodium*; Protonix; Protonix IV,331545239.73,1802137225,6696216,0.184,0.2016,unit,0.1472,0.04,1.25,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Pantoprazole Sodium 40mg Ent Tab",02481588
+amlodipine besylate,104416,,,Amlodipine Besylate; Norliqva; Norvasc,330784367.01,3757633713,12201452,0.088,,,,,,,
+liraglutide,475968,A10BJ02,Alimentary tract and metabolism,Liraglutide; Victoza 2-Pak; Victoza 3-Pak,328991595.9,3846636,128285,85.5271,,,,,,,
+duloxetine hcl,476250,,,Cymbalta; Drizalma Sprinkle; Duloxetine HCl,325905719.29,916818036,2665006,0.3555,0.3611,unit,0.2636,0.09,1.35,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Accel-Duloxetine 30mg DR Cap",02522861
+potassium chloride,8591,A12BA01,Alimentary tract and metabolism,K-Tab ER; Klor-Con; Klor-Con 10,323355239.98,1382191587,4043942,0.2339,,,,,,,
+bupropion hcl,203204,,,Bupropion HCl; Bupropion HCl SR; Bupropion XL,319023550.7,691185417,2224994,0.4616,0.1463,unit,0.1068,0.35,4.32,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Odan-Bupropion XL 150mg ER Tab",02565838
+mepolizumab,1720597,R03DX09,Respiratory system,Nucala,317907428.14,86390,9062,3679.91,,,,,,,
+omalizumab,302379,R03DX05,Respiratory system,Xolair,313118328.76,226640,11011,1381.5649,337.488,mL,246.3776,1135.19,5.61,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Omlyclo 75mg/0.5mL Inj Sol-0.5mL Pref Pen Pk",02561018
+oxycodone hcl + acetaminophen,214183,,,Endocet; Nalocet; Oxycodone-Acetaminophen,312993502.27,689357052,2167331,0.454,,,,,,,
+mesalamine,52582,A07EC02,Alimentary tract and metabolism,Apriso; Canasa; Delzicol,311773454.5,148171565,154730,2.1041,,,,,,,
+tamsulosin hcl,236495,,,Flomax; Tamsulosin HCl,310672953.95,1727672425,5499972,0.1798,0.15,unit,0.1095,0.07,1.64,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Tamsulosin CR Tab 0.4mg",02362406
+benralizumab,1989100,R03DX10,Respiratory system,Fasenra; Fasenra Pen,307509397.6,54056,11576,5688.7717,,,,,,,
+erenumab-aooe,2045614,,,Aimovig Autoinjector,305625176.63,420678,55791,726.5062,,,,,,,
+galcanezumab-gnlm,2058868,,,Emgality Pen; Emgality Syringe,304884082.56,450528,61444,676.7256,,,,,,,
+tafamidis meglumine,1727003,,,Vyndaqel,303575850.25,1675792,2021,181.1537,,,,,,,
+insulin glargine + lixisenatide,1858994,A10AE54,Alimentary tract and metabolism,Soliqua 100-33,300185496.2,5359358,59472,56.0115,,,,,,,
+buprenorphine hcl + naloxone hcl,352364,,,Buprenorphine-Naloxone; Suboxone; Zubsolv,296180235.8,87212298,186469,3.3961,,,,,,,
+immun glob g(igg) + gly + iga 0-50,,,,Gammaplex,294837706.01,14151700,1829,20.8341,,,,,,,
+mavacamten,2600867,C01EB24,Cardiovascular system,Camzyos,290825666.61,1068422,4490,272.2011,,,,,,,
+interferon beta-1a,75917,L03AB07,Antineoplastic and immunomodulating agents,Avonex (4 Pack); Avonex Pen (4 Pack),288285998.43,35151,3622,8201.3598,,,,,,,
+certolizumab pegol,709271,L04AB05,Antineoplastic and immunomodulating agents,Cimzia; Cimzia (2 Pack),283537284.29,50192,6670,5649.0308,,,,,,,
+ixazomib citrate,1723734,,,Ninlaro,272703342.48,63966,2983,4263.2546,,,,,,,
+canagliflozin,1373458,A10BK02,Alimentary tract and metabolism,Invokana,272062235.32,14644180,55993,18.5782,0.7228,unit,0.5277,18.05,35.21,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Canagliflozin 100mg Tab",02564556
+aripiprazole lauroxil,1673265,,,Aristada,269076004.88,275672,13102,976.0742,,,,,,,
+lumateperone tosylate,2275731,,,Caplyta,268479293.41,4786012,27010,56.0967,,,,,,,
+ambrisentan,358274,C02KX02,Cardiovascular system,Ambrisentan; Letairis,267540962.59,2065136,8083,129.5513,106.3288,unit,77.6236,51.93,1.67,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Ambrisentan (Off-Formulary Interchangeable) 10mg Tab",02475383
+ivosidenib,2049873,L01XM02,Antineoplastic and immunomodulating agents,Tibsovo,265234784.59,494366,1503,536.515,,,,,,,
+pregabalin,187832,N02BF02,Nervous system,Lyrica; Lyrica Cr; Pregabalin,263138234.38,646342367,1506154,0.4071,0.1481,unit,0.1081,0.3,3.77,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Pregabalin 25mg Cap",02480727
+dexlansoprazole,816346,A02BC06,Alimentary tract and metabolism,Dexilant; Dexlansoprazole Dr,261509728.11,47833376,196009,5.4671,2.0526,unit,1.4985,3.97,3.65,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Dexlansoprazole (Off-Formulary Interchangeable) 60mg DR Cap",02536404
+collagenase clostridium hist.,,,,Santyl; Xiaflex,260978074.94,18699485,143486,13.9564,,,,,,,
+atogepant,2571813,N02CD07,Nervous system,Qulipta,260307143.86,7234150,45046,35.9831,,,,,,,
+elacestrant hcl,2628473,,,Orserdu,258846197.93,414970,2633,623.7709,,,,,,,
+lisinopril,29046,C09AA03,Cardiovascular system,Lisinopril; Qbrelis; Zestril,258155257.9,2866344809,8759436,0.0901,,,,,,,
+abaloparatide,1921069,H05AA04,Systemic hormonal preparations,Tymlos,257643485.05,152365,16530,1690.9615,,,,,,,
+darunavir + cobicistat,1598380,J05AR14,Antiinfectives for systemic use,Prezcobix,255398074.6,3144526,11230,81.2199,,,,,,,
+levetiracetam,114477,N03AX14,Nervous system,Keppra XR; Keppra*; Levetiracetam ER,255153452.56,694446374,849278,0.3674,0.321,unit,0.2343,0.13,1.57,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Levetiracetam 250mg Tab",02399776
+"estrogens, conjugated",4099,G03CA57,Genito urinary system and sex hormones,Premarin*,254990017.73,26353277,231894,9.6758,,,,,,,
+"insulin pump cart,auto,bt,g6 + 7",,,,Omnipod 5 Dexg7g6 Pods (Gen 5); Omnipod 5 G6-G7 Pods (Gen 5),251843638.72,4366959,44707,57.6703,,,,,,,
+alectinib hcl,1727454,,,Alecensa,246703793.89,3225899,1906,76.476,,,,,,,
+brimonidine tartrate + timolol,,,,Brimonidine Tartrate-Timolol; Combigan,246372032.44,9159647,258566,26.8975,,,,,,,
+belumosudil mesylate,2565692,,,Rezurock,242932266.01,419554,1371,579.025,,,,,,,
+divalproex sodium,266856,,,Depakote; Depakote ER; Depakote Sprinkle,241088975.96,447094871,698478,0.5392,0.1539,unit,0.1124,0.43,4.8,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Divalproex 125mg Ent Tab",02239698
+efgartigimod alfa-fcab,2587719,,,Vyvgart,240798682.07,782808,947,307.6089,,,,,,,
+sodium zirconium cyclosilicate,2047628,V03AE10,Various,Lokelma,239002704.37,8965543,116877,26.6579,,,,,,,
+bosutinib,1307619,L01EA04,Antineoplastic and immunomodulating agents,Bosulif,235311822.75,885859,1981,265.6312,21.4383,unit,15.6507,249.98,16.97,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Reddy-Bosutinib (Off-Formulary Interchangeable) 100mg Tab",02560038
+teriflunomide,1310520,L04AK02,Antineoplastic and immunomodulating agents,Aubagio; Teriflunomide,233651586.36,2457582,10019,95.0738,14.93,unit,10.8994,84.17,8.72,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Teriflunomide 14mg Tab",02502933
+diltiazem hcl,203211,,,Cardizem; Cardizem CD; Cardizem La,233533357.62,506983089,1873419,0.4606,0.2133,unit,0.1557,0.3,2.96,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Diltiazem T 120mg SR Cap",02516101
+ravulizumab-cwvz,2107316,,,Ultomiris,232936290.52,110298,701,2111.8814,,,,,,,
+oxycodone myristate,,,,Xtampza ER,232750636.64,20391735,50981,11.414,,,,,,,
+memantine hcl,236685,,,Memantine HCl; Memantine HCl ER; Namenda,231336082.23,468277530,1100889,0.494,1.6357,unit,1.1941,-0.7,0.41,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Act Memantine (Off-Formulary Interchangeable) 10mg Tab",02324067
+treprostinil diolamine,1927409,,,Orenitram ER; Orenitram Month 1 Titration Kt; Orenitram Month 2 Titration Kt,231269107.13,2518642,1508,91.8229,,,,,,,
+golimumab,819300,L04AB06,Antineoplastic and immunomodulating agents,Simponi; Simponi Aria,230605796.54,110971,5263,2078.0653,,,,,,,
+dimethyl fumarate,1373478,L04AX07,Antineoplastic and immunomodulating agents,Dimethyl Fumarate; Tecfidera,230015484.2,5233564,9953,43.9501,9.1933,unit,6.7114,37.24,6.55,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Dimethyl Fumarate (Off-Formulary Interchangeable) 120mg DR Cap",02495341
+trifluridine + tipiracil hcl,1670310,,,Lonsurf,225915434.96,918448,3946,245.9752,,,,,,,
+niraparib tosylate,2637447,,,Zejula,224142912.76,374294,2016,598.8419,,,,,,,
+lanadelumab-flyo,2055640,,,Takhzyro,223004902.8,17456,512,12775.258,,,,,,,
+lurasidone hcl,1040027,,,Latuda; Lurasidone HCl,222296493.78,30120617,124175,7.3802,1.225,unit,0.8943,6.49,8.25,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Auro-Lurasidone 20mg Tab",02513986
+lamotrigine,28439,N03AX09,Nervous system,Lamictal; Lamictal (Orange); Lamictal ODT,221328775.36,386936326,679546,0.572,0.0698,unit,0.051,0.52,11.22,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Lamotrigine 25mg Tab",02245208
+brivaracetam,1739745,N03AX23,Nervous system,Briviact*,219770910.9,11449416,15497,19.1949,2.16,unit,1.5769,17.62,12.17,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Brivaracetam 50mg Tab",02538695
+imatinib mesylate,284924,,,Gleevec; Imatinib Mesylate,219420577.2,6061132,16553,36.2013,5.2079,unit,3.8019,32.4,9.52,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Imatinib 100mg Tab",02490986
+lidocaine,6387,C01BB01,Cardiovascular system,Dermacinrx Lidocan; Lidocaine; Lidocan III,216887953.86,80347832,598494,2.6994,,,,,,,
+belimumab,1092437,L04AG04,Antineoplastic and immunomodulating agents,Benlysta*,216806703.67,185667,5831,1167.7185,,,,,,,
+exenatide microspheres,,,,Bydureon Bcise,215354678.45,925159,38059,232.7759,,,,,,,
+ezetimibe,341248,C10AX09,Cardiovascular system,Ezetimibe; Zetia,214566675.65,650415481,2412870,0.3299,0.1811,unit,0.1322,0.2,2.5,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Ezetimibe 10mg Tab",02475898
+pegloticase,1011650,M04AX02,Musculo-skeletal system,Krystexxa,212349149.7,7348,662,28898.9044,,,,,,,
+cabotegravir + rilpivirine,,,,Cabenuva,211613824.62,196112,6592,1079.0458,,,,,,,
+"sodium,calcium,mag,pot oxybate",2393796,,,Xywav,210520764.36,5685120,1471,37.0301,,,,,,,
+dapaglifloz propaned + metformin,,,,Dapagliflozin-Metformin ER; Xigduo XR,209740733.45,17149789,52942,12.2299,,,,,,,
+quetiapine fumarate,221153,,,Quetiapine Fumarate; Quetiapine Fumarate ER; Seroquel,208919256.63,540975651,1488933,0.3862,0.0494,unit,0.0361,0.35,10.7,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Quetiapine 25mg Tab",02475979
+cannabidiol (cbd),2045371,N03AX24,Nervous system,Epidiolex,207443287.44,12894203,4517,16.0881,,,,,,,
+trametinib dimethyl sulfoxide,1425098,,,Mekinist,207005040.79,836484,2654,247.4704,,,,,,,
+belzutifan,2567226,L01XX74,Antineoplastic and immunomodulating agents,Welireg,205460495.55,634437,1896,323.847,,,,,,,
+varenicline tartrate,636674,,,Chantix; Tyrvaya; Varenicline Tartrate,204242459.02,39106834,256259,5.2227,0.4618,unit,0.3371,4.89,15.49,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Varenicline 0.5mg Tab",02419882
+pirtobrutinib,2629338,L01EL05,Antineoplastic and immunomodulating agents,Jaypirca,200562025.4,562695,1795,356.4311,,,,,,,
+fluticasone furoate,705022,R01AD12,Respiratory system,Arnuity Ellipta,199856122.56,27079492,181821,7.3803,1.726,dose,1.26,6.12,5.86,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per dose, Arnuity Ellipta 100mcg Blister Pd Inh-30 Dose Pk",02446561
+dabigatran etexilate mesylate,1037041,,,Dabigatran Etexilate; Pradaxa,199189373.93,102284910,246553,1.9474,1.254,unit,0.9155,1.03,2.13,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Dabigatran 110mg Cap",02468905
+tenofovir alafenamide,1721603,J05AF13,Antiinfectives for systemic use,Vemlidy,198986500.7,4196510,14948,47.4171,19.5537,unit,14.2749,33.14,3.32,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Vemlidy 25mg Tab",02464241
+asciminib hydrochloride,2584303,,,Scemblix,197186980.0,561463,1314,351.2021,,,,,,,
+eculizumab,591781,L04AJ01,Antineoplastic and immunomodulating agents,Soliris,196193578.99,903790,419,217.0787,,,,,,,
+ocrelizumab,1876366,L04AG08,Antineoplastic and immunomodulating agents,Ocrevus,195066361.89,100959,3085,1932.1429,,,,,,,
+brimonidine tartrate,39171,,,Alphagan P; Brimonidine Tartrate*; Mirvaso,190677291.01,29586583,729741,6.4447,,,,,,,
+tenapanor hcl,2199673,,,Ibsrela; Xphozah,189947037.74,4887458,19652,38.8642,,,,,,,
+diroximel fumarate,2261783,L04AX09,Antineoplastic and immunomodulating agents,Vumerity,189805009.17,2624779,2762,72.3128,,,,,,,
+amikacin liposomal + neb.accessr,,,,Arikayce,187063382.21,2913002,2647,64.2167,,,,,,,
+obeticholic acid,1798288,A05AA04,Alimentary tract and metabolism,Ocaliva,184965829.34,595138,2104,310.7949,,,,,,,
+enasidenib mesylate,1940331,,,Idhifa,184699246.61,166880,1016,1106.7788,,,,,,,
+sotatercept-csrk,2678931,,,Winrevair; Winrevair (2 Pack),184683606.35,10917,1969,16917.0657,,,,,,,
+capivasertib,2669967,L01EX27,Antineoplastic and immunomodulating agents,Truqap,184169025.72,527064,2247,349.4244,,,,,,,
+esomeprazole magnesium,283562,,,Esomeprazole Magnesium; Nexium,184025002.68,213110516,762280,0.8635,,,,,,,
+tezepelumab-ekko,2587790,,,Tezspire,183765287.62,81979,6219,2241.6062,,,,,,,
+celecoxib,140587,L01XX33,Antineoplastic and immunomodulating agents,Celebrex; Celecoxib; Elyxyb,180178984.34,382210030,1863495,0.4714,0.1279,unit,0.0934,0.38,5.05,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Celecoxib 100mg Cap",02437570
+sevelamer carbonate,660890,,,Renvela; Sevelamer Carbonate,179887716.96,206718839,209603,0.8702,1.2634,unit,0.9223,-0.05,0.94,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Accel-Sevelamer (Off-Formulary Interchangeable) 800mg Tab",02461501
+famotidine,4278,A02BA03,Alimentary tract and metabolism,Famotidine*; Pepcid,179777659.62,1106228532,3926701,0.1625,0.2658,unit,0.194,-0.03,0.84,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Famotidine 20mg Tab",02509970
+risperidone,35636,N05AX08,Nervous system,Perseris; Risperdal; Risperidone,178585524.11,193264041,495915,0.924,0.0878,unit,0.0641,0.86,14.41,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Risperidone 0.25mg Tab",02282119
+cladribine,44157,L01BB04,Antineoplastic and immunomodulating agents,Cladribine; Mavenclad,178213487.32,18243,1315,9768.8696,1606.0,unit,1172.4339,8596.44,8.33,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Cladribine (Off-Formulary Interchangeable) 10mg Tab",02553295
+amifampridine phosphate,2106337,,,Firdapse,177822830.51,746187,402,238.3087,,,,,,,
+leuprolide acetate,203217,,,Eligard; Leuprolide Acetate; Leuprolide Depot,176947467.03,41248,15627,4289.8436,,,,,,,
+lacosamide,623400,N03AX18,Nervous system,Lacosamide*; Motpoly XR; Vimpat*,175910241.42,103869653,126122,1.6936,0.6313,unit,0.4609,1.23,3.67,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Lacosamide 50mg Tab",02489287
+patiromer calcium sorbitex,2204723,,,Veltassa,175068084.22,5129956,52133,34.1266,,,,,,,
+dabrafenib mesylate,1425222,,,Tafinlar,173893215.25,1696312,2440,102.5125,,,,,,,
+interferon beta-1a + albumin,,,,Rebif; Rebif Rebidose,173784479.77,98473,1788,1764.795,,,,,,,
+dextromethorphan hbr + quinidine,,,,Nuedexta,172956424.13,6440778,15788,26.8533,,,,,,,
+somatropin,61148,H01AC01,Systemic hormonal preparations,Genotropin; Humatrope; Norditropin Flexpro,172365183.01,381389,4100,451.9406,,,,,,,
+sarilumab,1923319,L04AC14,Antineoplastic and immunomodulating agents,Kevzara,172196863.69,92678,6254,1858.0047,,,,,,,
+pirfenidone,1592254,L04AX05,Antineoplastic and immunomodulating agents,Esbriet; Pirfenidone,169775108.54,10642970,9840,15.9519,6.7119,unit,4.8999,11.05,3.26,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Auro-Pirfenidone (Off-Formulary Interchangeable) 267mg Tab",02537753
+netarsudil mesylate,1992863,,,Rhopressa,168045637.46,1331777,89311,126.1815,,,,,,,
+netarsudil mesylat + latanoprost,,,,Rocklatan,167398354.99,1259766,78022,132.8806,,,,,,,
+epoetin alfa,105694,,,Epogen; Procrit,165620829.52,371201,29054,446.1753,,,,,,,
+trazodone hcl,82112,,,Trazodone HCl,165400397.52,1156910933,3945008,0.143,0.0554,unit,0.0404,0.1,3.54,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Trazodone 50mg Tab",02147637
+everolimus,141704,L01EG02,Antineoplastic and immunomodulating agents,Afinitor; Afinitor Disperz; Everolimus,165373285.73,2558422,7547,64.6388,172.2559,unit,125.7526,-61.11,0.51,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Nat-Everolimus (Off-Formulary Interchangeable) 10mg Tab",02530120
+glecaprevir + pibrentasvir,1940702,J05AP57,Antiinfectives for systemic use,Mavyret,165321586.34,1061669,6721,155.7186,,,,,,,
+sodium oxybate,9899,N01AX11,Nervous system,Lumryz; Sodium Oxybate; Xyrem,164989915.91,4139848,1396,39.8541,,,,,,,
+cenobamate,2265690,N03AX25,Nervous system,Xcopri,164703012.87,4286870,12500,38.4203,8.8,unit,6.4243,32.0,5.98,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Xcopri 150mg & 200mg Tab - (Starter Kit)",02538792
+mometasone + formoterol,1002293,R03AK09,Respiratory system,Dulera,162082132.71,6208994,105783,26.1044,,,,,,,
+sertraline hcl,155137,,,Sertraline HCl; Zoloft,161680366.71,1030986094,3202060,0.1568,0.1516,unit,0.1107,0.05,1.42,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Sertraline 25mg Cap",02477882
+clopidogrel bisulfate,236991,,,Clopidogrel; Plavix,160036576.52,890667050,3410818,0.1797,0.2631,unit,0.1921,-0.01,0.94,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Clopidogrel 75mg Tab",02252767
+avapritinib,2272107,L01EX18,Antineoplastic and immunomodulating agents,Ayvakit,160026588.26,125138,547,1278.8009,,,,,,,
+avatrombopag maleate,2045727,,,Doptelet,159677266.34,392925,2329,406.381,,,,,,,
+ponatinib hcl,1364953,,,Iclusig,159531148.73,228545,1065,698.0295,,,,,,,
+venlafaxine hcl,235988,,,Effexor XR; Venlafaxine HCl; Venlafaxine HCl ER,159246560.14,440164460,1163655,0.3618,0.0913,unit,0.0667,0.3,5.42,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, ACT  Venlafaxine XR 37.5mg ER Cap",02304317
+escitalopram oxalate,353108,,,Escitalopram Oxalate; Lexapro,158593098.4,750663751,2729789,0.2113,,,,,,,
+mirtazapine,15996,N06AX11,Nervous system,Mirtazapine; Remeron,158579878.54,356726287,1648545,0.4445,0.31,unit,0.2263,0.22,1.96,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Mirtazapine 30mg Tab",02286629
+immun glob g(igg)-ifas + glycine,,,,Panzyga,157873513.21,7367700,912,21.4278,,,,,,,
+vedolizumab,1538097,L04AG05,Antineoplastic and immunomodulating agents,Entyvio; Entyvio Pen,156882357.49,22269,3697,7044.7501,,,,,,,
+prednisolone acetate,34372,,,Pred Forte; Pred Mild; Prednisolone Acetate,156735674.94,28489201,2176827,5.5016,1.94,package,1.4163,4.09,3.88,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per package, Ratio-Prednisolone 1% Oph Susp",00700401
+risdiplam,2390935,M09AX10,Musculo-skeletal system,Evrysdi,154528771.76,931202,471,165.9455,,,,,,,
+fidaxomicin,1111103,A07AA12,Alimentary tract and metabolism,Dificid,153755014.43,634050,26020,242.4967,,,,,,,
+sotorasib,2550714,L01XX73,Antineoplastic and immunomodulating agents,Lumakras,153620120.69,1259246,1563,121.9937,,,,,,,
+naloxegol oxalate,1593586,,,Movantik,153330439.93,11353715,80688,13.5049,,,,,,,
+insulin detemir,139825,A10AE05,Alimentary tract and metabolism,Levemir; Levemir Flexpen; Levemir Flextouch,152884525.27,15113203,262182,10.116,7.686,mL,5.611,4.5,1.8,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Levemir Flextouch 100U/mL Inj Sol-Pref Disp Pen 5X3mL Pk",02412829
+teprotumumab-trbw,2274802,,,Tepezza,151911672.35,10778,515,14094.6068,,,,,,,
+risperidone microspheres,,,,Risperdal Consta; Risperidone ER,150918568.81,162502,13331,928.7171,,,,,,,
+suvorexant,1547099,N05CJ01,Nervous system,Belsomra,150180014.54,10353090,77098,14.5058,,,,,,,
+c1 esterase inhibitor,1599832,,,Berinert; Cinryze; Haegarda,149717081.63,47164,296,3174.3932,,,,,,,
+valsartan,69749,C09CA03,Cardiovascular system,Diovan; Valsartan,148439850.3,382450488,1205634,0.3881,0.2098,unit,0.1532,0.23,2.53,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Valsartan 320mg Tab",02371545
+furosemide,4603,C03CA01,Cardiovascular system,Furoscix; Furosemide*; Lasix,146616106.95,1523383355,5795519,0.0962,0.0218,unit,0.0159,0.08,6.05,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Furosemide 20mg Tab",02351420
+eslicarbazepine acetate,1482501,,,Aptiom,144071383.37,3356250,8265,42.9263,4.935,unit,3.6027,39.32,11.92,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Eslicarbazepine 400mg Tab",02537958
+montelukast sodium,115713,,,Montelukast Sodium; Singulair,141975419.27,820974911,3179795,0.1729,0.2758,unit,0.2013,-0.03,0.86,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Montelukast 4mg Chew Tab",02377608
+empagliflozin + linagliptin,1598392,A10BD19,Alimentary tract and metabolism,Glyxambi,141061135.08,7249396,28725,19.4583,,,,,,,
+vutrisiran sodium,2605574,,,Amvuttra,140924646.88,596,409,236450.7498,,,,,,,
+tolvaptan,358257,C03XA01,Cardiovascular system,Jynarque; Samsca; Tolvaptan,140172264.19,471501,2256,297.2894,863.8125,package,630.6121,-333.32,0.47,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per package, Lupin-Tolvaptan (Off-Formulary Interchangeable) 45mg & 15mg 14-Tabs Pk",02557193
+pembrolizumab,1547545,L01FF02,Antineoplastic and immunomodulating agents,Keytruda,140055039.83,100706,1906,1390.7318,,,,,,,
+tucatinib,2361285,L01EH03,Antineoplastic and immunomodulating agents,Tukysa,139353829.59,720301,1182,193.4661,,,,,,,
+encorafenib,2049106,L01EC03,Antineoplastic and immunomodulating agents,Braftovi,138103680.02,1370716,1872,100.7529,,,,,,,
+fruquintinib,2670179,L01EK04,Antineoplastic and immunomodulating agents,Fruzaqla,137466500.32,201905,1935,680.8474,,,,,,,
+carvedilol,20352,C07AG02,Cardiovascular system,Carvedilol; Coreg,136247160.6,2108020582,3646738,0.0646,0.206,unit,0.1504,-0.09,0.43,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Carvedilol 25mg Tab",02247936
+raltegravir potassium,1235585,,,Isentress; Isentress Hd,135755851.86,4109079,8416,33.038,14.0301,unit,10.2424,22.8,3.23,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Isentress 400mg Tab",02301881
+latanoprost,43611,S01EE01,Sensory organs,Latanoprost; Xalatan,134865338.34,55045565,2568896,2.4501,3.8332,mL,2.7984,-0.35,0.88,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Apo-Latanoprost 0.005% Oph Sol-2.5mL Pk",02296527
+methylnaltrexone bromide,979111,A06AH01,Alimentary tract and metabolism,Relistor*,134570149.87,4486980,15616,29.9912,,,,,,,
+lisdexamfetamine dimesylate,673579,,,Lisdexamfetamine Dimesylate; Vyvanse,133327795.51,13301508,87492,10.0235,0.5692,unit,0.4155,9.61,24.12,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Lisdexamfetamine Capsules 10mg Cap",02546647
+pitolisant hcl,2197879,,,Wakix,132456457.85,527680,1402,251.0166,,,,,,,
+ferric citrate,1594675,V03AE08,Various,Auryxia,131543849.36,18180114,17163,7.2356,,,,,,,
+omeprazole + sodium bicarbonate,617777,,,Konvomep; Omeprazole-Sodium Bicarbonate; Zegerid,130105832.44,7599742,20466,17.1198,,,,,,,
+topiramate,38404,N03AX11,Nervous system,Eprontia; Qudexy XR; Topamax,130071322.16,337467775,703117,0.3854,0.2433,unit,0.1776,0.21,2.17,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Topiramate 25mg Tab",02475936
+sucralfate,10156,A02BX02,Alimentary tract and metabolism,Carafate; Sucralfate,129780785.27,497336069,851256,0.261,0.3089,unit,0.2255,0.04,1.16,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Sucralfate 1g Tab",02125250
+latanoprostene bunod,1988390,S01EE06,Sensory organs,Vyzulta,128286737.76,1297947,75825,98.8382,2.1,mL,1.5331,97.31,64.47,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Vyzulta 0.024%w/v Oph Sol",02484218
+esketamine hcl,2119366,,,Spravato,128139292.67,324493,5542,394.8913,,,,,,,
+carbamazepine,2002,N03AF01,Nervous system,Carbamazepine; Carbamazepine ER; Carbatrol,128082406.35,198214293,229289,0.6462,0.1702,unit,0.1243,0.52,5.2,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Taro-Carbamazepine 100mg Chew Tab",02244403
+simvastatin,36567,C10AA01,Cardiovascular system,Flolipid; Simvastatin; Zocor,128001839.55,1139522932,3669172,0.1123,0.1023,unit,0.0747,0.04,1.5,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Simvastatin 5mg Tab",02480050
+pitavastatin calcium,861640,,,Livalo; Pitavastatin Calcium,127641653.08,19310420,86832,6.61,,,,,,,
+olanzapine + samidorphan malate,,,,Lybalvi,127260664.12,2373291,11665,53.622,,,,,,,
+pravastatin sodium,203144,,,Pravastatin Sodium,126966414.24,704890397,2344151,0.1801,0.2916,unit,0.2129,-0.03,0.85,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Pravastatin 10mg Tab",02476142
+clobetasol propionate,21245,,,Clobetasol Propionate; Clobex; Clodan,126925951.97,147934298,1472451,0.858,0.2279,package,0.1664,0.69,5.16,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per package, Mylan-Clobetasol 0.05% Cr",02024187
+efgartigimod-hyaluronidas-qvfc,,,,Vyvgart Hytrulo,126101724.87,44499,658,2833.8103,,,,,,,
+olanzapine,61381,N05AH03,Nervous system,Olanzapine ODT; Olanzapine*; Zyprexa Zydis,125384338.04,151396372,606506,0.8282,0.1772,unit,0.1294,0.7,6.4,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Olanzapine FC 2.5mg Tab",02487608
+capmatinib hydrochloride,2362259,,,Tabrecta,124105409.21,629520,1169,197.1429,,,,,,,
+amantadine hcl,282415,,,Amantadine; Gocovri; Osmolex ER,123470222.11,54652598,109379,2.2592,0.5662,unit,0.4133,1.85,5.47,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, PDP-Amantadine Hydrochloride Capsules 100mg Cap",01990403
+plecanatide,1873752,A06AX07,Alimentary tract and metabolism,Trulance,123236395.23,6805795,44622,18.1076,,,,,,,
+isavuconazonium sulfate,1608321,,,Cresemba*,123034268.62,1143557,4665,107.5891,,,,,,,
+onabotulinumtoxina,860189,,,Botox,122282695.27,130575,35913,936.4939,,,,,,,
+insulin nph hum + reg insulin hm,,,,Humulin 70-30; Humulin 70/30 Kwikpen; Novolin 70-30,122146644.54,22842385,172744,5.3474,,,,,,,
+diclofenac epolamine,40968,,,Diclofenac Epolamine; Flector; Licart,121998917.63,10947816,38156,11.1437,,,,,,,
+molnupiravir,2587901,J05AB18,Antiinfectives for systemic use,Lagevrio (Eua),120713773.57,8260328,204150,14.6137,,,,,,,
+daptomycin,22299,J01XX09,Antiinfectives for systemic use,Daptomycin,120655232.75,2875270,35354,41.9631,,,,,,,
+letermovir,1988648,J05AX18,Antiinfectives for systemic use,Prevymis*,120450530.64,480804,3884,250.519,179.037,unit,130.703,119.82,1.92,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Lupin-Letermovir (Off-Formulary Interchangeable) 240mg Tab",02559323
+tivozanib hcl,2534245,,,Fotivda,118900828.62,85460,993,1391.3039,,,,,,,
+efinaconazole,1539753,D01AC19,Dermatologicals,Jublia,118601786.17,640533,35400,185.1611,,,,,,,
+alpelisib,2169285,L01EM03,Antineoplastic and immunomodulating agents,Piqray; Vijoice,118298214.08,259639,1219,455.6257,,,,,,,
+oxcarbazepine,32624,N03AF02,Nervous system,Oxcarbazepine; Oxcarbazepine ER; Oxtellar XR,118089543.01,139762983,207523,0.8449,0.6209,unit,0.4533,0.39,1.86,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Oxcarbazepine (Off-Formulary Interchangeable) 150mg Tab",02284294
+vismodegib,1242987,L01XJ01,Antineoplastic and immunomodulating agents,Erivedge,116769823.67,246184,1870,474.3193,,,,,,,
+lorlatinib,2103164,L01ED05,Antineoplastic and immunomodulating agents,Lorbrena,116734265.2,309298,868,377.4168,,,,,,,
+perfluorohexyloctane + pf,,,,Miebo,116305941.79,471662,48590,246.5875,,,,,,,
+fostemsavir tromethamine,2380374,,,Rukobia,115037190.62,777659,1505,147.9276,,,,,,,
+linagliptin + metformin hcl,1243019,A10BD11,Alimentary tract and metabolism,Jentadueto; Jentadueto XR,114386045.03,12703542,28205,9.0043,,,,,,,
+lotilaner,1998841,S01AX25,Sensory organs,Xdemvy,114252679.32,611898,57626,186.7184,,,,,,,
+propranolol hcl,82084,,,Inderal La; Inderal XL; Innopran XL,112120124.46,428906571,999700,0.2614,0.0813,unit,0.0594,0.2,4.4,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Teva-Propranolol 10mg Tab",00496480
+dextroamphetamine + amphetamine,253146,,,Adderall; Adderall XR; Dextroamphetamine-Amphet ER,111966169.32,129906083,369620,0.8619,,,,,,,
+ranolazine,35829,C01EB18,Cardiovascular system,Aspruzyo Sprinkle; Ranolazine ER,111440668.18,141429889,301059,0.788,3.2143,unit,2.3465,-1.56,0.34,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Mar-Ranolazine XR (Off-Formulary Interchangeable) 500mg ER Tab",02562448
+buspirone hcl,203116,,,Buspirone HCl,111220887.92,790145925,1554487,0.1408,0.2713,unit,0.1981,-0.06,0.71,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AMB-Buspirone 10mg Tab",02550555
+glucagon,4832,H04AA01,Systemic hormonal preparations,Baqsimi; Glucagen; Glucagon Emergency Kit,111156052.7,211802,162149,524.8102,160.52,package,117.185,407.63,4.48,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per package, Baqsimi 3mg Nas Pd Device",02492415
+valacyclovir hcl,236081,,,Valacyclovir; Valtrex,111093876.71,141482161,1535607,0.7852,0.6198,unit,0.4525,0.33,1.74,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Valacyclovir 500mg Tab",02295822
+oxybutynin chloride,54251,,,Gelnique; Oxybutynin Chloride; Oxybutynin Chloride ER,110865468.93,408751692,1476314,0.2712,0.0986,unit,0.072,0.2,3.77,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Oxybutynin 5mg Tab",02163543
+pacritinib citrate,2595242,,,Vonjo,110818538.14,527036,1046,210.2675,,,,,,,
+tadalafil,358263,G04BE08,Genito urinary system and sex hormones,Adcirca; Alyq; Cialis,109271419.76,19797623,89968,5.5194,3.647,unit,2.6624,2.86,2.07,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Tadalafil (Off-Formulary Interchangeable) 5mg Tab",02515989
+fingolimod hcl,1012891,,,Fingolimod; Gilenya,108295671.38,1022836,4073,105.8779,73.9096,unit,53.9565,51.92,1.96,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Fingolimod (Off-Formulary Interchangeable) 0.5mg Cap",02469936
+clozapine,2626,N05AH02,Nervous system,Clozapine; Clozapine ODT; Clozaril,108068170.68,69177519,68660,1.5622,0.6594,unit,0.4814,1.08,3.25,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AA-Clozapine Tablet (Off-Formulary Interchangeable) 25mg",02248034
+sacrosidase,214817,A16AB06,Alimentary tract and metabolism,Sucraid,107661425.15,2772748,2168,38.8284,,,,,,,
+tacrolimus,42316,D11AH01,Dermatologicals,Astagraf XL; Envarsus XR; Prograf*,107378649.46,72032840,266721,1.4907,1.0146,unit,0.7407,0.75,2.01,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Tacrolimus 0.5mg Cap",02454068
+metoprolol tartrate,203191,,,Lopressor; Metoprolol Tartrate*,107333917.87,1847039648,3854195,0.0581,0.0624,unit,0.0456,0.01,1.27,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Metoprolol-L 50mg Tab",02481316
+omadacycline tosylate,2059268,,,Nuzyra*,106622302.05,481370,4748,221.4978,,,,,,,
+gilteritinib fumarate,2105823,,,Xospata,106436061.03,350351,1048,303.7984,,,,,,,
+tapentadol hcl,857492,,,Nucynta; Nucynta ER,103850391.05,6778564,14493,15.3204,,,,,,,
+hydroxychloroquine sulfate,153972,,,Hydroxychloroquine Sulfate; Plaquenil; Sovuna,103800444.24,257066368,628127,0.4038,0.1576,unit,0.1151,0.29,3.51,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Hydroxyquine 200mg Tab",02246691
+midodrine hcl,993491,,,Midodrine HCl,103689616.44,171538691,429312,0.6045,0.1153,unit,0.0842,0.52,7.18,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Midodrine 2.5mg Tab",02278677
+tramadol hcl,82110,,,Conzip; Tramadol HCl; Tramadol HCl ER,103334767.74,816617381,4039716,0.1265,0.6386,unit,0.4662,-0.34,0.27,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Tramadol (Off-Formulary Interchangeable) 50mg Tab",02426153
+donepezil hcl,236559,,,Adlarity; Aricept; Donepezil HCl,103312122.57,407318226,1569150,0.2536,0.4586,unit,0.3348,-0.08,0.76,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Donepezil 5mg Tab",02432684
+fremanezumab-vfrm,2056690,,,Ajovy Autoinjector; Ajovy Syringe,102754399.37,224207,23990,458.3015,,,,,,,
+daratumumab-hyaluronidase-fihj,,,,Darzalex Faspro,102716642.36,163108,1125,629.7462,,,,,,,
+insulin glargine-yfgn,2563969,,,Insulin Glargine-Yfgn; Semglee (Yfgn); Semglee (Yfgn) Pen,101626297.72,9389160,228660,10.8238,4.2556,mL,3.1067,7.72,3.48,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Semglee 100U/mL Inj Sol-3mL Pref Pen",02526441
+omaveloxolone,2631931,N07XX25,Nervous system,Skyclarys,101272750.26,284534,380,355.925,,,,,,,
+nifedipine,7417,C08CA05,Cardiovascular system,Nifedipine; Nifedipine ER; Procardia XL,100748953.7,286013768,932043,0.3523,0.3679,unit,0.2686,0.08,1.31,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Nifedipine 5mg Cap",00725110
+testosterone,10379,G03BA03,Genito urinary system and sex hormones,Androderm; Androgel; Natesto,100039165.33,82973979,134399,1.2057,0.5649,unit,0.4124,0.79,2.92,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Taro-Testosterone 40mg Cap",02421186
+empaglifloz + linaglip + metformin,,,,Trijardy XR,99142501.43,7706667,21512,12.8645,,,,,,,
+fluoxetine hcl,227224,,,Fluoxetine Dr; Fluoxetine HCl; Prozac,98619582.96,539081942,1488060,0.1829,0.3311,unit,0.2417,-0.06,0.76,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Fluoxetine 20mg Cap",02485060
+selinexor,2178390,L01XX66,Antineoplastic and immunomodulating agents,Xpovio,98217996.64,21210,1103,4630.7401,,,,,,,
+tasimelteon,1490468,N05CH03,Nervous system,Hetlioz; Hetlioz Lq; Tasimelteon,98029899.84,153867,632,637.108,,,,,,,
+nebivolol hcl,236883,,,Bystolic; Nebivolol HCl,96831734.62,104687537,357845,0.925,0.7482,unit,0.5462,0.38,1.69,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, PRZ-Nebivolol (Off-Formulary Interchangeable) 5mg Tab",02548712
+finasteride,25025,D11AX10,Dermatologicals,Finasteride; Proscar,96632654.44,517732329,1835919,0.1866,0.3506,unit,0.2559,-0.07,0.73,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Finasteride 5mg Tab",02365383
+regorafenib,1312397,L01EX05,Antineoplastic and immunomodulating agents,Stivarga,96423433.02,362032,1723,266.3395,,,,,,,
+pegfilgrastim,338036,L03AA13,Antineoplastic and immunomodulating agents,Neulasta; Neulasta Onpro,96273920.24,9341,4336,10307.0381,492.0,container,359.1765,9947.86,28.7,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per container, Niopeg 6mg/0.6mL Inj Sol-0.6mL Pref Syr (Preservative-Free)",02546973
+allopurinol,519,M04AA01,Musculo-skeletal system,Allopurinol,96258249.59,797288793,2355824,0.1207,0.078,unit,0.0569,0.06,2.12,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Allopurinol Tablets 100mg Tab",00402818
+binimetinib,2049122,L01EE03,Antineoplastic and immunomodulating agents,Mektovi,96181636.3,1135546,1364,84.7008,,,,,,,
+decitabine + cedazuridine,2384456,,,Inqovi,94503101.0,58446,2928,1616.9302,,,,,,,
+"diphth,pertuss(acell),tet vac",,,,Boostrix Tdap,94390236.18,767203,1511572,123.0316,,,,,,,
+romosozumab-aqqg,2123180,,,Evenity; Evenity (2 Syringes),94003184.6,91217,8293,1030.5424,,,,,,,
+interferon beta-1b,72257,L03AB08,Antineoplastic and immunomodulating agents,Betaseron; Extavia,92863044.18,134965,1073,688.0543,,,,,,,
+fentanyl,4337,N01AH01,Nervous system,Fentanyl,92388067.67,8188412,116822,11.2828,3.32,package,2.4237,8.86,4.66,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per package, Sandoz Fentanyl Patch 12mcg/hr Trans Patch",02327112
+insulin degludec + liraglutide,1727493,A10AE56,Alimentary tract and metabolism,Xultophy 100-3.6,91255682.08,1118790,13672,81.5664,,,,,,,
+ozanimod hydrochloride,2288235,,,Zeposia,90951573.17,310628,1271,292.799,,,,,,,
+glipizide,4821,A10BB07,Alimentary tract and metabolism,Glipizide; Glipizide ER; Glipizide XL,90777417.51,904206913,2029090,0.1004,,,,,,,
+insulin nph human isophane,253181,,,Humulin N; Humulin N Kwikpen; Novolin N,90714534.04,19350061,170074,4.6881,,,,,,,
+colchicine,2683,M04AC01,Musculo-skeletal system,Colchicine; Colcrys; Gloperba,90462292.0,68829923,649200,1.3143,,,,,,,
+nirmatrelvir + ritonavir,,,,Paxlovid; Paxlovid (Eua),90384019.03,55828647,1925328,1.619,,,,,,,
+rotigotine,616739,N04BC09,Nervous system,Neupro,90068151.36,3263791,14920,27.5962,3.828,package,2.7946,24.8,9.87,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per package, Neupro 2mg/24hr Trans Patch",02403900
+memantine hcl + donepezil hcl,1430990,N06DA52,Nervous system,Namzaric,89617221.8,4614381,18217,19.4213,,,,,,,
+diclofenac potassium,81997,,,Cambia; Diclofenac Potassium; Lofena,89601543.79,23059728,160879,3.8856,0.3937,unit,0.2874,3.6,13.52,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Diclo Rapide (Off-Formulary Interchangeable) 50mg Tab",02243433
+baclofen,1292,M03BX01,Musculo-skeletal system,Baclofen*; Fleqsuvy; Gablofen,89490617.23,484485380,1358598,0.1847,0.1595,unit,0.1164,0.07,1.59,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Baclofen 10mg Tab",02139332
+azacitidine,1251,L01BC07,Antineoplastic and immunomodulating agents,Azacitidine; Onureg,89000057.11,64685,969,1375.8995,,,,,,,
+dalfampridine,897018,N07XX07,Nervous system,Ampyra; Dalfampridine ER,88742326.66,9386009,18246,9.4547,,,,,,,
+insulin lispro protamin + lispro,,,,Humalog Mix 50-50; Humalog Mix 50-50 Kwikpen; Humalog Mix 75-25,87714677.72,9215690,69345,9.518,,,,,,,
+iloperidone,73178,N05AX14,Nervous system,Fanapt,87322404.53,2032118,4229,42.9711,,,,,,,
+azelastine hcl,235824,,,Azelastine HCl*,86143660.95,113161984,1382184,0.7612,,,,,,,
+bimekizumab-bkzx,2668080,,,Bimzelx; Bimzelx Autoinjector,86097719.97,11868,1494,7254.6107,1625.0,container,1186.3046,6068.31,6.12,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per container, Bimzelx 160mg/mL Inj Sol-1mL Pref Autoinj (Preservative-Free)",02525275
+cinacalcet hcl,384379,,,Cinacalcet HCl; Sensipar,86057689.32,15492264,62462,5.5549,10.1947,unit,7.4425,-1.89,0.75,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Cinacalcet (Off-Formulary Interchangeable) 30mg Tab",02452693
+insulin aspart prot + insuln asp,,,,Insulin Aspart Prot Mix 70-30; Novolog Mix 70-30; Novolog Mix 70-30 Flexpen,85856957.96,10108688,84325,8.4934,,,,,,,
+travoprost,283809,S01EE04,Sensory organs,Travatan Z; Travoprost,85713207.13,2569289,122995,33.3607,1.576,mL,1.1505,32.21,29.0,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, IZBA 0.003% Oph Sol (with Preservative)",02457997
+selpercatinib,2370147,L01EX22,Antineoplastic and immunomodulating agents,Retevmo,84887654.49,498905,656,170.1479,,,,,,,
+verapamil hcl,203138,,,Verapamil ER; Verapamil ER PM; Verapamil HCl*,84717419.15,146631807,413685,0.5778,0.2735,unit,0.1997,0.38,2.89,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AA-Verap 80mg Tab",00782483
+olmesartan medoxomil,118463,C09CA08,Cardiovascular system,Benicar; Olmesartan Medoxomil,83161839.24,272145067,916441,0.3056,0.3019,unit,0.2204,0.09,1.39,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Olmesartan 20mg Tab",02456311
+aflibercept,1232150,L01XX44,Antineoplastic and immunomodulating agents,Eylea; Eylea Hd,82833701.38,2197,8375,37706.6999,17016.0,mL,12422.2514,25284.45,3.04,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Aflivu 2mg/0.05mL Inj Sol-0.05mL Pref Syr (Preservative-Free)",02554178
+ketoconazole,6135,D01AC08,Dermatologicals,Ketoconazole*; Ketodan,82188011.11,377663182,2001085,0.2176,0.9393,unit,0.6857,-0.47,0.32,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Ketoconazole 200mg Tab",02237235
+doxycycline hyclate,23663,,,Doryx Mpc; Doxy 100; Doxycycline Hyclate*,81986808.69,170029157,4638575,0.4822,0.456,unit,0.3329,0.15,1.45,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Doxy-Tabs 100mg Tab",00874256
+hydralazine hcl,82027,,,Hydralazine HCl*,81689817.39,921775217,1472549,0.0886,0.0355,unit,0.0259,0.06,3.42,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Hydralazine 10mg Tab",00441619
+prednisone,8640,A07EA03,Alimentary tract and metabolism,Prednisone; Prednisone Intensol; Rayos,81469404.69,539038703,7659993,0.1511,0.022,unit,0.0161,0.14,9.39,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Prednisone 5mg Tab",00312770
+spironolactone,9997,C03DA01,Cardiovascular system,Aldactone; Carospir; Spironolactone,81238913.17,601542345,2366486,0.1351,0.0405,unit,0.0296,0.11,4.56,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Jamp Spironolactone 25mg Tab",02518821
+ropeginterferon alfa-2b-njft,2587060,,,Besremi,81198105.55,9865,704,8230.9281,,,,,,,
+hydrochlorothiazide,5487,C03AA03,Cardiovascular system,Hydrochlorothiazide,81181506.45,1395580845,4944477,0.0582,0.0157,unit,0.0115,0.05,5.06,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Hydro 25 25mg Tab",00326844
+losartan + hydrochlorothiazide,214619,,,Hyzaar; Losartan-Hydrochlorothiazide,80938061.26,442853415,1483576,0.1828,,,,,,,
+paliperidone,679314,N05AX13,Nervous system,Invega; Paliperidone ER,80600246.99,14237382,52947,5.6612,4.784,unit,3.4925,2.17,1.62,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Invega 3mg ER Tab",02300273
+glycerol phenylbutyrate,1368451,A16AX09,Alimentary tract and metabolism,Ravicti,79453177.16,356800,94,222.6827,,,,,,,
+rivastigmine,183379,N06DA03,Nervous system,Exelon; Rivastigmine,79397968.49,16556760,82282,4.7955,0.6514,unit,0.4755,4.32,10.09,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Jamp Rivastigmine 3mg Cap",02485370
+loteprednol etabonate,52177,,,Alrex; Eysuvis; Inveltys,79037466.79,2193339,186600,36.0352,,,,,,,
+brinzolamide + brimonidine tart,,,,Simbrinza,78872650.7,3148053,74537,25.0544,,,,,,,
+doravirine,2055755,J05AG06,Antiinfectives for systemic use,Pifeltro,78680588.34,1352813,4774,58.1607,16.65,unit,12.1551,46.01,4.78,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Pifeltro 100mg Tab",02481545
+ripretinib,2369389,L01EX19,Antineoplastic and immunomodulating agents,Qinlock,78664212.26,172962,352,454.8063,,,,,,,
+bumetanide,1808,C03CA02,Cardiovascular system,Bumetanide*,78616303.29,182999676,570590,0.4296,,,,,,,
+lorazepam,6470,N05BA06,Nervous system,Ativan*; Lorazepam Intensol; Lorazepam*,78389819.14,400264745,1883727,0.1958,0.0359,unit,0.0262,0.17,7.47,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Lorazepam 0.5mg Tab",00655740
+icatibant acetate,1294605,,,Firazyr; Icatibant; Sajazir,78157928.13,46653,876,1675.3034,495.0,mL,361.3666,1313.94,4.64,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Icatibant Injection (Off-Formulary Interchangeable) 30mg/3mL Inj Sol-Pref Syr 3mL Pk",02547562
+ursodiol,11065,A05AA02,Alimentary tract and metabolism,Reltone; Urso; Urso Forte,78153338.53,67816908,111500,1.1524,0.3818,unit,0.2787,0.87,4.13,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Ursodiol 250mg Tab",02505363
+berotralstat hydrochloride,2467541,,,Orladeyo,77894702.6,51380,221,1516.051,,,,,,,
+amiodarone hcl,203114,,,Amiodarone HCl*; Pacerone,77834781.06,191683444,880448,0.4061,0.3706,unit,0.2706,0.14,1.5,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Amiodarone 200mg Tab",02385465
+zolpidem tartrate,221183,,,Ambien; Ambien Cr; Edluar,77816991.42,291149394,1563487,0.2673,1.1825,unit,0.8633,-0.6,0.31,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Zolpidem ODT (Off-Formulary Interchangeable) 5mg SL Tab",02436159
+alendronate sodium,203152,,,Alendronate Sodium; Binosto; Fosamax,77517294.93,95408453,2378838,0.8125,0.4987,unit,0.3641,0.45,2.23,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Alendronate Sodium Tablets 10mg Tab",02381486
+voxelotor,2265678,B06AX03,Blood and blood forming organs,Oxbryta,77189158.78,572874,1374,134.7402,,,,,,,
+alprazolam,596,N05BA12,Nervous system,Alprazolam; Alprazolam ER; Alprazolam Intensol,77177339.31,675592316,2317499,0.1142,0.0633,unit,0.0462,0.07,2.47,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Alpraz 0.25mg Tab",00865397
+dextromethorphan hbr + bupropion,,,,Auvelity,77071789.99,4147127,16448,18.5844,,,,,,,
+tizanidine hcl,236460,,,Tizanidine HCl; Zanaflex,77047981.18,561194951,2073257,0.1373,0.8758,unit,0.6394,-0.5,0.21,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Tizanidine (Off-Formulary Interchangeable) 4mg Tab",02259893
+nystatin,7597,A07AA02,Alimentary tract and metabolism,Klayesta; Nyamyc; Nystatin*,76508881.33,305041836,2114824,0.2508,0.0518,package,0.0378,0.21,6.63,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per package, Ratio-Nystatin 100000U/mL O/L",02194201
+avacopan,2572100,L04AJ05,Antineoplastic and immunomodulating agents,Tavneos,76049419.99,852750,828,89.1814,,,,,,,
+morphine sulfate,30236,,,Morphine Sulfate ER; Morphine Sulfate*; Ms Contin,75991802.66,166328537,488428,0.4569,0.0709,unit,0.0518,0.41,8.82,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, PMS-Morphine Sulfate 5mg Tab",02549794
+siponimod,2121085,L04AE03,Antineoplastic and immunomodulating agents,Mayzent,75847094.34,244980,850,309.6053,,,,,,,
+perampanel,1356552,N03AX22,Nervous system,Fycompa,75702972.16,2640126,6558,28.674,5.7128,unit,4.1705,24.5,6.88,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Taro-Perampanel 10mg Tab",02522675
+lactulose,6218,A06AD11,Alimentary tract and metabolism,Constulose; Enulose; Generlac,75077819.25,1994650800,723069,0.0376,0.0145,package,0.0106,0.03,3.55,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per package, Apo-Lactulose Solution 667mg/mL O/L",02242814
+clonazepam,2598,N03AE01,Nervous system,Clonazepam; Klonopin,74458747.71,490163232,1316477,0.1519,0.0418,unit,0.0305,0.12,4.98,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Clonazepam 0.5mg Tab",02177889
+amoxicillin + potassium clav,,,,Amoxicillin-Clavulanate Pot ER; Amoxicillin-Clavulanate Potass; Augmentin,73980701.53,147520105,5871485,0.5015,,,,,,,
+hydroxyzine hcl,154987,,,Hydroxyzine HCl*,73894140.9,354764138,1459051,0.2083,,,,,,,
+naltrexone microspheres,,,,Vivitrol,73090050.82,45062,9867,1621.9742,,,,,,,
+ondansetron,26225,A04AA01,Alimentary tract and metabolism,Ondansetron ODT,72932997.33,146302114,2945288,0.4985,2.545,unit,1.8579,-1.36,0.27,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Accel-Ondansetron ODT (Tablet) 4mg",02535319
+ertapenem sodium,353107,,,Ertapenem; Invanz,72629930.36,5602379,68211,12.9641,,,,,,,
+omega-3 acid ethyl esters,484348,,,Lovaza; Omega-3 Acid Ethyl Esters,72479742.63,171640750,259382,0.4223,,,,,,,
+solifenacin succinate,476588,,,Solifenacin Succinate; Vesicare; Vesicare Ls,71439375.91,82692231,393768,0.8639,0.3041,unit,0.222,0.64,3.89,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Solifenacin Succinate 10mg Tab",02439352
+tolterodine tartrate,221174,,,Detrol; Detrol La; Tolterodine Tartrate,71245597.38,51368260,215352,1.387,0.491,unit,0.3584,1.03,3.87,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Jamp Tolterodine 2mg Tab",02496844
+bempedoic acid,2282403,C10AX15,Cardiovascular system,Nexletol,70919859.98,5420066,30048,13.0847,,,,,,,
+bempedoic acid + ezetimibe,2283229,C10BA10,Cardiovascular system,Nexlizet,70824598.03,5418874,27149,13.07,,,,,,,
+prucalopride succinate,2107309,,,Motegrity,70660851.44,4053785,21866,17.4308,2.0145,unit,1.4707,15.96,11.85,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Prucalopride (Off-Formulary Interchangeable) 1mg Tab",02491591
+apomorphine hcl,71225,,,Apokyn; Apomorphine HCl,70580162.19,145236,612,485.9688,,,,,,,
+adagrasib,2625882,L01XX77,Antineoplastic and immunomodulating agents,Krazati,69712635.09,582380,1042,119.703,,,,,,,
+triamcinolone acetonide,10761,,,Kenalog-10; Kenalog-40; Kenalog-80,69556954.96,780154880,3906562,0.0892,0.0533,package,0.0389,0.05,2.29,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per package, Triaderm 0.1% Cr",00716960
+droxidopa,1489913,C01CA27,Cardiovascular system,Droxidopa; Northera,69490559.95,5853007,7213,11.8726,,,,,,,
+bromfenac sodium,47364,,,Bromfenac Sodium; Bromsite; Prolensa,69116469.68,797124,142709,86.7073,5.4854,mL,4.0045,82.7,21.65,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per mL, Apo-Bromfenac (Off-Formulary Interchangeable) 0.07% w/v Oph Sol (With Preservative)",02537788
+resmetirom,2677894,A05BA11,Alimentary tract and metabolism,Rezdiffra,69106676.97,523660,4626,131.9686,,,,,,,
+darunavir,460132,J05AE10,Antiinfectives for systemic use,Darunavir; Prezista,68455005.88,2804762,9578,24.4067,4.297,unit,3.137,21.27,7.78,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Darunavir 600mg Tab",02487241
+dofetilide,49247,C01BD04,Cardiovascular system,Dofetilide; Tikosyn,67578020.78,43589153,74828,1.5503,,,,,,,
+mycophenolate mofetil,68149,,,Cellcept; Mycophenolate Mofetil; Myhibbin,67356934.95,96803056,116491,0.6958,0.3712,unit,0.271,0.42,2.57,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Mycophenolate 250mg Cap",02352559
+desvenlafaxine succinate,683693,,,Desvenlafaxine Succinate ER; Pristiq,66801861.69,51226502,183264,1.304,2.3409,unit,1.7089,-0.4,0.76,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Desvenlafaxine (Off-Formulary Interchangeable) 100mg ER Tab",02466996
+doxepin hcl,203179,,,Doxepin HCl*; Silenor; Zonalon,66175426.12,78184645,292471,0.8464,0.1019,unit,0.0744,0.77,11.38,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Doxepin 10mg Cap",02049996
+glycopyrrolate + formoterol fum,,,,Bevespi Aerosphere,65535900.21,1700588,31184,38.5372,,,,,,,
+osilodrostat phosphate,2286253,,,Isturisa,65522307.7,231130,328,283.4868,,,,,,,
+ropinirole hcl,236553,,,Ropinirole ER; Ropinirole HCl,64771569.82,335770594,704591,0.1929,0.1441,unit,0.1052,0.09,1.83,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ran-Ropinirole 0.25mg Tab",02314037
+abatacept + maltose,,,,Orencia,64565143.24,45108,2034,1431.3457,,,,,,,
+cyclobenzaprine hcl,52101,,,Amrix; Cyclobenzaprine HCl; Cyclobenzaprine HCl ER,64239925.22,439705634,2727309,0.1461,,,,,,,
+pazopanib hcl,732187,,,Pazopanib HCl; Votrient,64031426.54,646508,1711,99.042,30.9655,unit,22.6059,76.44,4.38,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Eugia-Pazopanib (Off-Formulary Interchangeable) 200mg Tab",02552957
+isosorbide mononitrate,28004,C01DA14,Cardiovascular system,Isosorbide Mononitrate; Isosorbide Mononitrate ER,62826606.24,343064061,1169964,0.1831,,,,,,,
+"insulin pump cart,cont inf,bt",,,,Omnipod Dash Pods (Gen 4),62638082.1,1084558,11445,57.7545,,,,,,,
+darbepoetin alfa in polysorbat,,,,Aranesp,62541381.42,27194,6472,2299.7881,,,,,,,
+roflumilast,1091836,D05AX06,Dermatologicals,Daliresp; Roflumilast; Zoryve,62534719.17,17936555,89149,3.4864,,,,,,,
+valsartan + hydrochlorothiazide,214626,,,Diovan HCT; Valsartan-Hydrochlorothiazide,62412399.5,135893716,450134,0.4593,,,,,,,
+deucravacitinib,2612087,L04AF07,Antineoplastic and immunomodulating agents,Sotyktu,62226383.8,287087,1803,216.751,,,,,,,
+nitrofurantoin monohyd + m-cryst,,,,Macrobid; Nitrofurantoin Mono-Macro,61606951.3,64867056,2905152,0.9497,,,,,,,
+afatinib dimaleate,1430441,,,Gilotrif,61124498.75,161918,940,377.5028,,,,,,,
+methenamine hippurate,29652,,,Methenamine Hippurate,60824523.3,70075556,203337,0.868,,,,,,,
+adalimumab-adbm,2103477,,,Adalimumab-Adbm(Cf); Adalimumab-Adbm(Cf) Pen; Adalimumab-Adbm(Cf)pen,60613835.69,18844,1579,3216.5778,235.63,container,172.0178,3044.56,18.7,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per container, Abrilada 20mg/0.4mL Inj Sol-0.4mL Pref Syr (Preservative-Free)",02511061
+"sodium, potassium,mag sulfates",1007809,,,Sod Sulf-Potass Sulf-Mag Sulf; Suprep,60530440.71,327591628,891168,0.1848,,,,,,,
+metronidazole,6922,A01AB17,Alimentary tract and metabolism,Flagyl; Metrogel; Metronidazole*,60051535.87,77064262,1633328,0.7792,0.0572,unit,0.0418,0.74,18.64,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Metronidazole Tablets 250mg Tab",00545066
+talazoparib tosylate,2099703,,,Talzenna,59841806.0,120560,790,496.3653,,,,,,,
+torsemide,38413,C03CA04,Cardiovascular system,Soaanz; Torsemide,59693571.12,259286374,739316,0.2302,,,,,,,
+methotrexate sodium,287734,,,Methotrexate*; Trexall,59533995.31,114723605,553515,0.5189,0.2513,unit,0.1835,0.34,2.83,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Ach-Methotrexate 2.5mg Tab",02509067
+milnacipran hcl,30003,,,Savella,59322983.07,7457388,16606,7.9549,,,,,,,
+eluxadoline,1653781,A07DA06,Alimentary tract and metabolism,Viberzi,59221425.2,2262474,6935,26.1755,,,,,,,
+fenofibrate,8703,C10AB05,Cardiovascular system,Fenofibrate; Lipofen,59076308.06,149056737,516663,0.3963,0.356,unit,0.2599,0.14,1.52,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Sandoz Fenofibrate E 48mg Tab",02390698
+lubiprostone,623033,A06AX03,Alimentary tract and metabolism,Amitiza; Lubiprostone,59049847.02,34213430,123398,1.7259,,,,,,,
+crizotinib,1148495,L01ED01,Antineoplastic and immunomodulating agents,Xalkori,58875149.57,161955,406,363.5278,,,,,,,
+paroxetine hcl,235830,,,Paroxetine Cr; Paroxetine ER; Paroxetine HCl,57634751.3,215615146,720574,0.2673,0.325,unit,0.2373,0.03,1.13,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, AG-Paroxetine 20mg Tab",02475545
+cephalexin,2231,J01DB01,Antiinfectives for systemic use,Cephalexin,57528301.4,192802700,5317376,0.2984,0.0866,unit,0.0632,0.24,4.72,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Cephalex 250mg Tab",00768723
+irbesartan,83818,C09CA04,Cardiovascular system,Avapro; Irbesartan,57215582.88,199680332,631260,0.2865,0.2281,unit,0.1665,0.12,1.72,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Irbesartan 300mg Tab",02386984
+eplontersen sodium,2671940,,,Wainua,56861356.74,1089,251,52214.2853,,,,,,,
+"octreotide acetate,mi-spheres",,,,Octreotide Acetate ER; Sandostatin Lar Depot,56725189.94,11080,1511,5119.602,,,,,,,
+lansoprazole,17128,A02BC03,Alimentary tract and metabolism,Lansoprazole; Prevacid,56586076.26,92711229,326487,0.6103,0.5,unit,0.365,0.25,1.67,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Lansoprazole 15mg DR Cap",02293811
+dorzolamide hcl + timolol maleat,,,,Cosopt; Dorzolamide-Timolol,56337710.53,39162700,785688,1.4386,,,,,,,
+rozanolixizumab-noli,2642273,,,Rystiggo,56307918.56,18669,279,3016.1186,,,,,,,
+clobazam,21241,N05BA09,Nervous system,Clobazam; Onfi; Sympazan,56179198.83,14108904,22167,3.9818,0.2197,unit,0.1604,3.82,24.82,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Clobazam 10mg Tab",02244638
+burosumab-twza,2043854,,,Crysvita,55895510.32,4707,179,11874.9756,,,,,,,
+canakinumab + pf,,,,Ilaris,55735087.48,2996,379,18603.1667,,,,,,,
+"c1 esterase inhibitor, recomb",1599831,B06AC04,Blood and blood forming organs,Ruconest,55710878.24,7372,128,7557.0915,,,,,,,
+amitriptyline hcl,203168,,,Amitriptyline HCl,54717091.64,262587495,848297,0.2084,0.0305,unit,0.0223,0.19,9.35,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Jamp-Amitriptyline 10mg Tab",02457679
+mometasone furoate,30145,,,Asmanex; Asmanex HFA; Mometasone Furoate*,54200640.95,40209137,545274,1.348,0.2252,package,0.1644,1.18,8.2,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per package, Ratio-Mometasone 0.1% Oint",02248130
+methylphenidate hcl,203188,,,Aptensio XR; Concerta; Jornay PM,54184876.89,55478921,158234,0.9767,0.2216,unit,0.1618,0.81,6.04,"Ontario Drug Benefit formulary, lowest Drug Benefit Price per unit, Apo-Methylphenidate 10mg Tab",02249324

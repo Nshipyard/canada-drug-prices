@@ -1,0 +1,17 @@
+# dependencies
+node_modules/
+
+# next.js
+.next/
+out/
+tsconfig.tsbuildinfo
+next-env.d.ts
+
+# caches (rebuilt by scripts)
+data/odb_cache.json
+
+# logs
+*.log
+
+# OS
+.DS_Store

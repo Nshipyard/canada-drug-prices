@@ -1,0 +1,31 @@
+{
+ "molecules_matched": 194,
+ "molecules_total": 484,
+ "molecules_quarantined": 16,
+ "quarantine": {
+  "clonidine": "CMS row is the transdermal patch; ODB comparator is oral tablets",
+  "epinephrine": "CMS per-unit mixes auto-injectors (Auvi-Q, EpiPen) with ampules; ODB comparator is the cheapest ampule",
+  "ipratropium bromide": "CMS dosage unit mixes per-inhaler (Atrovent HFA) and per-vial (nebulizer solution)",
+  "tiotropium bromide": "CMS dosage unit mixes per-capsule (HandiHaler) and per-inhaler (Respimat)",
+  "beclomethasone dipropionate": "CMS mixes nasal sprays and inhalers; ODB cheapest match is a topical ointment",
+  "budesonide": "CMS per-unit mixes oral capsules, inhalers, and oral suspension",
+  "lanreotide acetate": "syringe dose mix (60/90/120mg) cannot be matched to the single ODB biosimilar product",
+  "insulin lispro-aabc": "Lyumjev (ultra-rapid) matched ODB insulin lispro (Humalog/Admelog); different products",
+  "semaglutide": "CMS per-unit mixes tablets (Rybelsus), Ozempic pens, and Wegovy pens",
+  "risankizumab-rzaa": "dose mix (75mg syringe vs 150mg pen vs on-body injector) cannot be matched to the single ODB product",
+  "infliximab": "CMS is IV vials; ODB comparator is the subcutaneous pen (Remsima SC); different routes",
+  "buprenorphine": "CMS mixes patch, buccal film, and depot injection; ODB lists only the depot syringe",
+  "buprenorphine hcl": "CMS is oral/sublingual; ODB lists only the Sublocade depot syringe",
+  "ondansetron hcl": "CMS is oral tablets; ODB query returned only the injectable (tablets sit under a different generic string)",
+  "enoxaparin sodium": "cannot determine whether the CMS dosage unit is per mL or per syringe",
+  "fluticasone propionate": "CMS dosage unit mixes inhalers and nasal spray with unclear per-unit definitions"
+ },
+ "max_ratio": 66.73,
+ "max_ratio_molecule": "Rivaroxaban",
+ "matched_spend_usd": 125535078912.25,
+ "median_ratio": 4.4,
+ "fx_usd_cad_2024": 1.3698,
+ "us_vintage": "2024, published 2026-06-25",
+ "ca_source": "Ontario Drug Benefit e-formulary, retrieved 2026-10-10",
+ "caveat": "US amounts are gross of confidential manufacturer rebates and overstate net US prices by an unknown share."
+}
