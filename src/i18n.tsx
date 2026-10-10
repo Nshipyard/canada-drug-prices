@@ -16,7 +16,7 @@ const en = {
     methodology: "Methodology",
     developers: "Developers",
     data: "Data",
-    back: "Open Nshipyard",
+    back: "All projects",
   },
   hero: {
     kicker: "US vs Canada, drug by drug",
@@ -202,7 +202,7 @@ const fr: typeof en = {
     methodology: "Méthodologie",
     developers: "Développeurs",
     data: "Données",
-    back: "Open Nshipyard",
+    back: "Tous les projets",
   },
   hero: {
     kicker: "États-Unis contre Canada, médicament par médicament",
