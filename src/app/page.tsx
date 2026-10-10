@@ -6,6 +6,7 @@ import Charts, { type RankRow, type DistBin, type AtcCell } from "@/components/C
 import Methodology from "@/components/Methodology";
 import Developers from "@/components/Developers";
 import DataSection from "@/components/DataSection";
+import ShareableCharts from "@/components/ShareableCharts";
 import { getMolecules, getInsights, gapRanking } from "@/lib/data";
 import findingsEn from "../../data/findings_en.json";
 import findingsFr from "../../data/findings_fr.json";
@@ -74,6 +75,7 @@ export default function Page() {
         <Methodology />
         <Developers />
         <DataSection />
+        <ShareableCharts projectKey="drugprices" />
       </main>
       <Footer />
     </div>
