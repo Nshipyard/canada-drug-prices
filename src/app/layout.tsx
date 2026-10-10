@@ -7,8 +7,7 @@ import "@fontsource/newsreader/400.css";
 import "@fontsource/newsreader/600.css";
 import "./globals.css";
 import { LangProvider } from "@/i18n";
-import Nav from "@/components/Nav";
-import Footer from "@/components/Footer";
+import { Nav, Footer } from "@/components/chrome";
 
 export const metadata: Metadata = {
   metadataBase: new URL("https://drugprices.canada.nshipyard.com"),
