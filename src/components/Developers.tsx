@@ -55,7 +55,7 @@ export default function Developers() {
         <McpConnect
           config={{
             slug: "molecule-price-gap",
-            displayName: "The Molecule Price Gap",
+            displayName: "The Drug Price Gap",
             exampleEn: "Look up the US vs Canada price gap for upadacitinib.",
             exampleFr: "Cherchez l'écart de prix États-Unis / Canada pour l'upadacitinib.",
           }}

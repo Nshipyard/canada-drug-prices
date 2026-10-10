@@ -3,7 +3,7 @@ import { NextResponse } from "next/server";
 const SPEC = {
   openapi: "3.1.0",
   info: {
-    title: "The Molecule Price Gap API",
+    title: "The Drug Price Gap API",
     version: "1.0.0",
     description:
       "Molecule-level US vs Canadian drug price ledger. US prices come from CMS Medicare Part D Spending by Drug 2024 and are gross of confidential manufacturer rebates, so they overstate net price by an unknown share. Canadian prices are Ontario Drug Benefit formulary Drug Benefit Prices. Independent open-source project by Richardson Dackam, not affiliated with the US CMS, the PMPRB, or any government.",

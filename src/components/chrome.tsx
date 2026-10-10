@@ -57,7 +57,7 @@ export function Nav() {
           <MapleLeaf className="h-7 w-7 text-canada" />
           <span className="flex flex-col gap-[2px] leading-none">
             <span className="text-[11px] font-semibold uppercase tracking-[0.14em] text-ink/55">Open Nshipyard</span>
-            <span className="display text-[24px]">The Molecule Price Gap</span>
+            <span className="display text-[24px]">The Drug Price Gap</span>
           </span>
         </a>
         <nav className="hidden items-center gap-7 md:flex">

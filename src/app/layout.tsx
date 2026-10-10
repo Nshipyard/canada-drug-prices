@@ -8,7 +8,7 @@ import "./globals.css";
 import { LangProvider } from "@/i18n";
 
 export const metadata: Metadata = {
-  title: "The Molecule Price Gap: what one molecule costs in the US vs Canada",
+  title: "The Drug Price Gap: what one molecule costs in the US vs Canada",
   description:
     "A molecule-level ledger of US vs Canadian drug prices, built from CMS Medicare Part D spending data and Ontario Drug Benefit formulary prices. Searchable explorer, gap ranking charts, REST API, OpenAPI docs, and MCP tools. An independent open-source project by Richardson Dackam, not affiliated with the US CMS, the PMPRB, or any government. MIT licensed.",
   icons: {

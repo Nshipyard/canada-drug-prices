@@ -1,4 +1,4 @@
-# The Molecule Price Gap
+# The Drug Price Gap
 
 What does one molecule cost in the US vs Canada? A molecule-level ledger that
 matches high-spending molecules from US Medicare Part D against Canadian
